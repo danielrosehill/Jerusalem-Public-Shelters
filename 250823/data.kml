@@ -1,0 +1,1947 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="data" id="data">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="מספר מקלט" type="float"></SimpleField>
+	<SimpleField name="x" type="float"></SimpleField>
+	<SimpleField name="y" type="float"></SimpleField>
+</Schema>
+<Folder><name>data</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">202</SimpleData>
+		<SimpleData name="מספר מקלט">602</SimpleData>
+		<SimpleData name="x">220814.8384</SimpleData>
+		<SimpleData name="y">633859.7105</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.218088,31.797088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">203</SimpleData>
+		<SimpleData name="מספר מקלט">609</SimpleData>
+		<SimpleData name="x">220720.3232</SimpleData>
+		<SimpleData name="y">633278.5041</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.217089,31.791847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">204</SimpleData>
+		<SimpleData name="מספר מקלט">643</SimpleData>
+		<SimpleData name="x">220102.5693</SimpleData>
+		<SimpleData name="y">633076.5424</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.210567,31.790026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">205</SimpleData>
+		<SimpleData name="מספר מקלט">648</SimpleData>
+		<SimpleData name="x">219927.9302</SimpleData>
+		<SimpleData name="y">632277.6732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.208722,31.782822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">206</SimpleData>
+		<SimpleData name="מספר מקלט">649</SimpleData>
+		<SimpleData name="x">220133.8722</SimpleData>
+		<SimpleData name="y">632341.6404</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.210897,31.783399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">207</SimpleData>
+		<SimpleData name="מספר מקלט">653</SimpleData>
+		<SimpleData name="x">221557.7805</SimpleData>
+		<SimpleData name="y">632162.3976</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.225929,31.781781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">208</SimpleData>
+		<SimpleData name="מספר מקלט">656</SimpleData>
+		<SimpleData name="x">220874.7825</SimpleData>
+		<SimpleData name="y">631242.6879</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.218717,31.773488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">209</SimpleData>
+		<SimpleData name="מספר מקלט">657</SimpleData>
+		<SimpleData name="x">220088.4993</SimpleData>
+		<SimpleData name="y">631872.136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.210417,31.779165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">210</SimpleData>
+		<SimpleData name="מספר מקלט">659</SimpleData>
+		<SimpleData name="x">220481.5879</SimpleData>
+		<SimpleData name="y">631378.7116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.214567,31.774715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">211</SimpleData>
+		<SimpleData name="מספר מקלט">664</SimpleData>
+		<SimpleData name="x">220829.404</SimpleData>
+		<SimpleData name="y">630852.5262</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.218238,31.76997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">212</SimpleData>
+		<SimpleData name="מספר מקלט">670</SimpleData>
+		<SimpleData name="x">220260.1891</SimpleData>
+		<SimpleData name="y">630290.8796</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.212229,31.764905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">213</SimpleData>
+		<SimpleData name="מספר מקלט">676</SimpleData>
+		<SimpleData name="x">221045.0225</SimpleData>
+		<SimpleData name="y">630141.2839</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.220512,31.763556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">214</SimpleData>
+		<SimpleData name="מספר מקלט">679</SimpleData>
+		<SimpleData name="x">221452.1369</SimpleData>
+		<SimpleData name="y">630085.2219</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.224809,31.763049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">215</SimpleData>
+		<SimpleData name="מספר מקלט">681</SimpleData>
+		<SimpleData name="x">220844.0288</SimpleData>
+		<SimpleData name="y">629644.9875</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.21839,31.75908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">216</SimpleData>
+		<SimpleData name="מספר מקלט">682</SimpleData>
+		<SimpleData name="x">220819.3816</SimpleData>
+		<SimpleData name="y">629630.1538</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.21813,31.758947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">217</SimpleData>
+		<SimpleData name="מספר מקלט">683</SimpleData>
+		<SimpleData name="x">221260.4191</SimpleData>
+		<SimpleData name="y">629684.3038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.222785,31.759434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">218</SimpleData>
+		<SimpleData name="מספר מקלט">688</SimpleData>
+		<SimpleData name="x">221088.7525</SimpleData>
+		<SimpleData name="y">628894.5874</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.220972,31.752313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">219</SimpleData>
+		<SimpleData name="מספר מקלט">692</SimpleData>
+		<SimpleData name="x">220609.6157</SimpleData>
+		<SimpleData name="y">629863.6442</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.215916,31.761052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">220</SimpleData>
+		<SimpleData name="מספר מקלט">693</SimpleData>
+		<SimpleData name="x">220387.4873</SimpleData>
+		<SimpleData name="y">629984.8715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.213572,31.762146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">221</SimpleData>
+		<SimpleData name="מספר מקלט">694</SimpleData>
+		<SimpleData name="x">220474.1256</SimpleData>
+		<SimpleData name="y">629899.3594</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.214486,31.761375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">222</SimpleData>
+		<SimpleData name="מספר מקלט">696</SimpleData>
+		<SimpleData name="x">220296.9671</SimpleData>
+		<SimpleData name="y">629827.5313</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.212616,31.760727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">223</SimpleData>
+		<SimpleData name="מספר מקלט">697</SimpleData>
+		<SimpleData name="x">220484.8709</SimpleData>
+		<SimpleData name="y">629770.9559</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.2146,31.760217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">224</SimpleData>
+		<SimpleData name="מספר מקלט">705</SimpleData>
+		<SimpleData name="x">220201.2709</SimpleData>
+		<SimpleData name="y">629520.0484</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.211606,31.757954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">225</SimpleData>
+		<SimpleData name="מספר מקלט">706</SimpleData>
+		<SimpleData name="x">220073.7037</SimpleData>
+		<SimpleData name="y">629001.2769</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.21026,31.753276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">226</SimpleData>
+		<SimpleData name="מספר מקלט">720</SimpleData>
+		<SimpleData name="x">216991.7776</SimpleData>
+		<SimpleData name="y">629137.5579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.177733,31.754502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">227</SimpleData>
+		<SimpleData name="מספר מקלט">721</SimpleData>
+		<SimpleData name="x">216915.1336</SimpleData>
+		<SimpleData name="y">629226.7164</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.176924,31.755306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">228</SimpleData>
+		<SimpleData name="מספר מקלט">731</SimpleData>
+		<SimpleData name="x">215727.5203</SimpleData>
+		<SimpleData name="y">629604.0314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.164388,31.758705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">229</SimpleData>
+		<SimpleData name="מספר מקלט">734</SimpleData>
+		<SimpleData name="x">215743</SimpleData>
+		<SimpleData name="y">629652</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.164551,31.759138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">230</SimpleData>
+		<SimpleData name="מספר מקלט">742</SimpleData>
+		<SimpleData name="x">217429.6062</SimpleData>
+		<SimpleData name="y">630356.413</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.182351,31.765495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">231</SimpleData>
+		<SimpleData name="מספר מקלט">757</SimpleData>
+		<SimpleData name="x">218810.2862</SimpleData>
+		<SimpleData name="y">629146.7851</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.196925,31.754588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">232</SimpleData>
+		<SimpleData name="מספר מקלט">760</SimpleData>
+		<SimpleData name="x">220591.9351</SimpleData>
+		<SimpleData name="y">628238.7489</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.215728,31.746399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">233</SimpleData>
+		<SimpleData name="מספר מקלט">804</SimpleData>
+		<SimpleData name="x">220892.5491</SimpleData>
+		<SimpleData name="y">630227.7389</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.218903,31.764335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">234</SimpleData>
+		<SimpleData name="מספר מקלט">806</SimpleData>
+		<SimpleData name="x">219823.3014</SimpleData>
+		<SimpleData name="y">632939.1744</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.207618,31.788788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">235</SimpleData>
+		<SimpleData name="מספר מקלט">810</SimpleData>
+		<SimpleData name="x">220616.6061</SimpleData>
+		<SimpleData name="y">631153.999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.215992,31.772689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">236</SimpleData>
+		<SimpleData name="מספר מקלט">823</SimpleData>
+		<SimpleData name="x">220937.104</SimpleData>
+		<SimpleData name="y">629783.5677</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.219373,31.76033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">237</SimpleData>
+		<SimpleData name="מספר מקלט">840</SimpleData>
+		<SimpleData name="x">215898.5855</SimpleData>
+		<SimpleData name="y">628920.4737</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.166196,31.752542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">238</SimpleData>
+		<SimpleData name="מספר מקלט">601</SimpleData>
+		<SimpleData name="x">220819.8604</SimpleData>
+		<SimpleData name="y">633942.6962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.218141,31.797837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">239</SimpleData>
+		<SimpleData name="מספר מקלט">603</SimpleData>
+		<SimpleData name="x">220979.3264</SimpleData>
+		<SimpleData name="y">633853.5931</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.219825,31.797033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">240</SimpleData>
+		<SimpleData name="מספר מקלט">604</SimpleData>
+		<SimpleData name="x">216672.7328</SimpleData>
+		<SimpleData name="y">632547.2106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.174356,31.785249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">241</SimpleData>
+		<SimpleData name="מספר מקלט">605</SimpleData>
+		<SimpleData name="x">220883.2613</SimpleData>
+		<SimpleData name="y">633665.296</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.21881,31.795335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">242</SimpleData>
+		<SimpleData name="מספר מקלט">606</SimpleData>
+		<SimpleData name="x">220399.9932</SimpleData>
+		<SimpleData name="y">633643.8883</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.213707,31.795142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">243</SimpleData>
+		<SimpleData name="מספר מקלט">607</SimpleData>
+		<SimpleData name="x">220459.0001</SimpleData>
+		<SimpleData name="y">633466.0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.21433,31.793538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">244</SimpleData>
+		<SimpleData name="מספר מקלט">608</SimpleData>
+		<SimpleData name="x">220697.2406</SimpleData>
+		<SimpleData name="y">633431.6526</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.216846,31.793228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">245</SimpleData>
+		<SimpleData name="מספר מקלט">610</SimpleData>
+		<SimpleData name="x">220829.7135</SimpleData>
+		<SimpleData name="y">633302.6542</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.218244,31.792065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">246</SimpleData>
+		<SimpleData name="מספר מקלט">611</SimpleData>
+		<SimpleData name="x">221018.052</SimpleData>
+		<SimpleData name="y">633375.5133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.220233,31.792722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">247</SimpleData>
+		<SimpleData name="מספר מקלט">612</SimpleData>
+		<SimpleData name="x">221022.5729</SimpleData>
+		<SimpleData name="y">633017.9263</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.22028,31.789497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">248</SimpleData>
+		<SimpleData name="מספר מקלט">613</SimpleData>
+		<SimpleData name="x">221149.5985</SimpleData>
+		<SimpleData name="y">633280.7834</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.221621,31.791867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">249</SimpleData>
+		<SimpleData name="מספר מקלט">614</SimpleData>
+		<SimpleData name="x">221096.7364</SimpleData>
+		<SimpleData name="y">633273.488</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.221063,31.791801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">250</SimpleData>
+		<SimpleData name="מספר מקלט">615</SimpleData>
+		<SimpleData name="x">221264.5503</SimpleData>
+		<SimpleData name="y">633265.3431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.222835,31.791728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">251</SimpleData>
+		<SimpleData name="מספר מקלט">619</SimpleData>
+		<SimpleData name="x">221302.1797</SimpleData>
+		<SimpleData name="y">633103.9246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.223232,31.790272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">252</SimpleData>
+		<SimpleData name="מספר מקלט">620</SimpleData>
+		<SimpleData name="x">220906.0001</SimpleData>
+		<SimpleData name="y">633165.0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.219049,31.790823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">253</SimpleData>
+		<SimpleData name="מספר מקלט">621</SimpleData>
+		<SimpleData name="x">220886.0001</SimpleData>
+		<SimpleData name="y">632966.0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.218838,31.789029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">254</SimpleData>
+		<SimpleData name="מספר מקלט">623</SimpleData>
+		<SimpleData name="x">221056.2288</SimpleData>
+		<SimpleData name="y">632804.3869</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.220635,31.787571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">255</SimpleData>
+		<SimpleData name="מספר מקלט">624</SimpleData>
+		<SimpleData name="x">221137.8382</SimpleData>
+		<SimpleData name="y">632995.5425</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.221497,31.789295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">256</SimpleData>
+		<SimpleData name="מספר מקלט">625</SimpleData>
+		<SimpleData name="x">221292.1309</SimpleData>
+		<SimpleData name="y">632935.1918</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.223126,31.78875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">257</SimpleData>
+		<SimpleData name="מספר מקלט">626</SimpleData>
+		<SimpleData name="x">221289.6523</SimpleData>
+		<SimpleData name="y">632947.2422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.2231,31.788859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">258</SimpleData>
+		<SimpleData name="מספר מקלט">628</SimpleData>
+		<SimpleData name="x">221305.0001</SimpleData>
+		<SimpleData name="y">632784.0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.223261,31.787387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">259</SimpleData>
+		<SimpleData name="מספר מקלט">630</SimpleData>
+		<SimpleData name="x">221531.8278</SimpleData>
+		<SimpleData name="y">632716.5061</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.225656,31.786778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">260</SimpleData>
+		<SimpleData name="מספר מקלט">634</SimpleData>
+		<SimpleData name="x">220878.7502</SimpleData>
+		<SimpleData name="y">632610.877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.218761,31.785826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">261</SimpleData>
+		<SimpleData name="מספר מקלט">635</SimpleData>
+		<SimpleData name="x">221006.4858</SimpleData>
+		<SimpleData name="y">632762.1153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.22011,31.78719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">262</SimpleData>
+		<SimpleData name="מספר מקלט">637</SimpleData>
+		<SimpleData name="x">220897.6277</SimpleData>
+		<SimpleData name="y">632747.5929</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.21896,31.787059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">263</SimpleData>
+		<SimpleData name="מספר מקלט">639</SimpleData>
+		<SimpleData name="x">220513.592</SimpleData>
+		<SimpleData name="y">632518.9435</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.214906,31.784998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">264</SimpleData>
+		<SimpleData name="מספר מקלט">641</SimpleData>
+		<SimpleData name="x">220327.3343</SimpleData>
+		<SimpleData name="y">632937.504</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.21294,31.788772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">265</SimpleData>
+		<SimpleData name="מספר מקלט">646</SimpleData>
+		<SimpleData name="x">220006.5735</SimpleData>
+		<SimpleData name="y">632566.3685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.209553,31.785426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">266</SimpleData>
+		<SimpleData name="מספר מקלט">651</SimpleData>
+		<SimpleData name="x">220824.1987</SimpleData>
+		<SimpleData name="y">632067.1877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.218184,31.780924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">267</SimpleData>
+		<SimpleData name="מספר מקלט">652</SimpleData>
+		<SimpleData name="x">221485.0001</SimpleData>
+		<SimpleData name="y">632364.0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.225161,31.783599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">268</SimpleData>
+		<SimpleData name="מספר מקלט">654</SimpleData>
+		<SimpleData name="x">221503.768</SimpleData>
+		<SimpleData name="y">632248.8085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.225359,31.78256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">269</SimpleData>
+		<SimpleData name="מספר מקלט">658</SimpleData>
+		<SimpleData name="x">220357.892</SimpleData>
+		<SimpleData name="y">631424.8819</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.213261,31.775132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">270</SimpleData>
+		<SimpleData name="מספר מקלט">663</SimpleData>
+		<SimpleData name="x">219985.0383</SimpleData>
+		<SimpleData name="y">629377.1718</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.209324,31.756666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">271</SimpleData>
+		<SimpleData name="מספר מקלט">667</SimpleData>
+		<SimpleData name="x">220083.0001</SimpleData>
+		<SimpleData name="y">630533.0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.210358,31.767089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">272</SimpleData>
+		<SimpleData name="מספר מקלט">668</SimpleData>
+		<SimpleData name="x">220031.4183</SimpleData>
+		<SimpleData name="y">630592.0792</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.209814,31.767622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">273</SimpleData>
+		<SimpleData name="מספר מקלט">669</SimpleData>
+		<SimpleData name="x">219892.3846</SimpleData>
+		<SimpleData name="y">630435.577</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.208346,31.76621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">274</SimpleData>
+		<SimpleData name="מספר מקלט">671</SimpleData>
+		<SimpleData name="x">220344.6879</SimpleData>
+		<SimpleData name="y">630389.1853</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.213121,31.765792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">275</SimpleData>
+		<SimpleData name="מספר מקלט">672</SimpleData>
+		<SimpleData name="x">220675.2878</SimpleData>
+		<SimpleData name="y">630244.5904</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.21661,31.764488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">276</SimpleData>
+		<SimpleData name="מספר מקלט">673</SimpleData>
+		<SimpleData name="x">220815.2667</SimpleData>
+		<SimpleData name="y">630116.6444</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.218087,31.763334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">277</SimpleData>
+		<SimpleData name="מספר מקלט">674</SimpleData>
+		<SimpleData name="x">220775.713</SimpleData>
+		<SimpleData name="y">630371.7768</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.21767,31.765635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">278</SimpleData>
+		<SimpleData name="מספר מקלט">677</SimpleData>
+		<SimpleData name="x">221062.0001</SimpleData>
+		<SimpleData name="y">630166.0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.220692,31.763779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">279</SimpleData>
+		<SimpleData name="מספר מקלט">678</SimpleData>
+		<SimpleData name="x">221527.1871</SimpleData>
+		<SimpleData name="y">630277.5377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.225602,31.764784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">280</SimpleData>
+		<SimpleData name="מספר מקלט">684</SimpleData>
+		<SimpleData name="x">221195</SimpleData>
+		<SimpleData name="y">629554</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.222094,31.758259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">281</SimpleData>
+		<SimpleData name="מספר מקלט">685</SimpleData>
+		<SimpleData name="x">221112.3483</SimpleData>
+		<SimpleData name="y">629368.0051</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.221222,31.756582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">282</SimpleData>
+		<SimpleData name="מספר מקלט">689</SimpleData>
+		<SimpleData name="x">221009.1336</SimpleData>
+		<SimpleData name="y">628651.4482</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.220131,31.75012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">283</SimpleData>
+		<SimpleData name="מספר מקלט">690</SimpleData>
+		<SimpleData name="x">221276.1737</SimpleData>
+		<SimpleData name="y">628484.1127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.222949,31.748611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">284</SimpleData>
+		<SimpleData name="מספר מקלט">691</SimpleData>
+		<SimpleData name="x">220845.0001</SimpleData>
+		<SimpleData name="y">628805.0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.218399,31.751505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">285</SimpleData>
+		<SimpleData name="מספר מקלט">695</SimpleData>
+		<SimpleData name="x">220492.0663</SimpleData>
+		<SimpleData name="y">629954.3635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.214676,31.761871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">286</SimpleData>
+		<SimpleData name="מספר מקלט">700</SimpleData>
+		<SimpleData name="x">219507.571</SimpleData>
+		<SimpleData name="y">630269.7864</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.204285,31.764715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">287</SimpleData>
+		<SimpleData name="מספר מקלט">702</SimpleData>
+		<SimpleData name="x">219755.4432</SimpleData>
+		<SimpleData name="y">629682.8978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.206901,31.759423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">288</SimpleData>
+		<SimpleData name="מספר מקלט">703</SimpleData>
+		<SimpleData name="x">219522.7191</SimpleData>
+		<SimpleData name="y">629253.6802</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.204444,31.755552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">289</SimpleData>
+		<SimpleData name="מספר מקלט">704</SimpleData>
+		<SimpleData name="x">220261.3765</SimpleData>
+		<SimpleData name="y">629590.2214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.212241,31.758587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">290</SimpleData>
+		<SimpleData name="מספר מקלט">707</SimpleData>
+		<SimpleData name="x">219931.1333</SimpleData>
+		<SimpleData name="y">629293.4739</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.208755,31.755911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">291</SimpleData>
+		<SimpleData name="מספר מקלט">709</SimpleData>
+		<SimpleData name="x">219500.7368</SimpleData>
+		<SimpleData name="y">629454.2438</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.204212,31.757361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">292</SimpleData>
+		<SimpleData name="מספר מקלט">710</SimpleData>
+		<SimpleData name="x">219458.8279</SimpleData>
+		<SimpleData name="y">629285.1673</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.20377,31.755836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">293</SimpleData>
+		<SimpleData name="מספר מקלט">712</SimpleData>
+		<SimpleData name="x">219622.4113</SimpleData>
+		<SimpleData name="y">629068.2689</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.205497,31.75388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">294</SimpleData>
+		<SimpleData name="מספר מקלט">714</SimpleData>
+		<SimpleData name="x">219047.3556</SimpleData>
+		<SimpleData name="y">629208.2814</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.199427,31.755143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">295</SimpleData>
+		<SimpleData name="מספר מקלט">715</SimpleData>
+		<SimpleData name="x">219152.0001</SimpleData>
+		<SimpleData name="y">629848.0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.200532,31.760912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">296</SimpleData>
+		<SimpleData name="מספר מקלט">718</SimpleData>
+		<SimpleData name="x">218453.3926</SimpleData>
+		<SimpleData name="y">629053.042</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.193159,31.753742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">297</SimpleData>
+		<SimpleData name="מספר מקלט">724</SimpleData>
+		<SimpleData name="x">216966.8409</SimpleData>
+		<SimpleData name="y">629561.5361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.177469,31.758326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">298</SimpleData>
+		<SimpleData name="מספר מקלט">726</SimpleData>
+		<SimpleData name="x">216247.4747</SimpleData>
+		<SimpleData name="y">628891.5587</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.169878,31.752282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">299</SimpleData>
+		<SimpleData name="מספר מקלט">727</SimpleData>
+		<SimpleData name="x">216234.0739</SimpleData>
+		<SimpleData name="y">629117.2596</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.169736,31.754317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">300</SimpleData>
+		<SimpleData name="מספר מקלט">728</SimpleData>
+		<SimpleData name="x">216276.0463</SimpleData>
+		<SimpleData name="y">629094.2588</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.170179,31.75411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">301</SimpleData>
+		<SimpleData name="מספר מקלט">729</SimpleData>
+		<SimpleData name="x">215781.753</SimpleData>
+		<SimpleData name="y">629241.2243</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.164962,31.755434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">302</SimpleData>
+		<SimpleData name="מספר מקלט">730</SimpleData>
+		<SimpleData name="x">215903.0954</SimpleData>
+		<SimpleData name="y">629357.7834</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.166242,31.756485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">303</SimpleData>
+		<SimpleData name="מספר מקלט">736</SimpleData>
+		<SimpleData name="x">216251.6426</SimpleData>
+		<SimpleData name="y">629774.2958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.169919,31.760242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">304</SimpleData>
+		<SimpleData name="מספר מקלט">737</SimpleData>
+		<SimpleData name="x">216391</SimpleData>
+		<SimpleData name="y">629701</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.17139,31.759582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">305</SimpleData>
+		<SimpleData name="מספר מקלט">738</SimpleData>
+		<SimpleData name="x">216501.1497</SimpleData>
+		<SimpleData name="y">629921.3947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.172552,31.76157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">306</SimpleData>
+		<SimpleData name="מספר מקלט">739</SimpleData>
+		<SimpleData name="x">216734.0193</SimpleData>
+		<SimpleData name="y">630340.1068</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.175009,31.765346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">307</SimpleData>
+		<SimpleData name="מספר מקלט">740</SimpleData>
+		<SimpleData name="x">217033</SimpleData>
+		<SimpleData name="y">630471</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.178165,31.766527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">308</SimpleData>
+		<SimpleData name="מספר מקלט">741</SimpleData>
+		<SimpleData name="x">217028.3585</SimpleData>
+		<SimpleData name="y">630503.3303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.178115,31.766819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">309</SimpleData>
+		<SimpleData name="מספר מקלט">743</SimpleData>
+		<SimpleData name="x">217578</SimpleData>
+		<SimpleData name="y">630723</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.183917,31.768801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">310</SimpleData>
+		<SimpleData name="מספר מקלט">744</SimpleData>
+		<SimpleData name="x">218123.3613</SimpleData>
+		<SimpleData name="y">631376.8772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.189672,31.774698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">311</SimpleData>
+		<SimpleData name="מספר מקלט">745</SimpleData>
+		<SimpleData name="x">218296.1815</SimpleData>
+		<SimpleData name="y">631641.1834</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.191496,31.777082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">312</SimpleData>
+		<SimpleData name="מספר מקלט">746</SimpleData>
+		<SimpleData name="x">218188.9197</SimpleData>
+		<SimpleData name="y">631819.2384</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.190364,31.778687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">313</SimpleData>
+		<SimpleData name="מספר מקלט">747</SimpleData>
+		<SimpleData name="x">218792.9561</SimpleData>
+		<SimpleData name="y">632559.3366</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.19674,31.785362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">314</SimpleData>
+		<SimpleData name="מספר מקלט">748</SimpleData>
+		<SimpleData name="x">218605.0476</SimpleData>
+		<SimpleData name="y">632794.0613</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.194756,31.787479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">315</SimpleData>
+		<SimpleData name="מספר מקלט">750</SimpleData>
+		<SimpleData name="x">219110.2267</SimpleData>
+		<SimpleData name="y">633680.1466</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.200089,31.79547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">316</SimpleData>
+		<SimpleData name="מספר מקלט">753</SimpleData>
+		<SimpleData name="x">221571.6034</SimpleData>
+		<SimpleData name="y">632592.2531</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.226076,31.785657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">317</SimpleData>
+		<SimpleData name="מספר מקלט">755</SimpleData>
+		<SimpleData name="x">218660.7813</SimpleData>
+		<SimpleData name="y">629264.6962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.195347,31.755651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">318</SimpleData>
+		<SimpleData name="מספר מקלט">756</SimpleData>
+		<SimpleData name="x">218531.5053</SimpleData>
+		<SimpleData name="y">629291.7696</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.193983,31.755895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">319</SimpleData>
+		<SimpleData name="מספר מקלט">758</SimpleData>
+		<SimpleData name="x">220643.336</SimpleData>
+		<SimpleData name="y">631453.1894</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.216274,31.775387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">320</SimpleData>
+		<SimpleData name="מספר מקלט">803</SimpleData>
+		<SimpleData name="x">215895.9482</SimpleData>
+		<SimpleData name="y">629660.6049</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.166166,31.759216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">321</SimpleData>
+		<SimpleData name="מספר מקלט">807</SimpleData>
+		<SimpleData name="x">220747.0001</SimpleData>
+		<SimpleData name="y">630810.0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.217368,31.769586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">322</SimpleData>
+		<SimpleData name="מספר מקלט">808</SimpleData>
+		<SimpleData name="x">218251.4304</SimpleData>
+		<SimpleData name="y">633109.6785</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.191022,31.790325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">323</SimpleData>
+		<SimpleData name="מספר מקלט">814</SimpleData>
+		<SimpleData name="x">216867.0505</SimpleData>
+		<SimpleData name="y">629653.8369</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.176415,31.759158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">324</SimpleData>
+		<SimpleData name="מספר מקלט">815</SimpleData>
+		<SimpleData name="x">216631</SimpleData>
+		<SimpleData name="y">629976.3515</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.173923,31.762066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">325</SimpleData>
+		<SimpleData name="מספר מקלט">816</SimpleData>
+		<SimpleData name="x">220222.7861</SimpleData>
+		<SimpleData name="y">630975.4976</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.211834,31.771079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">326</SimpleData>
+		<SimpleData name="מספר מקלט">817</SimpleData>
+		<SimpleData name="x">220110.9539</SimpleData>
+		<SimpleData name="y">629765.484</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.210653,31.760168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">327</SimpleData>
+		<SimpleData name="מספר מקלט">821</SimpleData>
+		<SimpleData name="x">220328.95</SimpleData>
+		<SimpleData name="y">632226.1797</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.212956,31.782358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">328</SimpleData>
+		<SimpleData name="מספר מקלט">822</SimpleData>
+		<SimpleData name="x">218012.9047</SimpleData>
+		<SimpleData name="y">631996.1141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.188505,31.780282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">329</SimpleData>
+		<SimpleData name="מספר מקלט">824</SimpleData>
+		<SimpleData name="x">219825.0002</SimpleData>
+		<SimpleData name="y">629213.6384</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.207635,31.755191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">330</SimpleData>
+		<SimpleData name="מספר מקלט">825</SimpleData>
+		<SimpleData name="x">219168.0679</SimpleData>
+		<SimpleData name="y">629016.5808</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.200702,31.753414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">331</SimpleData>
+		<SimpleData name="מספר מקלט">826</SimpleData>
+		<SimpleData name="x">221412.4215</SimpleData>
+		<SimpleData name="y">632618.0248</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.224395,31.78589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">332</SimpleData>
+		<SimpleData name="מספר מקלט">827</SimpleData>
+		<SimpleData name="x">216067.4458</SimpleData>
+		<SimpleData name="y">629562.597</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.167976,31.758333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">333</SimpleData>
+		<SimpleData name="מספר מקלט">828</SimpleData>
+		<SimpleData name="x">220314.7912</SimpleData>
+		<SimpleData name="y">629662.4153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.212804,31.759238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">334</SimpleData>
+		<SimpleData name="מספר מקלט">829</SimpleData>
+		<SimpleData name="x">215850.5806</SimpleData>
+		<SimpleData name="y">629000.8165</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.165689,31.753266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">335</SimpleData>
+		<SimpleData name="מספר מקלט">830</SimpleData>
+		<SimpleData name="x">220681.3863</SimpleData>
+		<SimpleData name="y">633170.6906</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.216678,31.790875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">336</SimpleData>
+		<SimpleData name="מספר מקלט">831</SimpleData>
+		<SimpleData name="x">218565.2599</SimpleData>
+		<SimpleData name="y">629243.6777</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.194339,31.755462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">337</SimpleData>
+		<SimpleData name="מספר מקלט">835</SimpleData>
+		<SimpleData name="x">220552.067</SimpleData>
+		<SimpleData name="y">631060.3919</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.21531,31.771845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">338</SimpleData>
+		<SimpleData name="מספר מקלט">836</SimpleData>
+		<SimpleData name="x">220833.2367</SimpleData>
+		<SimpleData name="y">629668.3234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.218276,31.759291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">339</SimpleData>
+		<SimpleData name="מספר מקלט">837</SimpleData>
+		<SimpleData name="x">221027.5044</SimpleData>
+		<SimpleData name="y">633475.2092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.220333,31.793621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">340</SimpleData>
+		<SimpleData name="מספר מקלט">839</SimpleData>
+		<SimpleData name="x">219904.2556</SimpleData>
+		<SimpleData name="y">632755.6901</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.208473,31.787133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">341</SimpleData>
+		<SimpleData name="מספר מקלט">841</SimpleData>
+		<SimpleData name="x">221071.5631</SimpleData>
+		<SimpleData name="y">633144.8941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.220797,31.790642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">342</SimpleData>
+		<SimpleData name="מספר מקלט">842</SimpleData>
+		<SimpleData name="x">218674.8454</SimpleData>
+		<SimpleData name="y">628936.8522</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.195496,31.752695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">343</SimpleData>
+		<SimpleData name="מספר מקלט">901</SimpleData>
+		<SimpleData name="x">216043.6813</SimpleData>
+		<SimpleData name="y">629478.111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.167725,31.757571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">344</SimpleData>
+		<SimpleData name="מספר מקלט">902</SimpleData>
+		<SimpleData name="x">216146.0745</SimpleData>
+		<SimpleData name="y">629105.225</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.168807,31.754209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">345</SimpleData>
+		<SimpleData name="מספר מקלט">903</SimpleData>
+		<SimpleData name="x">215507.2275</SimpleData>
+		<SimpleData name="y">630644.6053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.162059,31.768088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">346</SimpleData>
+		<SimpleData name="מספר מקלט">904</SimpleData>
+		<SimpleData name="x">220094.4095</SimpleData>
+		<SimpleData name="y">633028.7392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.21048,31.789595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">347</SimpleData>
+		<SimpleData name="מספר מקלט">905</SimpleData>
+		<SimpleData name="x">216284.8102</SimpleData>
+		<SimpleData name="y">629341.5354</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.170271,31.75634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">348</SimpleData>
+		<SimpleData name="מספר מקלט">906</SimpleData>
+		<SimpleData name="x">218755.6291</SimpleData>
+		<SimpleData name="y">628987.2205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.196349,31.753149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">349</SimpleData>
+		<SimpleData name="מספר מקלט">907</SimpleData>
+		<SimpleData name="x">221471.6745</SimpleData>
+		<SimpleData name="y">632982.6474</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.225021,31.789178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">350</SimpleData>
+		<SimpleData name="מספר מקלט">908</SimpleData>
+		<SimpleData name="x">221214.6665</SimpleData>
+		<SimpleData name="y">633248.0879</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.222308,31.791572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">351</SimpleData>
+		<SimpleData name="מספר מקלט">909</SimpleData>
+		<SimpleData name="x">219921.6031</SimpleData>
+		<SimpleData name="y">632942.5268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.208656,31.788818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">352</SimpleData>
+		<SimpleData name="מספר מקלט">910</SimpleData>
+		<SimpleData name="x">220483.1065</SimpleData>
+		<SimpleData name="y">633149.5849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.214584,31.790685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">353</SimpleData>
+		<SimpleData name="מספר מקלט">923</SimpleData>
+		<SimpleData name="x">220357.628</SimpleData>
+		<SimpleData name="y">629842.4745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.213257,31.760862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">354</SimpleData>
+		<SimpleData name="מספר מקלט">928</SimpleData>
+		<SimpleData name="x">220692.7113</SimpleData>
+		<SimpleData name="y">632729.0829</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.216797,31.786893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">355</SimpleData>
+		<SimpleData name="מספר מקלט">932</SimpleData>
+		<SimpleData name="x">220267.2956</SimpleData>
+		<SimpleData name="y">632254.4079</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.212305,31.782612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">356</SimpleData>
+		<SimpleData name="מספר מקלט">933</SimpleData>
+		<SimpleData name="x">218978.4869</SimpleData>
+		<SimpleData name="y">633696.5965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.198698,31.795618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">357</SimpleData>
+		<SimpleData name="מספר מקלט">935</SimpleData>
+		<SimpleData name="x">220045.0701</SimpleData>
+		<SimpleData name="y">632207.6747</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.209959,31.782191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">358</SimpleData>
+		<SimpleData name="מספר מקלט">937</SimpleData>
+		<SimpleData name="x">219974.0001</SimpleData>
+		<SimpleData name="y">629885.0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.209208,31.761245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">359</SimpleData>
+		<SimpleData name="מספר מקלט">939</SimpleData>
+		<SimpleData name="x">219135.0221</SimpleData>
+		<SimpleData name="y">631040.4688</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.200352,31.771665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">360</SimpleData>
+		<SimpleData name="מספר מקלט">940</SimpleData>
+		<SimpleData name="x">220957.974</SimpleData>
+		<SimpleData name="y">628690.7417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.219592,31.750475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">361</SimpleData>
+		<SimpleData name="מספר מקלט">947</SimpleData>
+		<SimpleData name="x">216639.9355</SimpleData>
+		<SimpleData name="y">629805.0173</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.174018,31.760521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">362</SimpleData>
+		<SimpleData name="מספר מקלט">949</SimpleData>
+		<SimpleData name="x">219734.0001</SimpleData>
+		<SimpleData name="y">630309.0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.206675,31.765069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">363</SimpleData>
+		<SimpleData name="מספר מקלט">957</SimpleData>
+		<SimpleData name="x">220822.7924</SimpleData>
+		<SimpleData name="y">633546.8286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.218171,31.794267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">364</SimpleData>
+		<SimpleData name="מספר מקלט">961</SimpleData>
+		<SimpleData name="x">220108.3017</SimpleData>
+		<SimpleData name="y">631981.5024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.210626,31.780151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">365</SimpleData>
+		<SimpleData name="מספר מקלט">963</SimpleData>
+		<SimpleData name="x">216963.7997</SimpleData>
+		<SimpleData name="y">630324.5054</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.177435,31.765206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">366</SimpleData>
+		<SimpleData name="מספר מקלט">964</SimpleData>
+		<SimpleData name="x">216766.8564</SimpleData>
+		<SimpleData name="y">629403.5436</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.175358,31.7569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">367</SimpleData>
+		<SimpleData name="מספר מקלט">965</SimpleData>
+		<SimpleData name="x">218700.7844</SimpleData>
+		<SimpleData name="y">629006.5884</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.19577,31.753324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">368</SimpleData>
+		<SimpleData name="מספר מקלט">967</SimpleData>
+		<SimpleData name="x">219936.0191</SimpleData>
+		<SimpleData name="y">629538.1146</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.208807,31.758117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">369</SimpleData>
+		<SimpleData name="מספר מקלט">969</SimpleData>
+		<SimpleData name="x">219849.8152</SimpleData>
+		<SimpleData name="y">629367.1373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.207897,31.756575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">370</SimpleData>
+		<SimpleData name="מספר מקלט">971</SimpleData>
+		<SimpleData name="x">220184.1247</SimpleData>
+		<SimpleData name="y">630582.4433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.211426,31.767535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">371</SimpleData>
+		<SimpleData name="מספר מקלט">972</SimpleData>
+		<SimpleData name="x">220387.3873</SimpleData>
+		<SimpleData name="y">631518.4928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.213572,31.775976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">372</SimpleData>
+		<SimpleData name="מספר מקלט">973</SimpleData>
+		<SimpleData name="x">220604.9783</SimpleData>
+		<SimpleData name="y">631696.8635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.215869,31.777584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">373</SimpleData>
+		<SimpleData name="מספר מקלט">974</SimpleData>
+		<SimpleData name="x">220472.4594</SimpleData>
+		<SimpleData name="y">631885.1782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.214471,31.779283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">374</SimpleData>
+		<SimpleData name="מספר מקלט">976</SimpleData>
+		<SimpleData name="x">218296.8959</SimpleData>
+		<SimpleData name="y">629203.6251</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.191507,31.7551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">375</SimpleData>
+		<SimpleData name="מספר מקלט">977</SimpleData>
+		<SimpleData name="x">218767.2212</SimpleData>
+		<SimpleData name="y">632650.6952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.196468,31.786186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">376</SimpleData>
+		<SimpleData name="מספר מקלט">978</SimpleData>
+		<SimpleData name="x">218689.1864</SimpleData>
+		<SimpleData name="y">632731.4604</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.195644,31.786914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">377</SimpleData>
+		<SimpleData name="מספר מקלט">979</SimpleData>
+		<SimpleData name="x">219166.2174</SimpleData>
+		<SimpleData name="y">633518.8905</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.20068,31.794015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">378</SimpleData>
+		<SimpleData name="מספר מקלט">980</SimpleData>
+		<SimpleData name="x">220608.8996</SimpleData>
+		<SimpleData name="y">629199.7885</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.215908,31.755066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">379</SimpleData>
+		<SimpleData name="מספר מקלט">981</SimpleData>
+		<SimpleData name="x">218298.9891</SimpleData>
+		<SimpleData name="y">629042.8243</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.191529,31.75365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">380</SimpleData>
+		<SimpleData name="מספר מקלט">983</SimpleData>
+		<SimpleData name="x">216838.0336</SimpleData>
+		<SimpleData name="y">630446.0048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.176107,31.766301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">381</SimpleData>
+		<SimpleData name="מספר מקלט">984</SimpleData>
+		<SimpleData name="x">221045.0001</SimpleData>
+		<SimpleData name="y">629881.0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.220512,31.761208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">382</SimpleData>
+		<SimpleData name="מספר מקלט">985</SimpleData>
+		<SimpleData name="x">220783.8539</SimpleData>
+		<SimpleData name="y">632541.494</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.217759,31.785201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">383</SimpleData>
+		<SimpleData name="מספר מקלט">987</SimpleData>
+		<SimpleData name="x">219830.0903</SimpleData>
+		<SimpleData name="y">629601.5887</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.207689,31.75869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">384</SimpleData>
+		<SimpleData name="מספר מקלט">988</SimpleData>
+		<SimpleData name="x">220870.3811</SimpleData>
+		<SimpleData name="y">629224.6233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.218668,31.755289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">385</SimpleData>
+		<SimpleData name="מספר מקלט">991</SimpleData>
+		<SimpleData name="x">216467.22</SimpleData>
+		<SimpleData name="y">630196.6092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.172193,31.764051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">386</SimpleData>
+		<SimpleData name="מספר מקלט">992</SimpleData>
+		<SimpleData name="x">216877.3451</SimpleData>
+		<SimpleData name="y">630065.3134</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.176523,31.762868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">387</SimpleData>
+		<SimpleData name="מספר מקלט">993</SimpleData>
+		<SimpleData name="x">216653.5733</SimpleData>
+		<SimpleData name="y">630131.8694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.174161,31.763468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">388</SimpleData>
+		<SimpleData name="מספר מקלט">995</SimpleData>
+		<SimpleData name="x">220993.7482</SimpleData>
+		<SimpleData name="y">629390.6549</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.21997,31.756787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">389</SimpleData>
+		<SimpleData name="מספר מקלט">997</SimpleData>
+		<SimpleData name="x">221796.4717</SimpleData>
+		<SimpleData name="y">638568.004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.228464,31.839545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">390</SimpleData>
+		<SimpleData name="מספר מקלט">998</SimpleData>
+		<SimpleData name="x">222972.7358</SimpleData>
+		<SimpleData name="y">634749.9002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.240876,31.805111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">391</SimpleData>
+		<SimpleData name="מספר מקלט">726</SimpleData>
+		<SimpleData name="x">216290.9494</SimpleData>
+		<SimpleData name="y">628867.9488</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.170337,31.752069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">392</SimpleData>
+		<SimpleData name="מספר מקלט">726</SimpleData>
+		<SimpleData name="x">216335.359</SimpleData>
+		<SimpleData name="y">628851.7586</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.170806,31.751923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">393</SimpleData>
+		<SimpleData name="מספר מקלט">734</SimpleData>
+		<SimpleData name="x">215784.757</SimpleData>
+		<SimpleData name="y">629642.0954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.164992,31.759049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">394</SimpleData>
+		<SimpleData name="מספר מקלט">814</SimpleData>
+		<SimpleData name="x">216865.8475</SimpleData>
+		<SimpleData name="y">629662.5053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.176402,31.759236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">395</SimpleData>
+		<SimpleData name="מספר מקלט">815</SimpleData>
+		<SimpleData name="x">216615.5097</SimpleData>
+		<SimpleData name="y">629960.0007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.173759,31.761918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">396</SimpleData>
+		<SimpleData name="מספר מקלט">975</SimpleData>
+		<SimpleData name="x">219189.1371</SimpleData>
+		<SimpleData name="y">633529.4899</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.200922,31.794111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">397</SimpleData>
+		<SimpleData name="מספר מקלט">975</SimpleData>
+		<SimpleData name="x">219207.4825</SimpleData>
+		<SimpleData name="y">633500.2582</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.201116,31.793847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">398</SimpleData>
+		<SimpleData name="מספר מקלט">975</SimpleData>
+		<SimpleData name="x">219225.8594</SimpleData>
+		<SimpleData name="y">633474.8798</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.20131,31.793619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">399</SimpleData>
+		<SimpleData name="מספר מקלט">975</SimpleData>
+		<SimpleData name="x">219245.0001</SimpleData>
+		<SimpleData name="y">633444.0001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.201512,31.79334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">400</SimpleData>
+		<SimpleData name="מספר מקלט">616</SimpleData>
+		<SimpleData name="x">221225.6232</SimpleData>
+		<SimpleData name="y">633312.5581</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.222424,31.792154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">401</SimpleData>
+		<SimpleData name="מספר מקלט">617</SimpleData>
+		<SimpleData name="x">221420.0913</SimpleData>
+		<SimpleData name="y">633101.8333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.224477,31.790253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">402</SimpleData>
+		<SimpleData name="מספר מקלט">618</SimpleData>
+		<SimpleData name="x">221222.9812</SimpleData>
+		<SimpleData name="y">633344.6286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.222396,31.792443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">403</SimpleData>
+		<SimpleData name="מספר מקלט">629</SimpleData>
+		<SimpleData name="x">221428.0599</SimpleData>
+		<SimpleData name="y">632640.4947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.22456,31.786093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">404</SimpleData>
+		<SimpleData name="מספר מקלט">632</SimpleData>
+		<SimpleData name="x">221347.0165</SimpleData>
+		<SimpleData name="y">632561.5159</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.223705,31.785381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">405</SimpleData>
+		<SimpleData name="מספר מקלט">636</SimpleData>
+		<SimpleData name="x">220954.9082</SimpleData>
+		<SimpleData name="y">632787.132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.219565,31.787416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">406</SimpleData>
+		<SimpleData name="מספר מקלט">722</SimpleData>
+		<SimpleData name="x">216828.2561</SimpleData>
+		<SimpleData name="y">629304.7202</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.176007,31.756009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">407</SimpleData>
+		<SimpleData name="מספר מקלט">723</SimpleData>
+		<SimpleData name="x">216805.4873</SimpleData>
+		<SimpleData name="y">629050.4535</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.175767,31.753716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">408</SimpleData>
+		<SimpleData name="מספר מקלט">732</SimpleData>
+		<SimpleData name="x">215772.5559</SimpleData>
+		<SimpleData name="y">629545.4224</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.164864,31.758177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">409</SimpleData>
+		<SimpleData name="מספר מקלט">751</SimpleData>
+		<SimpleData name="x">221497.8023</SimpleData>
+		<SimpleData name="y">632270.5989</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.225296,31.782757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">410</SimpleData>
+		<SimpleData name="מספר מקלט">752</SimpleData>
+		<SimpleData name="x">221604.6194</SimpleData>
+		<SimpleData name="y">632098.3817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.226423,31.781204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">411</SimpleData>
+		<SimpleData name="מספר מקלט">805</SimpleData>
+		<SimpleData name="x">220071.3353</SimpleData>
+		<SimpleData name="y">629963.2928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.210235,31.761951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">412</SimpleData>
+		<SimpleData name="מספר מקלט">809</SimpleData>
+		<SimpleData name="x">220055.9863</SimpleData>
+		<SimpleData name="y">631183.4215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.210074,31.772954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">413</SimpleData>
+		<SimpleData name="מספר מקלט">812</SimpleData>
+		<SimpleData name="x">219730.9856</SimpleData>
+		<SimpleData name="y">632889.048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.206643,31.788336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">414</SimpleData>
+		<SimpleData name="מספר מקלט">813</SimpleData>
+		<SimpleData name="x">217460.469</SimpleData>
+		<SimpleData name="y">629211.1828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.182679,31.755167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">415</SimpleData>
+		<SimpleData name="מספר מקלט">704</SimpleData>
+		<SimpleData name="x">220303.7094</SimpleData>
+		<SimpleData name="y">629575.2173</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.212687,31.758452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="OBJECTID">416</SimpleData>
+		<SimpleData name="מספר מקלט">647</SimpleData>
+		<SimpleData name="x">219640.044</SimpleData>
+		<SimpleData name="y">632557.8344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.205683,31.785349</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
