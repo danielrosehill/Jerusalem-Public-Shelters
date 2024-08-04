@@ -1,0 +1,3660 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.218088,
+                    31.797088
+                ]
+            },
+            "properties": {
+                "OBJECTID": 202.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 602.0,
+                "x": 220814.8384,
+                "y": 633859.7105,
+                "address": "5, \u05d2\u05d5\u05dc\u05d3\u05d4 \u05de\u05d0\u05d9\u05e8, \u05ea\u05dc \u05d0\u05e8\u05d6\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.217089,
+                    31.791847
+                ]
+            },
+            "properties": {
+                "OBJECTID": 203.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 609.0,
+                "x": 220720.3232,
+                "y": 633278.5041,
+                "address": "26, \u05e2\u05d6\u05e8\u05d0, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d4\u05d1\u05d5\u05db\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.210567,
+                    31.790026
+                ]
+            },
+            "properties": {
+                "OBJECTID": 204.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 643.0,
+                "x": 220102.5693,
+                "y": 633076.5424,
+                "address": "34, \u05d4\u05d8\u05d5\u05e8\u05d9\u05dd, \u05d0\u05d1\u05d5 \u05d1\u05e1\u05dc (\u05e9\u05e2\u05e8\u05d9 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd), \u05de\u05e7\u05d5\u05e8 \u05d1\u05e8\u05d5\u05da, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432531, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.208722,
+                    31.782822
+                ]
+            },
+            "properties": {
+                "OBJECTID": 205.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 648.0,
+                "x": 219927.9302,
+                "y": 632277.6732,
+                "address": "49, \u05d1\u05e6\u05dc\u05d0\u05dc, \u05d0\u05d1\u05d5 \u05d1\u05e1\u05dc (\u05e9\u05e2\u05e8\u05d9 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd), \u05e0\u05d7\u05dc\u05d0\u05d5\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432531, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.210897,
+                    31.783399
+                ]
+            },
+            "properties": {
+                "OBJECTID": 206.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 649.0,
+                "x": 220133.8722,
+                "y": 632341.6404,
+                "address": "\u05d0\u05d9\u05dc\u05ea, \u05d0\u05d1\u05d5 \u05d1\u05e1\u05dc (\u05e9\u05e2\u05e8\u05d9 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd), \u05e0\u05d7\u05dc\u05d0\u05d5\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432301, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.225929,
+                    31.781781
+                ]
+            },
+            "properties": {
+                "OBJECTID": 207.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 653.0,
+                "x": 221557.7805,
+                "y": 632162.3976,
+                "address": "\u05d3\u05e8\u05da \u05d4\u05e4\u05e0\u05ea\u05e8\u05d9\u05dd \u05d4\u05e9\u05d7\u05d5\u05e8\u05d9\u05dd, \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05de\u05d5\u05e8\u05e9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9511208, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.218717,
+                    31.773488
+                ]
+            },
+            "properties": {
+                "OBJECTID": 208.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 656.0,
+                "x": 220874.7825,
+                "y": 631242.6879,
+                "address": "4, \u05d0\u05d7\u05d3 \u05d4\u05e2\u05dd, \u05d8\u05dc\u05d1\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9214423, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.210417,
+                    31.779165
+                ]
+            },
+            "properties": {
+                "OBJECTID": 209.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 657.0,
+                "x": 220088.4993,
+                "y": 631872.136,
+                "address": "41, \u05de\u05e8\u05d3\u05db\u05d9 \u05e0\u05e8\u05e7\u05d9\u05e1, \u05e9\u05e2\u05e8\u05d9 \u05d7\u05e1\u05d3, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9107202, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.214567,
+                    31.774715
+                ]
+            },
+            "properties": {
+                "OBJECTID": 210.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 659.0,
+                "x": 220481.5879,
+                "y": 631378.7116,
+                "address": "\u05de\u05e8\u05d9\u05dd \u05d5\u05d3\u05d1, \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05e8\u05d7\u05d1\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9426222, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.218238,
+                    31.76997
+                ]
+            },
+            "properties": {
+                "OBJECTID": 211.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 664.0,
+                "x": 220829.404,
+                "y": 630852.5262,
+                "address": "7, \u05d3'\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9, \u05d8\u05dc\u05d1\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9219005, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.212229,
+                    31.764905
+                ]
+            },
+            "properties": {
+                "OBJECTID": 212.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 670.0,
+                "x": 220260.1891,
+                "y": 630290.8796,
+                "address": "\u05d7\u05d5\u05e8\u05d1, \u05db\u05d5\u05d1\u05e9\u05d9 \u05e7\u05d8\u05de\u05d5\u05df, \u05e7\u05d8\u05de\u05d5\u05df \u05d4\u05d9\u05e9\u05e0\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.220512,
+                    31.763556
+                ]
+            },
+            "properties": {
+                "OBJECTID": 213.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 676.0,
+                "x": 221045.0225,
+                "y": 630141.2839,
+                "address": "4, \u05de\u05e1\u05e8\u05d9\u05e7, \u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05d4\u05d2\u05e8\u05de\u05e0\u05d9\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9219005, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.224809,
+                    31.763049
+                ]
+            },
+            "properties": {
+                "OBJECTID": 214.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 679.0,
+                "x": 221452.1369,
+                "y": 630085.2219,
+                "address": "\u05de\u05ea\u05d7\u05dd \u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05db\u05d1\u05ea \u05d4\u05d9\u05e9\u05e0\u05d4, \u05d2\u05d1\u05e2\u05ea \u05d7\u05e0\u05e0\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9355223, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21839,
+                    31.75908
+                ]
+            },
+            "properties": {
+                "OBJECTID": 215.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 681.0,
+                "x": 220844.0288,
+                "y": 629644.9875,
+                "address": "\u05e0\u05e4\u05ea\u05dc\u05d9, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05d1\u05e7\u05e2\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9362522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21813,
+                    31.758947
+                ]
+            },
+            "properties": {
+                "OBJECTID": 216.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 682.0,
+                "x": 220819.3816,
+                "y": 629630.1538,
+                "address": "17, \u05d3\u05df, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05d1\u05e7\u05e2\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9362522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.222785,
+                    31.759434
+                ]
+            },
+            "properties": {
+                "OBJECTID": 217.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 683.0,
+                "x": 221260.4191,
+                "y": 629684.3038,
+                "address": "4, \u05d9\u05d7\u05d6\u05e7\u05d0\u05dc \u05de\u05e8\u05d8\u05d5\u05df, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05d1\u05e7\u05e2\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9338556, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.220972,
+                    31.752313
+                ]
+            },
+            "properties": {
+                "OBJECTID": 218.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 688.0,
+                "x": 221088.7525,
+                "y": 628894.5874,
+                "address": "7, \u05e9\u05dc\u05d5\u05dd \u05d9\u05d4\u05d5\u05d3\u05d4, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05d0\u05e8\u05e0\u05d5\u05e0\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9338556, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.215916,
+                    31.761052
+                ]
+            },
+            "properties": {
+                "OBJECTID": 219.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 692.0,
+                "x": 220609.6157,
+                "y": 629863.6442,
+                "address": "5, \u05d0\u05e1\u05d0, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05d4\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.213572,
+                    31.762146
+                ]
+            },
+            "properties": {
+                "OBJECTID": 220.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 693.0,
+                "x": 220387.4873,
+                "y": 629984.8715,
+                "address": "\u05d1\u05d9\u05ea \u05d0\u05dc\u05d9\u05e9\u05d1\u05e2, \u05d7\u05d6\u05e7\u05d9\u05d4\u05d5 \u05d4\u05de\u05dc\u05da, \u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05d4\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.214486,
+                    31.761375
+                ]
+            },
+            "properties": {
+                "OBJECTID": 221.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 694.0,
+                "x": 220474.1256,
+                "y": 629899.3594,
+                "address": "12, \u05d0\u05dc\u05e2\u05d6\u05e8 \u05d4\u05de\u05d5\u05d3\u05e2\u05d9, \u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05d4\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.212616,
+                    31.760727
+                ]
+            },
+            "properties": {
+                "OBJECTID": 222.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 696.0,
+                "x": 220296.9671,
+                "y": 629827.5313,
+                "address": "12, \u05d9\u05d4\u05d5\u05e9\u05d5\u05e2 \u05d1\u05df \u05d2\u05de\u05dc\u05d0, \u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05d4\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2146,
+                    31.760217
+                ]
+            },
+            "properties": {
+                "OBJECTID": 223.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 697.0,
+                "x": 220484.8709,
+                "y": 629770.9559,
+                "address": "7, \u05d0\u05dc\u05e2\u05d6\u05e8 \u05d4\u05de\u05d5\u05d3\u05e2\u05d9, \u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05d4\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.211606,
+                    31.757954
+                ]
+            },
+            "properties": {
+                "OBJECTID": 224.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 705.0,
+                "x": 220201.2709,
+                "y": 629520.0484,
+                "address": "8, \u05de\u05e2\u05d2\u05dc\u05d9 \u05d9\u05d1\u05e0\u05d4, \u05de\u05e7\u05d5\u05e8 \u05d7\u05d9\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21026,
+                    31.753276
+                ]
+            },
+            "properties": {
+                "OBJECTID": 225.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 706.0,
+                "x": 220073.7037,
+                "y": 629001.2769,
+                "address": "\u05de\u05e7\u05d5\u05e8 \u05d7\u05d9\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9339329, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.177733,
+                    31.754502
+                ]
+            },
+            "properties": {
+                "OBJECTID": 226.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 720.0,
+                "x": 216991.7776,
+                "y": 629137.5579,
+                "address": "54, \u05d0\u05d5\u05e8\u05d5\u05d2\u05d5\u05d0\u05d9, \u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.176924,
+                    31.755306
+                ]
+            },
+            "properties": {
+                "OBJECTID": 227.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 721.0,
+                "x": 216915.1336,
+                "y": 629226.7164,
+                "address": "48\u05d0, \u05d0\u05d5\u05e8\u05d5\u05d2\u05d5\u05d0\u05d9, \u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.164388,
+                    31.758705
+                ]
+            },
+            "properties": {
+                "OBJECTID": 228.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 731.0,
+                "x": 215727.5203,
+                "y": 629604.0314,
+                "address": "9\u05d0, \u05e7\u05d5\u05dc\u05d5\u05de\u05d1\u05d9\u05d4, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e7\u05e8\u05d9\u05ea \u05de\u05e0\u05d7\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9574320, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.164551,
+                    31.759138
+                ]
+            },
+            "properties": {
+                "OBJECTID": 229.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 734.0,
+                "x": 215743.0,
+                "y": 629652.0,
+                "address": "21, \u05d0\u05d9\u05e1\u05dc\u05e0\u05d3, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e7\u05e8\u05d9\u05ea \u05de\u05e0\u05d7\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9574320, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.182351,
+                    31.765495
+                ]
+            },
+            "properties": {
+                "OBJECTID": 230.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 742.0,
+                "x": 217429.6062,
+                "y": 630356.413,
+                "address": "\u05e7\u05d3\u05d9\u05e9 \u05dc\u05d5\u05d6, \u05e8\u05de\u05ea \u05d3\u05e0\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.196925,
+                    31.754588
+                ]
+            },
+            "properties": {
+                "OBJECTID": 231.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 757.0,
+                "x": 218810.2862,
+                "y": 629146.7851,
+                "address": "11, \u05d4\u05e9\u05d5\u05de\u05e8, \u05d4\u05d5\u05dc\u05d9\u05dc\u05e0\u05d3, \u05d2\u05d1\u05e2\u05ea \u05de\u05e8\u05d3\u05db\u05d9, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.215728,
+                    31.746399
+                ]
+            },
+            "properties": {
+                "OBJECTID": 232.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 760.0,
+                "x": 220591.9351,
+                "y": 628238.7489,
+                "address": "129, \u05d3\u05e8\u05da \u05d1\u05d9\u05ea \u05dc\u05d7\u05dd, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05ea\u05dc\u05e4\u05d9\u05d5\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9339329, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.218903,
+                    31.764335
+                ]
+            },
+            "properties": {
+                "OBJECTID": 233.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 804.0,
+                "x": 220892.5491,
+                "y": 630227.7389,
+                "address": "10, \u05d4\u05d9\u05dc\u05d3\u05e1\u05d4\u05d9\u05d9\u05de\u05e8, \u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05d4\u05d2\u05e8\u05de\u05e0\u05d9\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9219005, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.207618,
+                    31.788788
+                ]
+            },
+            "properties": {
+                "OBJECTID": 234.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 806.0,
+                "x": 219823.3014,
+                "y": 632939.1744,
+                "address": "70, \u05e8\u05e9\"\u05d9, \u05d0\u05d1\u05d5 \u05d1\u05e1\u05dc (\u05e9\u05e2\u05e8\u05d9 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd), \u05de\u05e7\u05d5\u05e8 \u05d1\u05e8\u05d5\u05da, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432531, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.215992,
+                    31.772689
+                ]
+            },
+            "properties": {
+                "OBJECTID": 235.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 810.0,
+                "x": 220616.6061,
+                "y": 631153.999,
+                "address": "8, \u05e2\u05d5\u05d1\u05d3\u05d9\u05d4 \u05de\u05d1\u05e8\u05d8\u05e0\u05d5\u05e8\u05d4, \u05d8\u05dc\u05d1\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9214423, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.219373,
+                    31.76033
+                ]
+            },
+            "properties": {
+                "OBJECTID": 236.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 823.0,
+                "x": 220937.104,
+                "y": 629783.5677,
+                "address": "20, \u05d2\u05d3\u05e2\u05d5\u05df, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05d1\u05e7\u05e2\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9362522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.166196,
+                    31.752542
+                ]
+            },
+            "properties": {
+                "OBJECTID": 237.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 840.0,
+                "x": 215898.5855,
+                "y": 628920.4737,
+                "address": "26, \u05d4\u05d0\u05d1\u05d9\u05d1\u05d9\u05ea, \u05d2\u05d1\u05e2\u05ea \u05de\u05e9\u05d5\u05d0\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.218141,
+                    31.797837
+                ]
+            },
+            "properties": {
+                "OBJECTID": 238.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 601.0,
+                "x": 220819.8604,
+                "y": 633942.6962,
+                "address": "\u05d4\u05d0\u05d3\u05de\u05d5\"\u05e8\u05d9\u05dd \u05dc\u05d9\u05d9\u05e0\u05e2\u05e8, \u05e1\u05e0\u05d4\u05d3\u05e8\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9752059, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.219825,
+                    31.797033
+                ]
+            },
+            "properties": {
+                "OBJECTID": 239.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 603.0,
+                "x": 220979.3264,
+                "y": 633853.5931,
+                "address": "5, \u05d4\u05e8\u05d1 \u05d1\u05dc\u05d5\u05d9, \u05e1\u05e0\u05d4\u05d3\u05e8\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.174356,
+                    31.785249
+                ]
+            },
+            "properties": {
+                "OBJECTID": 240.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 604.0,
+                "x": 216672.7328,
+                "y": 632547.2106,
+                "address": "51, \u05d4\u05e8\u05d1 \u05e9\u05d0\u05d5\u05dc\u05d6\u05d5\u05df, \u05d4\u05e8 \u05e0\u05d5\u05e3, \u05d9\u05e4\u05d4 \u05e0\u05d5\u05e3, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546105, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21881,
+                    31.795335
+                ]
+            },
+            "properties": {
+                "OBJECTID": 241.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 605.0,
+                "x": 220883.2613,
+                "y": 633665.296,
+                "address": "10, \u05d1\u05e8 \u05d0\u05d9\u05dc\u05df, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05ea\u05dc \u05d0\u05e8\u05d6\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.213707,
+                    31.795142
+                ]
+            },
+            "properties": {
+                "OBJECTID": 242.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 606.0,
+                "x": 220399.9932,
+                "y": 633643.8883,
+                "address": "9, \u05e4\u05e0\u05d9\u05e0\u05d4, \u05e7\u05e8\u05d9\u05ea \u05e6\u05d0\u05e0\u05d6, \u05ea\u05dc \u05d0\u05e8\u05d6\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432531, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21433,
+                    31.793538
+                ]
+            },
+            "properties": {
+                "OBJECTID": 243.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 607.0,
+                "x": 220459.0001,
+                "y": 633466.0001,
+                "address": "10, \u05d9\u05e8\u05de\u05d9\u05d4\u05d5, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05ea\u05dc \u05d0\u05e8\u05d6\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432531, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.216846,
+                    31.793228
+                ]
+            },
+            "properties": {
+                "OBJECTID": 244.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 608.0,
+                "x": 220697.2406,
+                "y": 633431.6526,
+                "address": "24, \u05e8\u05d7\u05d5\u05d1\u05d5\u05ea \u05d4\u05d1\u05d5\u05db\u05e8\u05d9\u05dd, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d4\u05d1\u05d5\u05db\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.218244,
+                    31.792065
+                ]
+            },
+            "properties": {
+                "OBJECTID": 245.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 610.0,
+                "x": 220829.7135,
+                "y": 633302.6542,
+                "address": "27, \u05d9\u05e9\u05d0 \u05d1\u05e8\u05db\u05d4, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d4\u05d1\u05d5\u05db\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.220233,
+                    31.792722
+                ]
+            },
+            "properties": {
+                "OBJECTID": 246.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 611.0,
+                "x": 221018.052,
+                "y": 633375.5133,
+                "address": "24, \u05e8\u05d1\u05e0\u05d5 \u05d2\u05e8\u05e9\u05d5\u05dd, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d4\u05d1\u05d5\u05db\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.22028,
+                    31.789497
+                ]
+            },
+            "properties": {
+                "OBJECTID": 247.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 612.0,
+                "x": 221022.5729,
+                "y": 633017.9263,
+                "address": "12, \u05d0\u05d1\u05d9\u05e0\u05d5\u05e2\u05dd \u05d9\u05dc\u05d9\u05df, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d2\u05d0\u05d5\u05dc\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.221621,
+                    31.791867
+                ]
+            },
+            "properties": {
+                "OBJECTID": 248.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 613.0,
+                "x": 221149.5985,
+                "y": 633280.7834,
+                "address": "8, \u05e8\u05d1\u05e0\u05d5 \u05d2\u05e8\u05e9\u05d5\u05dd, \u05d1\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.221063,
+                    31.791801
+                ]
+            },
+            "properties": {
+                "OBJECTID": 249.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 614.0,
+                "x": 221096.7364,
+                "y": 633273.488,
+                "address": "15, \u05e9\u05dc\u05de\u05d4 \u05de\u05d5\u05e1\u05d9\u05d5\u05e3, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d4\u05d1\u05d5\u05db\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.222835,
+                    31.791728
+                ]
+            },
+            "properties": {
+                "OBJECTID": 250.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 615.0,
+                "x": 221264.5503,
+                "y": 633265.3431,
+                "address": "23, \u05d1\u05e6\u05dc\u05d0\u05dc \u05d0\u05e9\u05db\u05e0\u05d6\u05d9, \u05d1\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.223232,
+                    31.790272
+                ]
+            },
+            "properties": {
+                "OBJECTID": 251.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 619.0,
+                "x": 221302.1797,
+                "y": 633103.9246,
+                "address": "\u05e8\u05d9\u05d9\u05db\u05de\u05df \u05d9\u05d4\u05d5\u05e9\u05e2, \u05d1\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.219049,
+                    31.790823
+                ]
+            },
+            "properties": {
+                "OBJECTID": 252.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 620.0,
+                "x": 220906.0001,
+                "y": 633165.0001,
+                "address": "17, \u05e2\u05d6\u05e8\u05d0, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d4\u05d1\u05d5\u05db\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.218838,
+                    31.789029
+                ]
+            },
+            "properties": {
+                "OBJECTID": 253.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 621.0,
+                "x": 220886.0001,
+                "y": 632966.0001,
+                "address": "18, \u05d7\u05d2\u05d9, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d2\u05d0\u05d5\u05dc\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.220635,
+                    31.787571
+                ]
+            },
+            "properties": {
+                "OBJECTID": 254.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 623.0,
+                "x": 221056.2288,
+                "y": 632804.3869,
+                "address": "15, \u05e2\u05d1\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05de\u05d0\u05d4 \u05e9\u05e2\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.221497,
+                    31.789295
+                ]
+            },
+            "properties": {
+                "OBJECTID": 255.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 624.0,
+                "x": 221137.8382,
+                "y": 632995.5425,
+                "address": "\u05d9\u05d4\u05d5\u05e9\u05e2 \u05e8\u05d9\u05d9\u05db\u05de\u05df, \u05d1\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.223126,
+                    31.78875
+                ]
+            },
+            "properties": {
+                "OBJECTID": 256.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 625.0,
+                "x": 221292.1309,
+                "y": 632935.1918,
+                "address": "\u05d9\u05d5\u05d7\u05e0\u05df \u05d9\u05d5\u05e1\u05e3 \u05de\u05d6\u05e8\u05d7\u05d9, \u05d1\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2231,
+                    31.788859
+                ]
+            },
+            "properties": {
+                "OBJECTID": 257.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 626.0,
+                "x": 221289.6523,
+                "y": 632947.2422,
+                "address": "\u05d9\u05d5\u05d7\u05e0\u05df \u05d9\u05d5\u05e1\u05e3 \u05de\u05d6\u05e8\u05d7\u05d9, \u05d1\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.223261,
+                    31.787387
+                ]
+            },
+            "properties": {
+                "OBJECTID": 258.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 628.0,
+                "x": 221305.0001,
+                "y": 632784.0001,
+                "address": "1, \u05d4\u05e8\u05d1 \u05d6\u05d5\u05e0\u05e0\u05e4\u05dc\u05d3, \u05d1\u05ea\u05d9 \u05d0\u05d5\u05e0\u05d2\u05e8\u05d9\u05df, \u05d1\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.225656,
+                    31.786778
+                ]
+            },
+            "properties": {
+                "OBJECTID": 259.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 630.0,
+                "x": 221531.8278,
+                "y": 632716.5061,
+                "address": "6, \u05e9\u05d5\u05de\u05e8\u05d9 \u05d0\u05de\u05d5\u05e0\u05d9\u05dd, \u05d1\u05ea\u05d9 \u05d0\u05d5\u05e0\u05d2\u05e8\u05d9\u05df, \u05d1\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9511208, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.218761,
+                    31.785826
+                ]
+            },
+            "properties": {
+                "OBJECTID": 260.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 634.0,
+                "x": 220878.7502,
+                "y": 632610.877,
+                "address": "\u05de\u05e1\u05d5\u05e3 \u05d0\u05d2\u05d3/\u05e9\u05d8\u05e8\u05d0\u05d5\u05e1, \u05e9\u05d8\u05e8\u05d0\u05d5\u05e1, \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05de\u05d0\u05d4 \u05e9\u05e2\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9422904, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.22011,
+                    31.78719
+                ]
+            },
+            "properties": {
+                "OBJECTID": 261.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 635.0,
+                "x": 221006.4858,
+                "y": 632762.1153,
+                "address": "3, \u05dc\u05d5\u05d9 \u05d9\u05e6\u05d7\u05e7 \u05de\u05d1\u05e8\u05d3\u05d9\u05e6'\u05d1, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05de\u05d0\u05d4 \u05e9\u05e2\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21896,
+                    31.787059
+                ]
+            },
+            "properties": {
+                "OBJECTID": 262.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 637.0,
+                "x": 220897.6277,
+                "y": 632747.5929,
+                "address": "26, \u05e9\u05d8\u05e8\u05d0\u05d5\u05e1, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05de\u05d0\u05d4 \u05e9\u05e2\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.214906,
+                    31.784998
+                ]
+            },
+            "properties": {
+                "OBJECTID": 263.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 639.0,
+                "x": 220513.592,
+                "y": 632518.9435,
+                "address": "\u05e4\u05d9\u05e0\u05e1, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d6\u05db\u05e8\u05d5\u05df \u05de\u05e9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432301, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21294,
+                    31.788772
+                ]
+            },
+            "properties": {
+                "OBJECTID": 264.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 641.0,
+                "x": 220327.3343,
+                "y": 632937.504,
+                "address": "14, \u05de\u05e8\u05d3\u05db\u05d9 \u05e6\u05d1\u05d9 \u05d0\u05d9\u05dc\u05df, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05de\u05e7\u05d5\u05e8 \u05d1\u05e8\u05d5\u05da, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432301, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.209553,
+                    31.785426
+                ]
+            },
+            "properties": {
+                "OBJECTID": 265.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 646.0,
+                "x": 220006.5735,
+                "y": 632566.3685,
+                "address": "\u05e9\u05d5\u05e7\u05e0\u05d9\u05d5\u05df, \u05d4\u05e8\u05d1 \u05e9\u05de\u05d5\u05d0\u05dc \u05d1\u05e8\u05d5\u05da, \u05d0\u05d1\u05d5 \u05d1\u05e1\u05dc (\u05e9\u05e2\u05e8\u05d9 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd), \u05e0\u05d7\u05dc\u05d0\u05d5\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432531, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.218184,
+                    31.780924
+                ]
+            },
+            "properties": {
+                "OBJECTID": 266.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 651.0,
+                "x": 220824.1987,
+                "y": 632067.1877,
+                "address": "Cinema Hostel, \u05e9\u05de\u05d0\u05d9, \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05de\u05d2\u05e8\u05e9 \u05d4\u05e8\u05d5\u05e1\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9423005, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.225161,
+                    31.783599
+                ]
+            },
+            "properties": {
+                "OBJECTID": 267.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 652.0,
+                "x": 221485.0001,
+                "y": 632364.0001,
+                "address": "31, \u05d4\u05dc\u05e0\u05d9 \u05d4\u05de\u05dc\u05db\u05d4, \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05de\u05d5\u05e8\u05e9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9511208, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.225359,
+                    31.78256
+                ]
+            },
+            "properties": {
+                "OBJECTID": 268.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 654.0,
+                "x": 221503.768,
+                "y": 632248.8085,
+                "address": "7, \u05d3\u05e0\u05d9\u05d0\u05dc, \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05de\u05d5\u05e8\u05e9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9511208, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.213261,
+                    31.775132
+                ]
+            },
+            "properties": {
+                "OBJECTID": 269.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 658.0,
+                "x": 220357.892,
+                "y": 631424.8819,
+                "address": "20, \u05d0\u05d1\u05e8\u05d1\u05d0\u05e0\u05dc, \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05e8\u05d7\u05d1\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9426222, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.209324,
+                    31.756666
+                ]
+            },
+            "properties": {
+                "OBJECTID": 270.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 663.0,
+                "x": 219985.0383,
+                "y": 629377.1718,
+                "address": "\u05d9\u05d5\u05e1\u05d9 \u05d1\u05df \u05d9\u05d5\u05e2\u05d6\u05e8, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.210358,
+                    31.767089
+                ]
+            },
+            "properties": {
+                "OBJECTID": 271.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 667.0,
+                "x": 220083.0001,
+                "y": 630533.0001,
+                "address": "27, \u05d4\u05e4\u05dc\u05de\"\u05d7, \u05e7\u05d8\u05de\u05d5\u05df \u05d4\u05d9\u05e9\u05e0\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9218812, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.209814,
+                    31.767622
+                ]
+            },
+            "properties": {
+                "OBJECTID": 272.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 668.0,
+                "x": 220031.4183,
+                "y": 630592.0792,
+                "address": "32, \u05d4\u05e4\u05dc\u05de\"\u05d7, \u05e7\u05d8\u05de\u05d5\u05df \u05d4\u05d9\u05e9\u05e0\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9218812, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.208346,
+                    31.76621
+                ]
+            },
+            "properties": {
+                "OBJECTID": 273.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 669.0,
+                "x": 219892.3846,
+                "y": 630435.577,
+                "address": "4, \u05e0\u05d9\u05dc\"\u05d9, \u05e7\u05d8\u05de\u05d5\u05df \u05d4\u05d9\u05e9\u05e0\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.213121,
+                    31.765792
+                ]
+            },
+            "properties": {
+                "OBJECTID": 274.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 671.0,
+                "x": 220344.6879,
+                "y": 630389.1853,
+                "address": "33, \u05db\"\u05d8 \u05d1\u05e0\u05d5\u05d1\u05de\u05d1\u05e8, \u05e7\u05e8\u05d9\u05ea \u05e9\u05de\u05d5\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9219005, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21661,
+                    31.764488
+                ]
+            },
+            "properties": {
+                "OBJECTID": 275.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 672.0,
+                "x": 220675.2878,
+                "y": 630244.5904,
+                "address": "7, \u05d7\u05d9\u05d9\u05dd \u05d1\u05d2'\u05d0\u05d9\u05d5, \u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05d4\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.218087,
+                    31.763334
+                ]
+            },
+            "properties": {
+                "OBJECTID": 276.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 673.0,
+                "x": 220815.2667,
+                "y": 630116.6444,
+                "address": "6, \u05e8\u05d7\u05dc \u05d0\u05de\u05e0\u05d5, \u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05d4\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21767,
+                    31.765635
+                ]
+            },
+            "properties": {
+                "OBJECTID": 277.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 674.0,
+                "x": 220775.713,
+                "y": 630371.7768,
+                "address": "\u05d7\u05e1\u05d3\u05d9 \u05d0\u05de\u05ea, \u05d4\u05e6\u05e4\u05d9\u05e8\u05d4, \u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05d4\u05d2\u05e8\u05de\u05e0\u05d9\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9219005, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.220692,
+                    31.763779
+                ]
+            },
+            "properties": {
+                "OBJECTID": 278.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 677.0,
+                "x": 221062.0001,
+                "y": 630166.0001,
+                "address": "5, \u05de\u05e1\u05e8\u05d9\u05e7, \u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05d4\u05d2\u05e8\u05de\u05e0\u05d9\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9219005, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.225602,
+                    31.764784
+                ]
+            },
+            "properties": {
+                "OBJECTID": 279.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 678.0,
+                "x": 221527.1871,
+                "y": 630277.5377,
+                "address": "45, \u05d7\u05d1\u05e8\u05d5\u05df, \u05d2\u05d1\u05e2\u05ea \u05d7\u05e0\u05e0\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9108402, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.222094,
+                    31.758259
+                ]
+            },
+            "properties": {
+                "OBJECTID": 280.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 684.0,
+                "x": 221195.0,
+                "y": 629554.0,
+                "address": "15, \u05de\u05e8\u05d3\u05db\u05d9 \u05d4\u05d9\u05d4\u05d5\u05d3\u05d9, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05d1\u05e7\u05e2\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9338556, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.221222,
+                    31.756582
+                ]
+            },
+            "properties": {
+                "OBJECTID": 281.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 685.0,
+                "x": 221112.3483,
+                "y": 629368.0051,
+                "address": "3, \u05d9\u05d4\u05d5\u05d3\u05d4, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05d1\u05e7\u05e2\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9338556, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.220131,
+                    31.75012
+                ]
+            },
+            "properties": {
+                "OBJECTID": 282.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 689.0,
+                "x": 221009.1336,
+                "y": 628651.4482,
+                "address": "23\u05d0, \u05e9\u05dc\u05d5\u05dd \u05d9\u05d4\u05d5\u05d3\u05d4, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05d0\u05e8\u05e0\u05d5\u05e0\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9338556, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.222949,
+                    31.748611
+                ]
+            },
+            "properties": {
+                "OBJECTID": 283.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 690.0,
+                "x": 221276.1737,
+                "y": 628484.1127,
+                "address": "6, \u05dc\u05d9\u05d9\u05d1 \u05d9\u05e4\u05d4, \u05d0\u05e8\u05e0\u05d5\u05e0\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9378322, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.218399,
+                    31.751505
+                ]
+            },
+            "properties": {
+                "OBJECTID": 284.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 691.0,
+                "x": 220845.0001,
+                "y": 628805.0001,
+                "address": "\u05de\u05e2\u05e9\u05d4 \u05d7\u05d5\u05e9\u05d1, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05ea\u05dc\u05e4\u05d9\u05d5\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9362522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.214676,
+                    31.761871
+                ]
+            },
+            "properties": {
+                "OBJECTID": 285.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 695.0,
+                "x": 220492.0663,
+                "y": 629954.3635,
+                "address": "5, \u05d0\u05de\u05e6\u05d9\u05d4, \u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05d4\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.204285,
+                    31.764715
+                ]
+            },
+            "properties": {
+                "OBJECTID": 286.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 700.0,
+                "x": 219507.571,
+                "y": 630269.7864,
+                "address": "\u05e8\u05e1\u05e7\u05d5 (\u05d2\u05d1\u05e2\u05ea \u05d4\u05d5\u05d5\u05e8\u05d3\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.206901,
+                    31.759423
+                ]
+            },
+            "properties": {
+                "OBJECTID": 287.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 702.0,
+                "x": 219755.4432,
+                "y": 629682.8978,
+                "address": "\u05de\u05e2\u05dc\u05d4 \u05d6\u05d0\u05d1, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.204444,
+                    31.755552
+                ]
+            },
+            "properties": {
+                "OBJECTID": 288.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 703.0,
+                "x": 219522.7191,
+                "y": 629253.6802,
+                "address": "3, \u05d0\u05dc\u05d9\u05e2\u05d6\u05e8 \u05d4\u05d2\u05d3\u05d5\u05dc, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.212241,
+                    31.758587
+                ]
+            },
+            "properties": {
+                "OBJECTID": 289.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 704.0,
+                "x": 220261.3765,
+                "y": 629590.2214,
+                "address": "5, \u05de\u05e2\u05d2\u05dc\u05d9 \u05d9\u05d1\u05e0\u05d4, \u05de\u05e7\u05d5\u05e8 \u05d7\u05d9\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.208755,
+                    31.755911
+                ]
+            },
+            "properties": {
+                "OBJECTID": 290.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 707.0,
+                "x": 219931.1333,
+                "y": 629293.4739,
+                "address": "29\u05d0, \u05d9\u05d5\u05e1\u05d9 \u05d1\u05df \u05d9\u05d5\u05e2\u05d6\u05e8, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.204212,
+                    31.757361
+                ]
+            },
+            "properties": {
+                "OBJECTID": 291.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 709.0,
+                "x": 219500.7368,
+                "y": 629454.2438,
+                "address": "6, \u05d1\u05e0\u05d9 \u05d1\u05ea\u05d9\u05e8\u05d0, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.20377,
+                    31.755836
+                ]
+            },
+            "properties": {
+                "OBJECTID": 292.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 710.0,
+                "x": 219458.8279,
+                "y": 629285.1673,
+                "address": "23\u05d0, \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d4\u05e0\u05e9\u05d9\u05d0, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.205497,
+                    31.75388
+                ]
+            },
+            "properties": {
+                "OBJECTID": 293.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 712.0,
+                "x": 219622.4113,
+                "y": 629068.2689,
+                "address": "6, \u05d0\u05dc\u05d9\u05e2\u05d6\u05e8 \u05d4\u05d2\u05d3\u05d5\u05dc, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.199427,
+                    31.755143
+                ]
+            },
+            "properties": {
+                "OBJECTID": 294.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 714.0,
+                "x": 219047.3556,
+                "y": 629208.2814,
+                "address": "\u05d9\u05e2\u05e7\u05d1 \u05e4\u05ea, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.200532,
+                    31.760912
+                ]
+            },
+            "properties": {
+                "OBJECTID": 295.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 715.0,
+                "x": 219152.0001,
+                "y": 629848.0001,
+                "address": "\u05d4\u05e8\u05d1 \u05d4\u05e8\u05e6\u05d5\u05d2, \u05e8\u05e1\u05e7\u05d5 (\u05d2\u05d1\u05e2\u05ea \u05d4\u05d5\u05d5\u05e8\u05d3\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.193159,
+                    31.753742
+                ]
+            },
+            "properties": {
+                "OBJECTID": 296.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 718.0,
+                "x": 218453.3926,
+                "y": 629053.042,
+                "address": "17, \u05e1\u05df \u05de\u05e8\u05d8\u05d9\u05df, \u05d4\u05d5\u05dc\u05d9\u05dc\u05e0\u05d3, \u05d2\u05d1\u05e2\u05ea \u05de\u05e8\u05d3\u05db\u05d9, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.177469,
+                    31.758326
+                ]
+            },
+            "properties": {
+                "OBJECTID": 297.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 724.0,
+                "x": 216966.8409,
+                "y": 629561.5361,
+                "address": "7, \u05d5\u05d5\u05dc\u05d8\u05d4 \u05e2\u05d9\u05dc\u05d9\u05ea, \u05e8\u05de\u05ea \u05d3\u05e0\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.169878,
+                    31.752282
+                ]
+            },
+            "properties": {
+                "OBJECTID": 298.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 726.0,
+                "x": 216247.4747,
+                "y": 628891.5587,
+                "address": "81, \u05e7\u05d5\u05e1\u05d8\u05d4 \u05e8\u05d9\u05e7\u05d4, \u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.169736,
+                    31.754317
+                ]
+            },
+            "properties": {
+                "OBJECTID": 299.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 727.0,
+                "x": 216234.0739,
+                "y": 629117.2596,
+                "address": "\u05d4\u05e0\u05d5\u05e8\u05d9\u05ea, \u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.170179,
+                    31.75411
+                ]
+            },
+            "properties": {
+                "OBJECTID": 300.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 728.0,
+                "x": 216276.0463,
+                "y": 629094.2588,
+                "address": "\u05d4\u05e0\u05d5\u05e8\u05d9\u05ea, \u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.164962,
+                    31.755434
+                ]
+            },
+            "properties": {
+                "OBJECTID": 301.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 729.0,
+                "x": 215781.753,
+                "y": 629241.2243,
+                "address": "5, \u05d4\u05e1\u05d9\u05d9\u05e4\u05df, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e7\u05e8\u05d9\u05ea \u05de\u05e0\u05d7\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.166242,
+                    31.756485
+                ]
+            },
+            "properties": {
+                "OBJECTID": 302.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 730.0,
+                "x": 215903.0954,
+                "y": 629357.7834,
+                "address": "6, \u05d3\u05d4\u05d5\u05de\u05d9\u05d9, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e7\u05e8\u05d9\u05ea \u05de\u05e0\u05d7\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.169919,
+                    31.760242
+                ]
+            },
+            "properties": {
+                "OBJECTID": 303.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 736.0,
+                "x": 216251.6426,
+                "y": 629774.2958,
+                "address": "\u05d4\u05e0\u05e8\u05d9\u05d9\u05d8\u05d4 \u05e1\u05d0\u05dc\u05d3, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05d5\u05d1\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.17139,
+                    31.759582
+                ]
+            },
+            "properties": {
+                "OBJECTID": 304.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 737.0,
+                "x": 216391.0,
+                "y": 629701.0,
+                "address": "23, \u05d9\u05d0\u05e0\u05d5\u05e9 \u05e7\u05d5\u05e8\u05e6'\u05d0\u05e7, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.172552,
+                    31.76157
+                ]
+            },
+            "properties": {
+                "OBJECTID": 305.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 738.0,
+                "x": 216501.1497,
+                "y": 629921.3947,
+                "address": "1, \u05e6'\u05d9\u05dc\u05d4, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05d5\u05d1\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.175009,
+                    31.765346
+                ]
+            },
+            "properties": {
+                "OBJECTID": 306.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 739.0,
+                "x": 216734.0193,
+                "y": 630340.1068,
+                "address": "35, \u05d3\u05d1 \u05d1\u05e8 \u05d1\u05d5\u05e8\u05d5\u05db\u05d5\u05d1, \u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05d5\u05d1\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.178165,
+                    31.766527
+                ]
+            },
+            "properties": {
+                "OBJECTID": 307.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 740.0,
+                "x": 217033.0,
+                "y": 630471.0,
+                "address": "10, \u05d6\u05e0\u05d2\u05d5\u05d5\u05d9\u05dc, \u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05d5\u05d1\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.178115,
+                    31.766819
+                ]
+            },
+            "properties": {
+                "OBJECTID": 308.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 741.0,
+                "x": 217028.3585,
+                "y": 630503.3303,
+                "address": "8, \u05d6\u05e0\u05d2\u05d5\u05d5\u05d9\u05dc, \u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05d5\u05d1\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.183917,
+                    31.768801
+                ]
+            },
+            "properties": {
+                "OBJECTID": 309.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 743.0,
+                "x": 217578.0,
+                "y": 630723.0,
+                "address": "20, \u05d4\u05d7\u05d9\u05d3\"\u05d0, \u05d1\u05d9\u05ea \u05d5\u05d2\u05df, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.189672,
+                    31.774698
+                ]
+            },
+            "properties": {
+                "OBJECTID": 310.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 744.0,
+                "x": 218123.3613,
+                "y": 631376.8772,
+                "address": "\u05e2\u05de\u05d9\u05e8\u05dd \u05e1\u05d9\u05d5\u05d5\u05df, \u05e8\u05de\u05ea \u05d1\u05d9\u05ea \u05d4\u05db\u05e8\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546105, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.191496,
+                    31.777082
+                ]
+            },
+            "properties": {
+                "OBJECTID": 311.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 745.0,
+                "x": 218296.1815,
+                "y": 631641.1834,
+                "address": "\u05d4\u05e1\u05d5\u05dc\u05dc\u05d9\u05dd, \u05d1\u05d9\u05ea \u05d4\u05db\u05e8\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546105, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.190364,
+                    31.778687
+                ]
+            },
+            "properties": {
+                "OBJECTID": 312.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 746.0,
+                "x": 218188.9197,
+                "y": 631819.2384,
+                "address": "35, \u05d4\u05d7\u05dc\u05d5\u05e5, \u05d1\u05d9\u05ea \u05d4\u05db\u05e8\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546105, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.19674,
+                    31.785362
+                ]
+            },
+            "properties": {
+                "OBJECTID": 313.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 747.0,
+                "x": 218792.9561,
+                "y": 632559.3366,
+                "address": "26\u05d1, \u05d4\u05e8\u05e6\u05dc, \u05e7\u05e8\u05d9\u05ea \u05de\u05e9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546105, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.194756,
+                    31.787479
+                ]
+            },
+            "properties": {
+                "OBJECTID": 314.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 748.0,
+                "x": 218605.0476,
+                "y": 632794.0613,
+                "address": "\u05d9\u05de\u05d9\u05df \u05d0\u05d1\u05d5\u05ea, \u05e7\u05e8\u05d9\u05ea \u05de\u05e9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546105, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.200089,
+                    31.79547
+                ]
+            },
+            "properties": {
+                "OBJECTID": 315.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 750.0,
+                "x": 219110.2267,
+                "y": 633680.1466,
+                "address": "14, \u05d6\u05db\u05e8\u05d5\u05df \u05d9\u05e2\u05e7\u05d1, \u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d8\u05e8\u05e1\u05d3\u05d5\u05e8\u05e3, \u05e8\u05d5\u05de\u05de\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.226076,
+                    31.785657
+                ]
+            },
+            "properties": {
+                "OBJECTID": 316.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 753.0,
+                "x": 221571.6034,
+                "y": 632592.2531,
+                "address": "48, \u05e9\u05d1\u05d8\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc, \u05d1\u05ea\u05d9 \u05d0\u05d5\u05e0\u05d2\u05e8\u05d9\u05df, \u05de\u05d5\u05e8\u05e9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9511208, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.195347,
+                    31.755651
+                ]
+            },
+            "properties": {
+                "OBJECTID": 317.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 755.0,
+                "x": 218660.7813,
+                "y": 629264.6962,
+                "address": "\u05e9\u05e2\u05e8\u05d9 \u05e6\u05d9\u05d5\u05df, \u05d4\u05e0\u05d5\u05d8\u05e8\u05d9\u05dd, \u05d4\u05d5\u05dc\u05d9\u05dc\u05e0\u05d3, \u05d2\u05d1\u05e2\u05ea \u05de\u05e8\u05d3\u05db\u05d9, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.193983,
+                    31.755895
+                ]
+            },
+            "properties": {
+                "OBJECTID": 318.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 756.0,
+                "x": 218531.5053,
+                "y": 629291.7696,
+                "address": "4, \u05e1\u05df \u05de\u05e8\u05d8\u05d9\u05df, \u05d4\u05d5\u05dc\u05d9\u05dc\u05e0\u05d3, \u05d2\u05d1\u05e2\u05ea \u05de\u05e8\u05d3\u05db\u05d9, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.216274,
+                    31.775387
+                ]
+            },
+            "properties": {
+                "OBJECTID": 319.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 758.0,
+                "x": 220643.336,
+                "y": 631453.1894,
+                "address": "4, \u05d0\u05dc\u05d7\u05e8\u05d9\u05d6\u05d9, \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05e8\u05d7\u05d1\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9426222, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.166166,
+                    31.759216
+                ]
+            },
+            "properties": {
+                "OBJECTID": 320.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 803.0,
+                "x": 215895.9482,
+                "y": 629660.6049,
+                "address": "15, \u05d0\u05d9\u05e1\u05dc\u05e0\u05d3, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e7\u05e8\u05d9\u05ea \u05de\u05e0\u05d7\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.217368,
+                    31.769586
+                ]
+            },
+            "properties": {
+                "OBJECTID": 321.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 807.0,
+                "x": 220747.0001,
+                "y": 630810.0001,
+                "address": "4, \u05d3'\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9, \u05d8\u05dc\u05d1\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9219005, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.191022,
+                    31.790325
+                ]
+            },
+            "properties": {
+                "OBJECTID": 322.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 808.0,
+                "x": 218251.4304,
+                "y": 633109.6785,
+                "address": "11, \u05e9\u05dc\u05de\u05d4 \u05d0\u05dc\u05e7\u05d1\u05e5, \u05d2\u05d1\u05e2\u05ea \u05e9\u05d0\u05d5\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.176415,
+                    31.759158
+                ]
+            },
+            "properties": {
+                "OBJECTID": 323.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 814.0,
+                "x": 216867.0505,
+                "y": 629653.8369,
+                "address": "11, \u05d0\u05d5\u05e8\u05d5\u05d2\u05d5\u05d0\u05d9, \u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.173923,
+                    31.762066
+                ]
+            },
+            "properties": {
+                "OBJECTID": 324.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 815.0,
+                "x": 216631.0,
+                "y": 629976.3515,
+                "address": "61, \u05d3\u05d1 \u05d1\u05e8 \u05d1\u05d5\u05e8\u05d5\u05db\u05d5\u05d1, \u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05d5\u05d1\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.211834,
+                    31.771079
+                ]
+            },
+            "properties": {
+                "OBJECTID": 325.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 816.0,
+                "x": 220222.7861,
+                "y": 630975.4976,
+                "address": "6, \u05d4\u05ea\u05d9\u05d1\u05d5\u05e0\u05d9\u05dd, \u05e7\u05e8\u05d9\u05ea \u05e9\u05de\u05d5\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9218812, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.210653,
+                    31.760168
+                ]
+            },
+            "properties": {
+                "OBJECTID": 326.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 817.0,
+                "x": 220110.9539,
+                "y": 629765.484,
+                "address": "16, \u05e8\u05d1\u05d9 \u05de\u05d0\u05d9\u05e8, \u05de\u05e7\u05d5\u05e8 \u05d7\u05d9\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.212956,
+                    31.782358
+                ]
+            },
+            "properties": {
+                "OBJECTID": 327.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 821.0,
+                "x": 220328.95,
+                "y": 632226.1797,
+                "address": "26, \u05ea\u05d1\u05d5\u05e8, \u05d0\u05d1\u05d5 \u05d1\u05e1\u05dc (\u05e9\u05e2\u05e8\u05d9 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd), \u05e0\u05d7\u05dc\u05d0\u05d5\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432301, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.188505,
+                    31.780282
+                ]
+            },
+            "properties": {
+                "OBJECTID": 328.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 822.0,
+                "x": 218012.9047,
+                "y": 631996.1141,
+                "address": "\u05d4\u05e8\u05e6\u05dc, \u05d1\u05d9\u05ea \u05d4\u05db\u05e8\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546105, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.207635,
+                    31.755191
+                ]
+            },
+            "properties": {
+                "OBJECTID": 329.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 824.0,
+                "x": 219825.0002,
+                "y": 629213.6384,
+                "address": "41\u05d2, \u05d4\u05d0\u05de\u05d5\u05e8\u05d0\u05d9\u05dd, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.200702,
+                    31.753414
+                ]
+            },
+            "properties": {
+                "OBJECTID": 330.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 825.0,
+                "x": 219168.0679,
+                "y": 629016.5808,
+                "address": "\u05e7\u05e0\u05d0\u05d9 \u05d4\u05d2\u05dc\u05d9\u05dc, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.224395,
+                    31.78589
+                ]
+            },
+            "properties": {
+                "OBJECTID": 331.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 826.0,
+                "x": 221412.4215,
+                "y": 632618.0248,
+                "address": "85, \u05de\u05d0\u05d4 \u05e9\u05e2\u05e8\u05d9\u05dd, \u05d1\u05ea\u05d9 \u05d0\u05d5\u05e0\u05d2\u05e8\u05d9\u05df, \u05de\u05d0\u05d4 \u05e9\u05e2\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.167976,
+                    31.758333
+                ]
+            },
+            "properties": {
+                "OBJECTID": 332.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 827.0,
+                "x": 216067.4458,
+                "y": 629562.597,
+                "address": "7, \u05d0\u05d9\u05e1\u05dc\u05e0\u05d3, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e7\u05e8\u05d9\u05ea \u05de\u05e0\u05d7\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.212804,
+                    31.759238
+                ]
+            },
+            "properties": {
+                "OBJECTID": 333.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 828.0,
+                "x": 220314.7912,
+                "y": 629662.4153,
+                "address": "12, \u05e8\u05d1\u05df \u05d9\u05d5\u05d7\u05e0\u05df \u05d1\u05df \u05d6\u05db\u05d0\u05d9, \u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05d4\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.165689,
+                    31.753266
+                ]
+            },
+            "properties": {
+                "OBJECTID": 334.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 829.0,
+                "x": 215850.5806,
+                "y": 629000.8165,
+                "address": "11, \u05d4\u05e8\u05e7\u05e4\u05ea, \u05e7\u05e8\u05d9\u05ea \u05de\u05e0\u05d7\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.216678,
+                    31.790875
+                ]
+            },
+            "properties": {
+                "OBJECTID": 335.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 830.0,
+                "x": 220681.3863,
+                "y": 633170.6906,
+                "address": "5, \u05d6\u05db\u05e8\u05d9\u05d4, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d2\u05d0\u05d5\u05dc\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.194339,
+                    31.755462
+                ]
+            },
+            "properties": {
+                "OBJECTID": 336.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 831.0,
+                "x": 218565.2599,
+                "y": 629243.6777,
+                "address": "\u05e8\u05d1\u05d9 \u05e6\u05d3\u05d5\u05e7, \u05d4\u05d5\u05dc\u05d9\u05dc\u05e0\u05d3, \u05d2\u05d1\u05e2\u05ea \u05de\u05e8\u05d3\u05db\u05d9, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21531,
+                    31.771845
+                ]
+            },
+            "properties": {
+                "OBJECTID": 337.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 835.0,
+                "x": 220552.067,
+                "y": 631060.3919,
+                "address": "4, \u05de\u05d5\u05dc\u05db\u05d5, \u05d8\u05dc\u05d1\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9218801, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.218276,
+                    31.759291
+                ]
+            },
+            "properties": {
+                "OBJECTID": 338.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 836.0,
+                "x": 220833.2367,
+                "y": 629668.3234,
+                "address": "\u05e0\u05e4\u05ea\u05dc\u05d9, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05d1\u05e7\u05e2\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9362522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.220333,
+                    31.793621
+                ]
+            },
+            "properties": {
+                "OBJECTID": 339.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 837.0,
+                "x": 221027.5044,
+                "y": 633475.2092,
+                "address": "3, \u05d0\u05d1\u05d9\u05e0\u05d3\u05d1, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d4\u05d1\u05d5\u05db\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.208473,
+                    31.787133
+                ]
+            },
+            "properties": {
+                "OBJECTID": 340.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 839.0,
+                "x": 219904.2556,
+                "y": 632755.6901,
+                "address": "159, \u05d9\u05e4\u05d5, \u05d0\u05d1\u05d5 \u05d1\u05e1\u05dc (\u05e9\u05e2\u05e8\u05d9 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd), \u05de\u05e7\u05d5\u05e8 \u05d1\u05e8\u05d5\u05da, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432531, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.220797,
+                    31.790642
+                ]
+            },
+            "properties": {
+                "OBJECTID": 341.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 841.0,
+                "x": 221071.5631,
+                "y": 633144.8941,
+                "address": "47, \u05d9\u05e9\u05d0 \u05d1\u05e8\u05db\u05d4, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d1\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.195496,
+                    31.752695
+                ]
+            },
+            "properties": {
+                "OBJECTID": 342.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 842.0,
+                "x": 218674.8454,
+                "y": 628936.8522,
+                "address": "12, \u05d1\u05e8 \u05d9\u05d5\u05d7\u05d0\u05d9, \u05d4\u05d5\u05dc\u05d9\u05dc\u05e0\u05d3, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.167725,
+                    31.757571
+                ]
+            },
+            "properties": {
+                "OBJECTID": 343.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 901.0,
+                "x": 216043.6813,
+                "y": 629478.111,
+                "address": "2, \u05d0\u05d9\u05e1\u05dc\u05e0\u05d3, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e7\u05e8\u05d9\u05ea \u05de\u05e0\u05d7\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.168807,
+                    31.754209
+                ]
+            },
+            "properties": {
+                "OBJECTID": 344.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 902.0,
+                "x": 216146.0745,
+                "y": 629105.225,
+                "address": "4, \u05d4\u05d0\u05d1\u05d9\u05d1\u05d9\u05ea, \u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.162059,
+                    31.768088
+                ]
+            },
+            "properties": {
+                "OBJECTID": 345.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 903.0,
+                "x": 215507.2275,
+                "y": 630644.6053,
+                "address": "\u05e2\u05d9\u05df \u05db\u05e8\u05dd, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e2\u05d9\u05df \u05db\u05e8\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9574320, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21048,
+                    31.789595
+                ]
+            },
+            "properties": {
+                "OBJECTID": 346.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 904.0,
+                "x": 220094.4095,
+                "y": 633028.7392,
+                "address": "28, \u05d4\u05d8\u05d5\u05e8\u05d9\u05dd, \u05d0\u05d1\u05d5 \u05d1\u05e1\u05dc (\u05e9\u05e2\u05e8\u05d9 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd), \u05de\u05e7\u05d5\u05e8 \u05d1\u05e8\u05d5\u05da, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432531, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.170271,
+                    31.75634
+                ]
+            },
+            "properties": {
+                "OBJECTID": 347.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 905.0,
+                "x": 216284.8102,
+                "y": 629341.5354,
+                "address": "6, \u05d4\u05e0\u05e8\u05d3, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.196349,
+                    31.753149
+                ]
+            },
+            "properties": {
+                "OBJECTID": 348.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 906.0,
+                "x": 218755.6291,
+                "y": 628987.2205,
+                "address": "13, \u05d1\u05e8 \u05d9\u05d5\u05d7\u05d0\u05d9, \u05d4\u05d5\u05dc\u05d9\u05dc\u05e0\u05d3, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.225021,
+                    31.789178
+                ]
+            },
+            "properties": {
+                "OBJECTID": 349.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 907.0,
+                "x": 221471.6745,
+                "y": 632982.6474,
+                "address": "4, \u05e8\u05d0\u05dd, \u05d1\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.222308,
+                    31.791572
+                ]
+            },
+            "properties": {
+                "OBJECTID": 350.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 908.0,
+                "x": 221214.6665,
+                "y": 633248.0879,
+                "address": "32, \u05d9\u05d5\u05e1\u05e3 \u05e7\u05d0\u05e8\u05d5, \u05d1\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.208656,
+                    31.788818
+                ]
+            },
+            "properties": {
+                "OBJECTID": 351.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 909.0,
+                "x": 219921.6031,
+                "y": 632942.5268,
+                "address": "10, \u05d2\u05e9\u05e8 \u05d4\u05d7\u05d9\u05d9\u05dd, \u05d0\u05d1\u05d5 \u05d1\u05e1\u05dc (\u05e9\u05e2\u05e8\u05d9 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd), \u05de\u05e7\u05d5\u05e8 \u05d1\u05e8\u05d5\u05da, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432531, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.214584,
+                    31.790685
+                ]
+            },
+            "properties": {
+                "OBJECTID": 352.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 910.0,
+                "x": 220483.1065,
+                "y": 633149.5849,
+                "address": "\u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d2\u05d0\u05d5\u05dc\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432301, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.213257,
+                    31.760862
+                ]
+            },
+            "properties": {
+                "OBJECTID": 353.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 923.0,
+                "x": 220357.628,
+                "y": 629842.4745,
+                "address": "4, \u05e8\u05d9\u05e9 \u05dc\u05e7\u05d9\u05e9, \u05d4\u05de\u05d5\u05e9\u05d1\u05d4 \u05d4\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.216797,
+                    31.786893
+                ]
+            },
+            "properties": {
+                "OBJECTID": 354.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 928.0,
+                "x": 220692.7113,
+                "y": 632729.0829,
+                "address": "7, \u05d7\u05e4\u05e5 \u05d7\u05d9\u05d9\u05dd, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d6\u05db\u05e8\u05d5\u05df \u05de\u05e9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9422904, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.212305,
+                    31.782612
+                ]
+            },
+            "properties": {
+                "OBJECTID": 355.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 932.0,
+                "x": 220267.2956,
+                "y": 632254.4079,
+                "address": "\u05d0\u05d1\u05d5 \u05d1\u05e1\u05dc (\u05e9\u05e2\u05e8\u05d9 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd), \u05e0\u05d7\u05dc\u05d0\u05d5\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432301, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.198698,
+                    31.795618
+                ]
+            },
+            "properties": {
+                "OBJECTID": 356.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 933.0,
+                "x": 218978.4869,
+                "y": 633696.5965,
+                "address": "32, \u05de\u05e2\u05e0\u05d4 \u05e9\u05de\u05d7\u05d4, \u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d8\u05e8\u05e1\u05d3\u05d5\u05e8\u05e3, \u05e8\u05d5\u05de\u05de\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.209959,
+                    31.782191
+                ]
+            },
+            "properties": {
+                "OBJECTID": 357.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 935.0,
+                "x": 220045.0701,
+                "y": 632207.6747,
+                "address": "1, \u05d1\u05e8\u05e2\u05dd, \u05d0\u05d1\u05d5 \u05d1\u05e1\u05dc (\u05e9\u05e2\u05e8\u05d9 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd), \u05e0\u05d7\u05dc\u05d0\u05d5\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432301, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.209208,
+                    31.761245
+                ]
+            },
+            "properties": {
+                "OBJECTID": 358.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 937.0,
+                "x": 219974.0001,
+                "y": 629885.0001,
+                "address": "\u05db\u05db\u05e8 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d1\u05e8\u05d0\u05e9\u05d9, \u05e1\u05df \u05e1\u05d9\u05de\u05d5\u05df, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.200352,
+                    31.771665
+                ]
+            },
+            "properties": {
+                "OBJECTID": 359.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 939.0,
+                "x": 219135.0221,
+                "y": 631040.4688,
+                "address": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05d1\u05d5\u05e8\u05dc\u05d0, \u05e0\u05d9\u05d5\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9218812, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.219592,
+                    31.750475
+                ]
+            },
+            "properties": {
+                "OBJECTID": 360.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 940.0,
+                "x": 220957.974,
+                "y": 628690.7417,
+                "address": "\u05de\u05d9\u05e0\u05d9\u05de\u05e8\u05e7\u05d8 \u05e9\u05d7\u05e8, 30, \u05e9\u05dc\u05d5\u05dd \u05d9\u05d4\u05d5\u05d3\u05d4, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05d0\u05e8\u05e0\u05d5\u05e0\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9338556, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.174018,
+                    31.760521
+                ]
+            },
+            "properties": {
+                "OBJECTID": 361.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 947.0,
+                "x": 216639.9355,
+                "y": 629805.0173,
+                "address": "16, \u05d7\u05d9\u05d9\u05dd \u05e1\u05d9\u05e8\u05e0\u05d9, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05d5\u05d1\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.206675,
+                    31.765069
+                ]
+            },
+            "properties": {
+                "OBJECTID": 362.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 949.0,
+                "x": 219734.0001,
+                "y": 630309.0001,
+                "address": "40, \u05d4\u05d8\u05d9\u05d9\u05e1\u05d9\u05dd, \u05e7\u05d8\u05de\u05d5\u05df \u05d4\u05d9\u05e9\u05e0\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.218171,
+                    31.794267
+                ]
+            },
+            "properties": {
+                "OBJECTID": 363.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 957.0,
+                "x": 220822.7924,
+                "y": 633546.8286,
+                "address": "6, \u05d0\u05d1\u05d9\u05ea\u05e8 \u05d4\u05db\u05d4\u05df, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05d4\u05d1\u05d5\u05db\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.210626,
+                    31.780151
+                ]
+            },
+            "properties": {
+                "OBJECTID": 364.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 961.0,
+                "x": 220108.3017,
+                "y": 631981.5024,
+                "address": "28, \u05d8\u05d1\u05e8\u05d9\u05d4, \u05e9\u05e2\u05e8\u05d9 \u05d7\u05e1\u05d3, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9107202, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.177435,
+                    31.765206
+                ]
+            },
+            "properties": {
+                "OBJECTID": 365.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 963.0,
+                "x": 216963.7997,
+                "y": 630324.5054,
+                "address": "29, \u05d6\u05e0\u05d2\u05d5\u05d5\u05d9\u05dc, \u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05d5\u05d1\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.175358,
+                    31.7569
+                ]
+            },
+            "properties": {
+                "OBJECTID": 366.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 964.0,
+                "x": 216766.8564,
+                "y": 629403.5436,
+                "address": "8, \u05de\u05d0\u05d9\u05e8 \u05d2\u05e8\u05d5\u05e0\u05d5\u05d5\u05dc\u05d3, \u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.19577,
+                    31.753324
+                ]
+            },
+            "properties": {
+                "OBJECTID": 367.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 965.0,
+                "x": 218700.7844,
+                "y": 629006.5884,
+                "address": "28, \u05e1\u05df \u05de\u05e8\u05d8\u05d9\u05df, \u05d4\u05d5\u05dc\u05d9\u05dc\u05e0\u05d3, \u05d2\u05d1\u05e2\u05ea \u05de\u05e8\u05d3\u05db\u05d9, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9328257, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.208807,
+                    31.758117
+                ]
+            },
+            "properties": {
+                "OBJECTID": 368.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 967.0,
+                "x": 219936.0191,
+                "y": 629538.1146,
+                "address": "11, \u05d1\u05df \u05d7\u05e4\u05e5 \u05d8\u05d5\u05d1\u05d9\u05d4, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.207897,
+                    31.756575
+                ]
+            },
+            "properties": {
+                "OBJECTID": 369.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 969.0,
+                "x": 219849.8152,
+                "y": 629367.1373,
+                "address": "\u05d1\u05df \u05d1\u05d1\u05d0, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.211426,
+                    31.767535
+                ]
+            },
+            "properties": {
+                "OBJECTID": 370.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 971.0,
+                "x": 220184.1247,
+                "y": 630582.4433,
+                "address": "20, \u05d4\u05e4\u05dc\u05de\"\u05d7, \u05e7\u05d8\u05de\u05d5\u05df \u05d4\u05d9\u05e9\u05e0\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9218812, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.213572,
+                    31.775976
+                ]
+            },
+            "properties": {
+                "OBJECTID": 371.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 972.0,
+                "x": 220387.3873,
+                "y": 631518.4928,
+                "address": "8, \u05d0\u05d1\u05df \u05e2\u05d6\u05e8\u05d0, \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05e8\u05d7\u05d1\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9107202, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.215869,
+                    31.777584
+                ]
+            },
+            "properties": {
+                "OBJECTID": 372.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 973.0,
+                "x": 220604.9783,
+                "y": 631696.8635,
+                "address": "\u05d1\u05d9\u05ea \u05d0\u05d1\u05d9 \u05d7\u05d9, \u05d4\u05de\u05dc\u05da \u05d2'\u05d5\u05e8\u05d2', \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05e9\u05e2\u05e8\u05d9 \u05d7\u05e1\u05d3, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9107202, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.214471,
+                    31.779283
+                ]
+            },
+            "properties": {
+                "OBJECTID": 373.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 974.0,
+                "x": 220472.4594,
+                "y": 631885.1782,
+                "address": "2, \u05de\u05e8\u05d3\u05db\u05d9 \u05e0\u05e8\u05e7\u05d9\u05e1, \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05e9\u05e2\u05e8\u05d9 \u05d7\u05e1\u05d3, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9107202, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.191507,
+                    31.7551
+                ]
+            },
+            "properties": {
+                "OBJECTID": 374.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 976.0,
+                "x": 218296.8959,
+                "y": 629203.6251,
+                "address": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df, \u05d4\u05d5\u05dc\u05d9\u05dc\u05e0\u05d3, \u05de\u05dc\u05d7\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9695102, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.196468,
+                    31.786186
+                ]
+            },
+            "properties": {
+                "OBJECTID": 375.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 977.0,
+                "x": 218767.2212,
+                "y": 632650.6952,
+                "address": "10, \u05d2\u05ea, \u05e7\u05e8\u05d9\u05ea \u05de\u05e9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546105, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.195644,
+                    31.786914
+                ]
+            },
+            "properties": {
+                "OBJECTID": 376.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 978.0,
+                "x": 218689.1864,
+                "y": 632731.4604,
+                "address": "\u05d2\u05ea, \u05e7\u05e8\u05d9\u05ea \u05de\u05e9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546105, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.20068,
+                    31.794015
+                ]
+            },
+            "properties": {
+                "OBJECTID": 377.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 979.0,
+                "x": 219166.2174,
+                "y": 633518.8905,
+                "address": "6, \u05e8\u05d0\u05e9 \u05e4\u05d9\u05e0\u05d4, \u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d8\u05e8\u05e1\u05d3\u05d5\u05e8\u05e3, \u05e8\u05d5\u05de\u05de\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.215908,
+                    31.755066
+                ]
+            },
+            "properties": {
+                "OBJECTID": 378.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 980.0,
+                "x": 220608.8996,
+                "y": 629199.7885,
+                "address": "26, \u05e8\u05d1\u05e7\u05d4, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05de\u05e7\u05d5\u05e8 \u05d7\u05d9\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9362522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.191529,
+                    31.75365
+                ]
+            },
+            "properties": {
+                "OBJECTID": 379.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 981.0,
+                "x": 218298.9891,
+                "y": 629042.8243,
+                "address": "\u05d4\u05de\u05e8\u05db\u05d6 \u05dc\u05d8\u05e0\u05d9\u05e1 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc, \u05d0\u05d2\u05d5\u05d3\u05ea \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d1\u05d9\u05ea\"\u05e8, \u05d4\u05d5\u05dc\u05d9\u05dc\u05e0\u05d3, \u05de\u05dc\u05d7\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9695102, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.176107,
+                    31.766301
+                ]
+            },
+            "properties": {
+                "OBJECTID": 380.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 983.0,
+                "x": 216838.0336,
+                "y": 630446.0048,
+                "address": "16, \u05d0.\u05d3. \u05d2\u05d5\u05e8\u05d3\u05d5\u05df, \u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05d5\u05d1\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.220512,
+                    31.761208
+                ]
+            },
+            "properties": {
+                "OBJECTID": 381.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 984.0,
+                "x": 221045.0001,
+                "y": 629881.0001,
+                "address": "5, \u05d0\u05e4\u05e8\u05d9\u05dd, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05d1\u05e7\u05e2\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9362522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.217759,
+                    31.785201
+                ]
+            },
+            "properties": {
+                "OBJECTID": 382.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 985.0,
+                "x": 220783.8539,
+                "y": 632541.494,
+                "address": "3, \u05d9\u05e9\u05e2\u05d9\u05d4\u05d5, \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05d6\u05db\u05e8\u05d5\u05df \u05de\u05e9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9422904, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.207689,
+                    31.75869
+                ]
+            },
+            "properties": {
+                "OBJECTID": 383.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 987.0,
+                "x": 219830.0903,
+                "y": 629601.5887,
+                "address": "\u05e8\u05d1\u05df \u05d9\u05d5\u05d7\u05e0\u05df \u05d1\u05df \u05d6\u05db\u05d0\u05d9, \u05e7\u05d8\u05de\u05d5\u05e0\u05d9\u05dd (\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd), \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.218668,
+                    31.755289
+                ]
+            },
+            "properties": {
+                "OBJECTID": 384.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 988.0,
+                "x": 220870.3811,
+                "y": 629224.6233,
+                "address": "9, \u05e6\u05d9\u05e4\u05d5\u05e8\u05d4, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05ea\u05dc\u05e4\u05d9\u05d5\u05ea, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9362522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.172193,
+                    31.764051
+                ]
+            },
+            "properties": {
+                "OBJECTID": 385.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 991.0,
+                "x": 216467.22,
+                "y": 630196.6092,
+                "address": "28, \u05d1\u05e8\u05d6\u05d9\u05dc, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05d5\u05d1\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.176523,
+                    31.762868
+                ]
+            },
+            "properties": {
+                "OBJECTID": 386.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 992.0,
+                "x": 216877.3451,
+                "y": 630065.3134,
+                "address": "29, \u05e2\u05e7\u05d9\u05d1\u05d0 \u05d0\u05d8\u05d9\u05e0\u05d2\u05e8, \u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05d5\u05d1\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.174161,
+                    31.763468
+                ]
+            },
+            "properties": {
+                "OBJECTID": 387.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 993.0,
+                "x": 216653.5733,
+                "y": 630131.8694,
+                "address": "2, \u05de\u05e9\u05d4 \u05e7\u05dc\u05d9\u05d9\u05e0\u05de\u05df, \u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05d5\u05d1\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21997,
+                    31.756787
+                ]
+            },
+            "properties": {
+                "OBJECTID": 388.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 995.0,
+                "x": 220993.7482,
+                "y": 629390.6549,
+                "address": "11, \u05d9\u05d4\u05d5\u05d3\u05d4, \u05de\u05d7\u05e0\u05d4 \u05d0\u05dc\u05e0\u05d1\u05d9, \u05d1\u05e7\u05e2\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9362522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.228464,
+                    31.839545
+                ]
+            },
+            "properties": {
+                "OBJECTID": 389.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 997.0,
+                "x": 221796.4717,
+                "y": 638568.004,
+                "address": "\u05d0\u05dc \u05d0\u05e8\u05d3\u05e9\u05d9\u05e8, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9726304, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.240876,
+                    31.805111
+                ]
+            },
+            "properties": {
+                "OBJECTID": 390.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 998.0,
+                "x": 222972.7358,
+                "y": 634749.9002,
+                "address": "1, \u05d0\u05d1\u05d0 \u05d1\u05e8\u05d3\u05d9\u05e6'\u05d1, \u05e6\u05de\u05e8\u05ea \u05d4\u05d1\u05d9\u05e8\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9711769, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.170337,
+                    31.752069
+                ]
+            },
+            "properties": {
+                "OBJECTID": 391.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 726.0,
+                "x": 216290.9494,
+                "y": 628867.9488,
+                "address": "79, \u05e7\u05d5\u05e1\u05d8\u05d4 \u05e8\u05d9\u05e7\u05d4, \u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.170806,
+                    31.751923
+                ]
+            },
+            "properties": {
+                "OBJECTID": 392.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 726.0,
+                "x": 216335.359,
+                "y": 628851.7586,
+                "address": "79, \u05e7\u05d5\u05e1\u05d8\u05d4 \u05e8\u05d9\u05e7\u05d4, \u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.164992,
+                    31.759049
+                ]
+            },
+            "properties": {
+                "OBJECTID": 393.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 734.0,
+                "x": 215784.757,
+                "y": 629642.0954,
+                "address": "16, \u05e7\u05d5\u05dc\u05d5\u05de\u05d1\u05d9\u05d4, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e7\u05e8\u05d9\u05ea \u05de\u05e0\u05d7\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.176402,
+                    31.759236
+                ]
+            },
+            "properties": {
+                "OBJECTID": 394.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 814.0,
+                "x": 216865.8475,
+                "y": 629662.5053,
+                "address": "11, \u05d0\u05d5\u05e8\u05d5\u05d2\u05d5\u05d0\u05d9, \u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.173759,
+                    31.761918
+                ]
+            },
+            "properties": {
+                "OBJECTID": 395.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 815.0,
+                "x": 216615.5097,
+                "y": 629960.0007,
+                "address": "72, \u05d3\u05d1 \u05d1\u05e8 \u05d1\u05d5\u05e8\u05d5\u05db\u05d5\u05d1, \u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05d5\u05d1\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.200922,
+                    31.794111
+                ]
+            },
+            "properties": {
+                "OBJECTID": 396.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 975.0,
+                "x": 219189.1371,
+                "y": 633529.4899,
+                "address": "\u05e8\u05d0\u05e9 \u05e4\u05d9\u05e0\u05d4, \u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d8\u05e8\u05e1\u05d3\u05d5\u05e8\u05e3, \u05e8\u05d5\u05de\u05de\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.201116,
+                    31.793847
+                ]
+            },
+            "properties": {
+                "OBJECTID": 397.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 975.0,
+                "x": 219207.4825,
+                "y": 633500.2582,
+                "address": "\u05e8\u05d0\u05e9 \u05e4\u05d9\u05e0\u05d4, \u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d8\u05e8\u05e1\u05d3\u05d5\u05e8\u05e3, \u05e8\u05d5\u05de\u05de\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.20131,
+                    31.793619
+                ]
+            },
+            "properties": {
+                "OBJECTID": 398.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 975.0,
+                "x": 219225.8594,
+                "y": 633474.8798,
+                "address": "3, \u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df, \u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d8\u05e8\u05e1\u05d3\u05d5\u05e8\u05e3, \u05e8\u05d5\u05de\u05de\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.201512,
+                    31.79334
+                ]
+            },
+            "properties": {
+                "OBJECTID": 399.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 975.0,
+                "x": 219245.0001,
+                "y": 633444.0001,
+                "address": "3, \u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df, \u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d8\u05e8\u05e1\u05d3\u05d5\u05e8\u05e3, \u05e8\u05d5\u05de\u05de\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9546522, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.222424,
+                    31.792154
+                ]
+            },
+            "properties": {
+                "OBJECTID": 400.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 616.0,
+                "x": 221225.6232,
+                "y": 633312.5581,
+                "address": "\u05d9\u05e8\u05d7\u05de\u05d9\u05d0\u05dc \u05d0\u05de\u05d3\u05d5\u05e8\u05e1\u05e7\u05d9, \u05d4\u05d1\u05d5\u05db\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.224477,
+                    31.790253
+                ]
+            },
+            "properties": {
+                "OBJECTID": 401.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 617.0,
+                "x": 221420.0913,
+                "y": 633101.8333,
+                "address": "34, \u05d4\u05d1\u05e2\u05e9\"\u05d8, \u05d1\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.222396,
+                    31.792443
+                ]
+            },
+            "properties": {
+                "OBJECTID": 402.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 618.0,
+                "x": 221222.9812,
+                "y": 633344.6286,
+                "address": "12, \u05e9\u05de\u05e9\u05d5\u05df \u05e4\u05d5\u05dc\u05e0\u05e1\u05e7\u05d9, \u05de\u05e2\u05dc\u05d5\u05ea \u05d3\u05e4\u05e0\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.22456,
+                    31.786093
+                ]
+            },
+            "properties": {
+                "OBJECTID": 403.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 629.0,
+                "x": 221428.0599,
+                "y": 632640.4947,
+                "address": "4, \u05e0\u05e6\u05d9\u05d1\u05d9\u05df, \u05d1\u05ea\u05d9 \u05d0\u05d5\u05e0\u05d2\u05e8\u05d9\u05df, \u05d1\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9511208, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.223705,
+                    31.785381
+                ]
+            },
+            "properties": {
+                "OBJECTID": 404.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 632.0,
+                "x": 221347.0165,
+                "y": 632561.5159,
+                "address": "\u05d4\u05e8\u05d1 \u05d9\u05d5\u05e1\u05e3 \u05d2\u05e8\u05e9\u05d5\u05df \u05d4\u05d5\u05e8\u05d5\u05d1\u05d9\u05e5, \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05de\u05d0\u05d4 \u05e9\u05e2\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9511208, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.219565,
+                    31.787416
+                ]
+            },
+            "properties": {
+                "OBJECTID": 405.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 636.0,
+                "x": 220954.9082,
+                "y": 632787.132,
+                "address": "7, \u05dc\u05d5\u05d9 \u05d9\u05e6\u05d7\u05e7 \u05de\u05d1\u05e8\u05d3\u05d9\u05e6'\u05d1, \u05db\u05e8\u05dd \u05d0\u05d1\u05e8\u05d4\u05dd, \u05de\u05d0\u05d4 \u05e9\u05e2\u05e8\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9522901, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.176007,
+                    31.756009
+                ]
+            },
+            "properties": {
+                "OBJECTID": 406.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 722.0,
+                "x": 216828.2561,
+                "y": 629304.7202,
+                "address": "63, \u05d0\u05d1\u05e8\u05d4\u05dd \u05e9\u05d8\u05e8\u05df, \u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.175767,
+                    31.753716
+                ]
+            },
+            "properties": {
+                "OBJECTID": 407.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 723.0,
+                "x": 216805.4873,
+                "y": 629050.4535,
+                "address": "\u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.164864,
+                    31.758177
+                ]
+            },
+            "properties": {
+                "OBJECTID": 408.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 732.0,
+                "x": 215772.5559,
+                "y": 629545.4224,
+                "address": "\u05d1\u05d9\"\u05e1 \u05d2\u05d5\u05d0\u05d8\u05de\u05dc\u05d4, \u05e7\u05d5\u05dc\u05d5\u05de\u05d1\u05d9\u05d4, \u05db\u05e4\u05e8 \u05e9\u05dc\u05de\u05d0 - \u05d4\u05db\u05e4\u05e8 \u05d4\u05e9\u05d5\u05d5\u05d3\u05d9, \u05e7\u05e8\u05d9\u05ea \u05de\u05e0\u05d7\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9768112, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.225296,
+                    31.782757
+                ]
+            },
+            "properties": {
+                "OBJECTID": 409.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 751.0,
+                "x": 221497.8023,
+                "y": 632270.5989,
+                "address": "5, \u05d3\u05e0\u05d9\u05d0\u05dc, \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05de\u05d5\u05e8\u05e9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9511208, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.226423,
+                    31.781204
+                ]
+            },
+            "properties": {
+                "OBJECTID": 410.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 752.0,
+                "x": 221604.6194,
+                "y": 632098.3817,
+                "address": "11, \u05d0\u05dc\u05d9\u05e9\u05e2, \u05e0\u05d7\u05dc\u05ea \u05e9\u05d1\u05e2\u05d4, \u05de\u05d5\u05e8\u05e9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9511208, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.210235,
+                    31.761951
+                ]
+            },
+            "properties": {
+                "OBJECTID": 411.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 805.0,
+                "x": 220071.3353,
+                "y": 629963.2928,
+                "address": "3, \u05d1\u05d9\u05dc\"\u05d5, \u05e7\u05d8\u05de\u05d5\u05df \u05d4\u05d9\u05e9\u05e0\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.210074,
+                    31.772954
+                ]
+            },
+            "properties": {
+                "OBJECTID": 412.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 809.0,
+                "x": 220055.9863,
+                "y": 631183.4215,
+                "address": "4, \u05e8\u05d1\u05d9 \u05e1\u05e2\u05d3\u05d9\u05d4 \u05d2\u05d0\u05d5\u05df, \u05e8\u05d7\u05d1\u05d9\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9218812, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.206643,
+                    31.788336
+                ]
+            },
+            "properties": {
+                "OBJECTID": 413.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 812.0,
+                "x": 219730.9856,
+                "y": 632889.048,
+                "address": "210, \u05d9\u05e4\u05d5, \u05d0\u05d1\u05d5 \u05d1\u05e1\u05dc (\u05e9\u05e2\u05e8\u05d9 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd), \u05de\u05e7\u05d5\u05e8 \u05d1\u05e8\u05d5\u05da, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432531, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.182679,
+                    31.755167
+                ]
+            },
+            "properties": {
+                "OBJECTID": 414.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 813.0,
+                "x": 217460.469,
+                "y": 629211.1828,
+                "address": "14, \u05e4\u05d8\u05e8\u05d9\u05d4, \u05d4\u05d5\u05dc\u05d9\u05dc\u05e0\u05d3, \u05de\u05dc\u05d7\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9674625, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.212687,
+                    31.758452
+                ]
+            },
+            "properties": {
+                "OBJECTID": 415.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 704.0,
+                "x": 220303.7094,
+                "y": 629575.2173,
+                "address": "\u05de\u05e2\u05d2\u05dc\u05d9 \u05d9\u05d1\u05e0\u05d4, \u05de\u05e7\u05d5\u05e8 \u05d7\u05d9\u05d9\u05dd, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9323008, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.205683,
+                    31.785349
+                ]
+            },
+            "properties": {
+                "OBJECTID": 416.0,
+                "\u05de\u05e1\u05e4\u05e8 \u05de\u05e7\u05dc\u05d8": 647.0,
+                "x": 219640.044,
+                "y": 632557.8344,
+                "address": "\u05d6\u05d1\u05d5\u05dc\u05d5\u05df \u05d4\u05de\u05e8, \u05d0\u05d1\u05d5 \u05d1\u05e1\u05dc (\u05e9\u05e2\u05e8\u05d9 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd), \u05e8\u05d5\u05de\u05de\u05d4, \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, 9432531, \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        }
+    ]
+}
