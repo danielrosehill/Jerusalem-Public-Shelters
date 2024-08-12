@@ -13,7 +13,19 @@ The update dates for the data is displayed through the folder structure in the f
 
 <img src="https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS">
 
-[Click Here To Open](https://www.arcgis.com/apps/mapviewer/index.html?webmap=dee2adae16f04be387d9dc71266f7f52)
+### Web App - Basic View
+
+[Click Here To Open](https://www.arcgis.com/apps/instant/basic/index.html?appid=bc9ff556b2d94225afd84a404326cac8)
+
+### Nearby Shetler Locator
+
+[Click Here To Open](https://www.arcgis.com/apps/instant/nearby/index.html?appid=8071b531f3c24a6d9072190da68ca00f)
+
+Embed 
+
+```
+<iframe src="https://www.arcgis.com/apps/instant/nearby/index.html?appid=8071b531f3c24a6d9072190da68ca00f" width="1000" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+```
 
 ## ⚠️ Disclaimer: Non-Governmental Source! ⚠️
 
