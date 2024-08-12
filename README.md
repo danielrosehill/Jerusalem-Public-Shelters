@@ -26,15 +26,19 @@ The repository author offers no warranty as to the accuracy, completeness, or re
 
 ## Online Links 
 
-### Custom Google Map
+### Map
 
-[Viewer link]
-(https://www.google.com/maps/d/edit?mid=1DJUOMFZTLmvSLt9UqUYtwnQaZBwbO8w&usp=sharing)
+[ArcGIS](https://www.arcgis.com/apps/mapviewer/index.html?webmap=dee2adae16f04be387d9dc71266f7f52)
+
+### Interactive Web App (ArcGIS)
+
+[Link](https://www.arcgis.com/apps/instant/nearby/index.html?appid=8071b531f3c24a6d9072190da68ca00f)
+
 
 ### Embed Code
 
 ```
-<iframe src="https://www.google.com/maps/d/embed?mid=1DJUOMFZTLmvSLt9UqUYtwnQaZBwbO8w&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.arcgis.com/apps/instant/nearby/index.html?appid=8071b531f3c24a6d9072190da68ca00f" width="1400" height="1000" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
 ```
 
 
