@@ -24,10 +24,6 @@ The repository author offers no warranty as to the accuracy, completeness, or re
 
 ![1](/images/5.png)
 
-### Shelter Details
-
-![2](/images/screenshots/2.png)
-
 ### Legend / Iconography
 
 ![Legend](/images/legend.png)
@@ -38,12 +34,9 @@ The repository author offers no warranty as to the accuracy, completeness, or re
 
 [ArcGIS](https://www.arcgis.com/apps/mapviewer/index.html?webmap=dee2adae16f04be387d9dc71266f7f52)
 
-### Interactive Web App (ArcGIS)
+### Neary Shelter Finding Utility
 
 [Link](https://www.arcgis.com/apps/instant/nearby/index.html?appid=8071b531f3c24a6d9072190da68ca00f)
-
-
-### Embed Code
 
 ```
 <iframe src="https://www.arcgis.com/apps/instant/nearby/index.html?appid=8071b531f3c24a6d9072190da68ca00f" width="1400" height="1000" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>

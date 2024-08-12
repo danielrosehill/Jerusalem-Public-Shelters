@@ -1,0 +1,4478 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2261714,31.7652249 ]
+     },
+     "properties": {
+     "Shelter No":"678",
+     "Address":"3 Nachshon St.",
+     "Full_Address":"3 Nachshon St., Jerusalem, Israel",
+     "Geolocation":"31.7652249, 35.2261714",
+     "Label":" 3 Nachshon St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"40​",
+     "Capacity (People)":32,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 3 Nachshon St.\nShelter No: 678\nActive?: Yes\nShelter Type: Most Protected\nArea: 40​\nCapacity: 32.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2189683,31.7593928 ]
+     },
+     "properties": {
+     "Shelter No":"681",
+     "Address":"8 Efrayim St.",
+     "Full_Address":"8 Efrayim St., Jerusalem, Israel",
+     "Geolocation":"31.7593928, 35.2189683",
+     "Label":" 8 Efrayim St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 8 Efrayim St.\nShelter No: 681\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2188286,31.7593263 ]
+     },
+     "properties": {
+     "Shelter No":"682",
+     "Address":"14 Reuven St.",
+     "Full_Address":"14 Reuven St., Jerusalem, Israel",
+     "Geolocation":"31.7593263, 35.2188286",
+     "Label":"INACTIVE! 14 Reuven St. (Normal)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"135",
+     "Capacity (People)":108,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 14 Reuven St.\nShelter No: 682\nActive?: No ⚠️\nShelter Type: Normal\nArea: 135\nCapacity: 108.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.22352619999999,31.7598214 ]
+     },
+     "properties": {
+     "Shelter No":"683",
+     "Address":"54 Hebron Rd.",
+     "Full_Address":"54 Hebron Rd., Jerusalem, Israel",
+     "Geolocation":"31.7598214, 35.22352619999999",
+     "Label":" 54 Hebron Rd. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"170",
+     "Capacity (People)":136,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 54 Hebron Rd.\nShelter No: 683\nActive?: Yes\nShelter Type: Normal\nArea: 170\nCapacity: 136.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2229651,31.7591133 ]
+     },
+     "properties": {
+     "Shelter No":"684",
+     "Address":"6 Esther HaMalka St.",
+     "Full_Address":"6 Esther HaMalka St., Jerusalem, Israel",
+     "Geolocation":"31.7591133, 35.2229651",
+     "Label":" 6 Esther HaMalka St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"295",
+     "Capacity (People)":236,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 6 Esther HaMalka St.\nShelter No: 684\nActive?: Yes\nShelter Type: Normal\nArea: 295\nCapacity: 236.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.22046,31.8117365 ]
+     },
+     "properties": {
+     "Shelter No":"685",
+     "Address":"6 Mordechai HaYehudi St.",
+     "Full_Address":"6 Mordechai HaYehudi St., Jerusalem, Israel",
+     "Geolocation":"31.8117365, 35.22046",
+     "Label":"INACTIVE! 6 Mordechai HaYehudi St. (Normal)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"200",
+     "Capacity (People)":160,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 6 Mordechai HaYehudi St.\nShelter No: 685\nActive?: No ⚠️\nShelter Type: Normal\nArea: 200\nCapacity: 160.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2200216,31.7607049 ]
+     },
+     "properties": {
+     "Shelter No":"823",
+     "Address":"13 Shimshon St.",
+     "Full_Address":"13 Shimshon St., Jerusalem, Israel",
+     "Geolocation":"31.7607049, 35.2200216",
+     "Label":"INACTIVE! 13 Shimshon St. (Normal)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"130",
+     "Capacity (People)":104,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 13 Shimshon St.\nShelter No: 823\nActive?: No ⚠️\nShelter Type: Normal\nArea: 130\nCapacity: 104.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2199033,31.7594673 ]
+     },
+     "properties": {
+     "Shelter No":"836",
+     "Address":"27 Menashe St.",
+     "Full_Address":"27 Menashe St., Jerusalem, Israel",
+     "Geolocation":"31.7594673, 35.2199033",
+     "Label":" 27 Menashe St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 27 Menashe St.\nShelter No: 836\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.220905,31.755074 ]
+     },
+     "properties": {
+     "Shelter No":"980",
+     "Address":"22 ​Rivka St.",
+     "Full_Address":"22 ​Rivka St., Jerusalem, Israel",
+     "Geolocation":"31.755074, 35.220905",
+     "Label":" 22 ​Rivka St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 22 ​Rivka St.\nShelter No: 980\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2212796,31.7617068 ]
+     },
+     "properties": {
+     "Shelter No":"984",
+     "Address":"11 Ya'el St.",
+     "Full_Address":"11 Ya'el St., Jerusalem, Israel",
+     "Geolocation":"31.7617068, 35.2212796",
+     "Label":" 11 Ya'el St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"160",
+     "Capacity (People)":128,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 11 Ya'el St.\nShelter No: 984\nActive?: Yes\nShelter Type: Normal\nArea: 160\nCapacity: 128.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2192529,31.755663 ]
+     },
+     "properties": {
+     "Shelter No":"988",
+     "Address":"5 Kibbutz Galuyot St.",
+     "Full_Address":"5 Kibbutz Galuyot St., Jerusalem, Israel",
+     "Geolocation":"31.755663, 35.2192529",
+     "Label":"⚠️5 Kibbutz Galuyot St. (Normal) ",
+     "Active?":"No",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"140",
+     "Capacity (People)":112,
+     "Operator":"Society Division, Jerusalem Municipality",
+     "All Data":"Address: 5 Kibbutz Galuyot St.\nShelter No: 988\nActive?: No\nShelter Type: Normal\nArea: 140\nCapacity: 112.0\nOperator: Society Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.220897,31.7573404 ]
+     },
+     "properties": {
+     "Shelter No":"995",
+     "Address":"3 Levi St.",
+     "Full_Address":"3 Levi St., Jerusalem, Israel",
+     "Geolocation":"31.7573404, 35.220897",
+     "Label":" 3 Levi St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Baka Community Administration",
+     "All Data":"Address: 3 Levi St.\nShelter No: 995\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Baka Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.18298,31.7658063 ]
+     },
+     "properties": {
+     "Shelter No":"742",
+     "Address":"7 Sha'arei Tora St.",
+     "Full_Address":"7 Sha'arei Tora St., Jerusalem, Israel",
+     "Geolocation":"31.7658063, 35.18298",
+     "Label":" 7 Sha'arei Tora St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"270",
+     "Capacity (People)":216,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 7 Sha'arei Tora St.\nShelter No: 742\nActive?: Yes\nShelter Type: Normal\nArea: 270\nCapacity: 216.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1845249,31.7691802 ]
+     },
+     "properties": {
+     "Shelter No":"743",
+     "Address":"39 Bayit VaGan St.",
+     "Full_Address":"39 Bayit VaGan St., Jerusalem, Israel",
+     "Geolocation":"31.7691802, 35.1845249",
+     "Label":" 39 Bayit VaGan St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"115",
+     "Capacity (People)":92,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 39 Bayit VaGan St.\nShelter No: 743\nActive?: Yes\nShelter Type: Normal\nArea: 115\nCapacity: 92.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1904157,31.7750135 ]
+     },
+     "properties": {
+     "Shelter No":"744",
+     "Address":"Ha-Banai St 4",
+     "Full_Address":"Ha-Banai St 4, Jerusalem, Israel",
+     "Geolocation":"31.7750135, 35.1904157",
+     "Label":"INACTIVE! Ha-Banai St 4 (Normal)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"170",
+     "Capacity (People)":136,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: Ha-Banai St 4\nShelter No: 744\nActive?: No ⚠️\nShelter Type: Normal\nArea: 170\nCapacity: 136.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1922716,31.7774853 ]
+     },
+     "properties": {
+     "Shelter No":"745",
+     "Address":"Ha-Banai St 30",
+     "Full_Address":"Ha-Banai St 30, Jerusalem, Israel",
+     "Geolocation":"31.7774853, 35.1922716",
+     "Label":"INACTIVE! Ha-Banai St 30 (Normal)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"170​",
+     "Capacity (People)":136,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: Ha-Banai St 30\nShelter No: 745\nActive?: No ⚠️\nShelter Type: Normal\nArea: 170​\nCapacity: 136.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.222439,31.7923274 ]
+     },
+     "properties": {
+     "Shelter No":"613",
+     "Address":"14 Shimshon Polanski St.",
+     "Full_Address":"14 Shimshon Polanski St., Jerusalem, Israel",
+     "Geolocation":"31.7923274, 35.222439",
+     "Label":" 14 Shimshon Polanski St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"280",
+     "Capacity (People)":224,
+     "Operator":"\"Yad Eliezer\" association",
+     "All Data":"Address: 14 Shimshon Polanski St.\nShelter No: 613\nActive?: Yes\nShelter Type: Normal\nArea: 280\nCapacity: 224.0\nOperator: \"Yad Eliezer\" association",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2241123,31.7908366 ]
+     },
+     "properties": {
+     "Shelter No":"619",
+     "Address":"4 Yosef Karo St.",
+     "Full_Address":"4 Yosef Karo St., Jerusalem, Israel",
+     "Geolocation":"31.7908366, 35.2241123",
+     "Label":"INACTIVE! 4 Yosef Karo St. (Normal)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"80",
+     "Capacity (People)":64,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 4 Yosef Karo St.\nShelter No: 619\nActive?: No ⚠️\nShelter Type: Normal\nArea: 80\nCapacity: 64.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2238283,31.788586 ]
+     },
+     "properties": {
+     "Shelter No":"625",
+     "Address":"22 Sha'arei Shamayim St.",
+     "Full_Address":"22 Sha'arei Shamayim St., Jerusalem, Israel",
+     "Geolocation":"31.788586, 35.2238283",
+     "Label":" 22 Sha'arei Shamayim St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"40",
+     "Capacity (People)":32,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 22 Sha'arei Shamayim St.\nShelter No: 625\nActive?: Yes\nShelter Type: Normal\nArea: 40\nCapacity: 32.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2237141,31.7892754 ]
+     },
+     "properties": {
+     "Shelter No":"626",
+     "Address":"22 Baruch Rapaport St.",
+     "Full_Address":"22 Baruch Rapaport St., Jerusalem, Israel",
+     "Geolocation":"31.7892754, 35.2237141",
+     "Label":" 22 Baruch Rapaport St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Eshkolot Community Administration",
+     "All Data":"Address: 22 Baruch Rapaport St.\nShelter No: 626\nActive?: Yes\nShelter Type: Most Protected\nArea: 100\nCapacity: 80.0\nOperator: Eshkolot Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.22416860000001,31.788024 ]
+     },
+     "properties": {
+     "Shelter No":"628",
+     "Address":"8 Amelim St.",
+     "Full_Address":"8 Amelim St., Jerusalem, Israel",
+     "Geolocation":"31.788024, 35.22416860000001",
+     "Label":" 8 Amelim St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"40",
+     "Capacity (People)":32,
+     "Operator":"Public library - \"Mosdei Olam\" organization",
+     "All Data":"Address: 8 Amelim St.\nShelter No: 628\nActive?: Yes\nShelter Type: Most Protected\nArea: 40\nCapacity: 32.0\nOperator: Public library - \"Mosdei Olam\" organization",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2213935,31.7910905 ]
+     },
+     "properties": {
+     "Shelter No":"841",
+     "Address":"25 Yoel St.",
+     "Full_Address":"25 Yoel St., Jerusalem, Israel",
+     "Geolocation":"31.7910905, 35.2213935",
+     "Label":" 25 Yoel St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"\"Mosiyof\" synagogue",
+     "All Data":"Address: 25 Yoel St.\nShelter No: 841\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: \"Mosiyof\" synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2232357,31.79186859999999 ]
+     },
+     "properties": {
+     "Shelter No":"908",
+     "Address":"22 Shimshon Polanski St.",
+     "Full_Address":"22 Shimshon Polanski St., Jerusalem, Israel",
+     "Geolocation":"31.79186859999999, 35.2232357",
+     "Label":" 22 Shimshon Polanski St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Bucharim Community Administration",
+     "All Data":"Address: 22 Shimshon Polanski St.\nShelter No: 908\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Bucharim Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.217219,31.793713 ]
+     },
+     "properties": {
+     "Shelter No":"608",
+     "Address":"44 Adoniyahu HaCohen St.",
+     "Full_Address":"44 Adoniyahu HaCohen St., Jerusalem, Israel",
+     "Geolocation":"31.793713, 35.217219",
+     "Label":" 44 Adoniyahu HaCohen St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"400",
+     "Capacity (People)":320,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 44 Adoniyahu HaCohen St.\nShelter No: 608\nActive?: Yes\nShelter Type: Most Protected\nArea: 400\nCapacity: 320.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2176755,31.7922354 ]
+     },
+     "properties": {
+     "Shelter No":"609",
+     "Address":"Yisa Bracha St 23",
+     "Full_Address":"Yisa Bracha St 23, Jerusalem, Israel",
+     "Geolocation":"31.7922354, 35.2176755",
+     "Label":" Yisa Bracha St 23 (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"250",
+     "Capacity (People)":200,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: Yisa Bracha St 23\nShelter No: 609\nActive?: Yes\nShelter Type: Most Protected\nArea: 250\nCapacity: 200.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.218937,31.7924974 ]
+     },
+     "properties": {
+     "Shelter No":"610",
+     "Address":"10 Aharon Fishel St.",
+     "Full_Address":"10 Aharon Fishel St., Jerusalem, Israel",
+     "Geolocation":"31.7924974, 35.218937",
+     "Label":" 10 Aharon Fishel St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"40",
+     "Capacity (People)":32,
+     "Operator":"\"Poteah Shearim\" organization",
+     "All Data":"Address: 10 Aharon Fishel St.\nShelter No: 610\nActive?: Yes\nShelter Type: Normal\nArea: 40\nCapacity: 32.0\nOperator: \"Poteah Shearim\" organization",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2208882,31.7931357 ]
+     },
+     "properties": {
+     "Shelter No":"611",
+     "Address":"11 Ben Tsiyon Gol St.",
+     "Full_Address":"11 Ben Tsiyon Gol St., Jerusalem, Israel",
+     "Geolocation":"31.7931357, 35.2208882",
+     "Label":" 11 Ben Tsiyon Gol St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"150",
+     "Capacity (People)":120,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 11 Ben Tsiyon Gol St.\nShelter No: 611\nActive?: Yes\nShelter Type: Most Protected\nArea: 150\nCapacity: 120.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2208909,31.7898417 ]
+     },
+     "properties": {
+     "Shelter No":"612",
+     "Address":"16 Yoel St.",
+     "Full_Address":"16 Yoel St., Jerusalem, Israel",
+     "Geolocation":"31.7898417, 35.2208909",
+     "Label":" 16 Yoel St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"50",
+     "Capacity (People)":40,
+     "Operator":"Karlin Hasidic community",
+     "All Data":"Address: 16 Yoel St.\nShelter No: 612\nActive?: Yes\nShelter Type: Most Protected\nArea: 50\nCapacity: 40.0\nOperator: Karlin Hasidic community",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2196628,31.7911551 ]
+     },
+     "properties": {
+     "Shelter No":"620",
+     "Address":"27 Yehezkhel St.",
+     "Full_Address":"27 Yehezkhel St., Jerusalem, Israel",
+     "Geolocation":"31.7911551, 35.2196628",
+     "Label":" 27 Yehezkhel St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"50",
+     "Capacity (People)":40,
+     "Operator":"\"Kfar Yeladim David\" organization",
+     "All Data":"Address: 27 Yehezkhel St.\nShelter No: 620\nActive?: Yes\nShelter Type: Most Protected\nArea: 50\nCapacity: 40.0\nOperator: \"Kfar Yeladim David\" organization",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2148846,31.791622 ]
+     },
+     "properties": {
+     "Shelter No":"910",
+     "Address":"Ovadya St 22",
+     "Full_Address":"Ovadya St 22, Jerusalem, Israel",
+     "Geolocation":"31.791622, 35.2148846",
+     "Label":" Ovadya St 22 (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Karlin Hassidic community's \"Beit Bracha\"",
+     "All Data":"Address: Ovadya St 22\nShelter No: 910\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Karlin Hassidic community's \"Beit Bracha\"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2152906,31.7864599 ]
+     },
+     "properties": {
+     "Shelter No":"639",
+     "Address":"2 Michel Pines St.",
+     "Full_Address":"2 Michel Pines St., Jerusalem, Israel",
+     "Geolocation":"31.7864599, 35.2152906",
+     "Label":" 2 Michel Pines St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"250",
+     "Capacity (People)":200,
+     "Operator":"\"Degel Yerushalayim\"",
+     "All Data":"Address: 2 Michel Pines St.\nShelter No: 639\nActive?: Yes\nShelter Type: Normal\nArea: 250\nCapacity: 200.0\nOperator: \"Degel Yerushalayim\"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2257588,31.7839236 ]
+     },
+     "properties": {
+     "Shelter No":"652",
+     "Address":"26 HaNevi'im St.",
+     "Full_Address":"26 HaNevi'im St., Jerusalem, Israel",
+     "Geolocation":"31.7839236, 35.2257588",
+     "Label":" 26 HaNevi'im St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"40",
+     "Capacity (People)":32,
+     "Operator":"\"United Hatzalah\" organization, Jerusalem",
+     "All Data":"Address: 26 HaNevi'im St.\nShelter No: 652\nActive?: Yes\nShelter Type: Normal\nArea: 40\nCapacity: 32.0\nOperator: \"United Hatzalah\" organization, Jerusalem",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.212869,31.7830058 ]
+     },
+     "properties": {
+     "Shelter No":"932",
+     "Address":"38 HaGilboa St.",
+     "Full_Address":"38 HaGilboa St., Jerusalem, Israel",
+     "Geolocation":"31.7830058, 35.212869",
+     "Label":" 38 HaGilboa St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Lev Ha'Ir Community Administration",
+     "All Data":"Address: 38 HaGilboa St.\nShelter No: 932\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Lev Ha'Ir Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.196903,31.787357 ]
+     },
+     "properties": {
+     "Shelter No":"973",
+     "Address":"5 HaRav Aviyada St.",
+     "Full_Address":"5 HaRav Aviyada St., Jerusalem, Israel",
+     "Geolocation":"31.787357, 35.196903",
+     "Label":" 5 HaRav Aviyada St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Drama school, Youth Promotion Department, Education Division, Municipality of Jerusalem",
+     "All Data":"Address: 5 HaRav Aviyada St.\nShelter No: 973\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Drama school, Youth Promotion Department, Education Division, Municipality of Jerusalem",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2147312,31.77967319999999 ]
+     },
+     "properties": {
+     "Shelter No":"974",
+     "Address":"9 Shmuel Hanagid St.",
+     "Full_Address":"9 Shmuel Hanagid St., Jerusalem, Israel",
+     "Geolocation":"31.77967319999999, 35.2147312",
+     "Label":" 9 Shmuel Hanagid St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Youth Promotion Department, Education Division, Jerusalem Municipality",
+     "All Data":"Address: 9 Shmuel Hanagid St.\nShelter No: 974\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Youth Promotion Department, Education Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2187319,31.78526159999999 ]
+     },
+     "properties": {
+     "Shelter No":"985",
+     "Address":"13 Strauss St.",
+     "Full_Address":"13 Strauss St., Jerusalem, Israel",
+     "Geolocation":"31.78526159999999, 35.2187319",
+     "Label":" 13 Strauss St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"50",
+     "Capacity (People)":40,
+     "Operator":"\"Helek MiMeni Bracha VeHesed\" organization (assistance to the needy)",
+     "All Data":"Address: 13 Strauss St.\nShelter No: 985\nActive?: Yes\nShelter Type: Normal\nArea: 50\nCapacity: 40.0\nOperator: \"Helek MiMeni Bracha VeHesed\" organization (assistance to the needy)",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"903",
+     "Address":"82 Homat HaTzalafim St.",
+     "Full_Address":"82 Homat HaTzalafim St., Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":" 82 Homat HaTzalafim St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"120",
+     "Capacity (People)":96,
+     "Operator":"Artists' studio, Ein Kerem Community Center",
+     "All Data":"Address: 82 Homat HaTzalafim St.\nShelter No: 903\nActive?: Yes\nShelter Type: Normal\nArea: 120\nCapacity: 96.0\nOperator: Artists' studio, Ein Kerem Community Center",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2173875,31.7648535 ]
+     },
+     "properties": {
+     "Shelter No":"672",
+     "Address":"10 Ruth St.",
+     "Full_Address":"10 Ruth St., Jerusalem, Israel",
+     "Geolocation":"31.7648535, 35.2173875",
+     "Label":" 10 Ruth St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"150",
+     "Capacity (People)":120,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 10 Ruth St.\nShelter No: 672\nActive?: Yes\nShelter Type: Normal\nArea: 150\nCapacity: 120.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2129114,31.7654554 ]
+     },
+     "properties": {
+     "Shelter No":"670",
+     "Address":"9 Bostanai St.",
+     "Full_Address":"9 Bostanai St., Jerusalem, Israel",
+     "Geolocation":"31.7654554, 35.2129114",
+     "Label":" 9 Bostanai St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"140",
+     "Capacity (People)":112,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 9 Bostanai St.\nShelter No: 670\nActive?: Yes\nShelter Type: Normal\nArea: 140\nCapacity: 112.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2185825,31.7634619 ]
+     },
+     "properties": {
+     "Shelter No":"673",
+     "Address":"3 Malal St.",
+     "Full_Address":"3 Malal St., Jerusalem, Israel",
+     "Geolocation":"31.7634619, 35.2185825",
+     "Label":" 3 Malal St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"114",
+     "Capacity (People)":91,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 3 Malal St.\nShelter No: 673\nActive?: Yes\nShelter Type: Normal\nArea: 114\nCapacity: 91.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.20998,31.782932 ]
+     },
+     "properties": {
+     "Shelter No":"674",
+     "Address":"7 Bachar St.",
+     "Full_Address":"7 Bachar St., Jerusalem, Israel",
+     "Geolocation":"31.782932, 35.20998",
+     "Label":" 7 Bachar St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"150",
+     "Capacity (People)":120,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 7 Bachar St.\nShelter No: 674\nActive?: Yes\nShelter Type: Normal\nArea: 150\nCapacity: 120.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2210073,31.7643611 ]
+     },
+     "properties": {
+     "Shelter No":"676",
+     "Address":"6 Emile Zola St.",
+     "Full_Address":"6 Emile Zola St., Jerusalem, Israel",
+     "Geolocation":"31.7643611, 35.2210073",
+     "Label":" 6 Emile Zola St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 6 Emile Zola St.\nShelter No: 676\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2213078,31.763875 ]
+     },
+     "properties": {
+     "Shelter No":"677",
+     "Address":"6 Wyndham Deedes St.",
+     "Full_Address":"6 Wyndham Deedes St., Jerusalem, Israel",
+     "Geolocation":"31.763875, 35.2213078",
+     "Label":" 6 Wyndham Deedes St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"290",
+     "Capacity (People)":232,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 6 Wyndham Deedes St.\nShelter No: 677\nActive?: Yes\nShelter Type: Normal\nArea: 290\nCapacity: 232.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2165345,31.7612795 ]
+     },
+     "properties": {
+     "Shelter No":"692",
+     "Address":"60 Emek Refaim St.",
+     "Full_Address":"60 Emek Refaim St., Jerusalem, Israel",
+     "Geolocation":"31.7612795, 35.2165345",
+     "Label":" 60 Emek Refaim St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"250",
+     "Capacity (People)":200,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 60 Emek Refaim St.\nShelter No: 692\nActive?: Yes\nShelter Type: Normal\nArea: 250\nCapacity: 200.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2147674,31.7625105 ]
+     },
+     "properties": {
+     "Shelter No":"693",
+     "Address":"9 Yotam St.",
+     "Full_Address":"9 Yotam St., Jerusalem, Israel",
+     "Geolocation":"31.7625105, 35.2147674",
+     "Label":" 9 Yotam St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"170",
+     "Capacity (People)":136,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 9 Yotam St.\nShelter No: 693\nActive?: Yes\nShelter Type: Normal\nArea: 170\nCapacity: 136.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2152704,31.7605694 ]
+     },
+     "properties": {
+     "Shelter No":"697",
+     "Address":"27 Yehoshua Bin Nun St.",
+     "Full_Address":"27 Yehoshua Bin Nun St., Jerusalem, Israel",
+     "Geolocation":"31.7605694, 35.2152704",
+     "Label":" 27 Yehoshua Bin Nun St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"160",
+     "Capacity (People)":128,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 27 Yehoshua Bin Nun St.\nShelter No: 697\nActive?: Yes\nShelter Type: Normal\nArea: 160\nCapacity: 128.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2196378,31.7647172 ]
+     },
+     "properties": {
+     "Shelter No":"804",
+     "Address":"8 HaMelits St.",
+     "Full_Address":"8 HaMelits St., Jerusalem, Israel",
+     "Geolocation":"31.7647172, 35.2196378",
+     "Label":" 8 HaMelits St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 8 HaMelits St.\nShelter No: 804\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.24157,31.80554 ]
+     },
+     "properties": {
+     "Shelter No":"998",
+     "Address":"6 Aba Berdichev St.",
+     "Full_Address":"6 Aba Berdichev St., Jerusalem, Israel",
+     "Geolocation":"31.805540, 35.241570",
+     "Label":" 6 Aba Berdichev St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 6 Aba Berdichev St.\nShelter No: 998\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21518,31.76173 ]
+     },
+     "properties": {
+     "Shelter No":"694",
+     "Address":"1 Amatsiya St.",
+     "Full_Address":"1 Amatsiya St., Jerusalem, Israel",
+     "Geolocation":"31.761730, 35.215180",
+     "Label":" 1 Amatsiya St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"200",
+     "Capacity (People)":160,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 1 Amatsiya St.\nShelter No: 694\nActive?: Yes\nShelter Type: Normal\nArea: 200\nCapacity: 160.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"695",
+     "Address":"2 Amatsiya St.",
+     "Full_Address":"2 Amatsiya St., Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":" 2 Amatsiya St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"250",
+     "Capacity (People)":200,
+     "Operator":"Chabad synagogue",
+     "All Data":"Address: 2 Amatsiya St.\nShelter No: 695\nActive?: Yes\nShelter Type: Most Protected\nArea: 250\nCapacity: 200.0\nOperator: Chabad synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2217038,31.7921348 ]
+     },
+     "properties": {
+     "Shelter No":"614",
+     "Address":"16 Shlomo Musayof St.",
+     "Full_Address":"16 Shlomo Musayof St., Jerusalem, Israel",
+     "Geolocation":"31.7921348, 35.2217038",
+     "Label":" 16 Shlomo Musayof St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"40",
+     "Capacity (People)":32,
+     "Operator":"\"Hesdei Yehezkel VeMiriam\" volunteer center",
+     "All Data":"Address: 16 Shlomo Musayof St.\nShelter No: 614\nActive?: Yes\nShelter Type: Most Protected\nArea: 40\nCapacity: 32.0\nOperator: \"Hesdei Yehezkel VeMiriam\" volunteer center",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2196259,31.7895088 ]
+     },
+     "properties": {
+     "Shelter No":"621",
+     "Address":"8 Hoshe'a St.",
+     "Full_Address":"8 Hoshe'a St., Jerusalem, Israel",
+     "Geolocation":"31.7895088, 35.2196259",
+     "Label":" 8 Hoshe'a St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 8 Hoshe'a St.\nShelter No: 621\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2185026,31.78467939999999 ]
+     },
+     "properties": {
+     "Shelter No":"623",
+     "Address":"14 Zechariah HaRofeh St.",
+     "Full_Address":"14 Zechariah HaRofeh St., Jerusalem, Israel",
+     "Geolocation":"31.78467939999999, 35.2185026",
+     "Label":" 14 Zechariah HaRofeh St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"40",
+     "Capacity (People)":32,
+     "Operator":"MeTeiman Yavo\" yeshiva",
+     "All Data":"Address: 14 Zechariah HaRofeh St.\nShelter No: 623\nActive?: Yes\nShelter Type: Most Protected\nArea: 40\nCapacity: 32.0\nOperator: MeTeiman Yavo\" yeshiva",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2210223,31.7874772 ]
+     },
+     "properties": {
+     "Shelter No":"635",
+     "Address":"15 Avodat Yisrael St.",
+     "Full_Address":"15 Avodat Yisrael St., Jerusalem, Israel",
+     "Geolocation":"31.7874772, 35.2210223",
+     "Label":" 15 Avodat Yisrael St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":32,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 15 Avodat Yisrael St.\nShelter No: 635\nActive?: Yes\nShelter Type: Normal\nArea: nan\nCapacity: 32.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2199891,31.7875368 ]
+     },
+     "properties": {
+     "Shelter No":"637",
+     "Address":"18 Nahman MiBreslev St.",
+     "Full_Address":"18 Nahman MiBreslev St., Jerusalem, Israel",
+     "Geolocation":"31.7875368, 35.2199891",
+     "Label":" 18 Nahman MiBreslev St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 18 Nahman MiBreslev St.\nShelter No: 637\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2172062,31.791313 ]
+     },
+     "properties": {
+     "Shelter No":"830",
+     "Address":"25 Tsfanya St.",
+     "Full_Address":"25 Tsfanya St., Jerusalem, Israel",
+     "Geolocation":"31.791313, 35.2172062",
+     "Label":" 25 Tsfanya St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Bucharim Community Administration",
+     "All Data":"Address: 25 Tsfanya St.\nShelter No: 830\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Bucharim Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2112935,31.79017869999999 ]
+     },
+     "properties": {
+     "Shelter No":"904",
+     "Address":"7 HaZayit St.",
+     "Full_Address":"7 HaZayit St., Jerusalem, Israel",
+     "Geolocation":"31.79017869999999, 35.2112935",
+     "Label":" 7 HaZayit St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"125",
+     "Capacity (People)":100,
+     "Operator":"Sanitation Division, Jerusalem Municipality",
+     "All Data":"Address: 7 HaZayit St.\nShelter No: 904\nActive?: Yes\nShelter Type: Normal\nArea: 125\nCapacity: 100.0\nOperator: Sanitation Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2011204,31.7613455 ]
+     },
+     "properties": {
+     "Shelter No":"715",
+     "Address":"52 David Shimoni St.",
+     "Full_Address":"52 David Shimoni St., Jerusalem, Israel",
+     "Geolocation":"31.7613455, 35.2011204",
+     "Label":" 52 David Shimoni St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"180",
+     "Capacity (People)":144,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 52 David Shimoni St.\nShelter No: 715\nActive?: Yes\nShelter Type: Normal\nArea: 180\nCapacity: 144.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2072491,31.7654279 ]
+     },
+     "properties": {
+     "Shelter No":"949",
+     "Address":"33 HaTayasim St.",
+     "Full_Address":"33 HaTayasim St., Jerusalem, Israel",
+     "Geolocation":"31.7654279, 35.2072491",
+     "Label":" 33 HaTayasim St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Ginot Ha'Ir Community Administration",
+     "All Data":"Address: 33 HaTayasim St.\nShelter No: 949\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Ginot Ha'Ir Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2252486,31.7961216 ]
+     },
+     "properties": {
+     "Shelter No":"808",
+     "Address":"27 Yisrael Najara St.",
+     "Full_Address":"27 Yisrael Najara St., Jerusalem, Israel",
+     "Geolocation":"31.7961216, 35.2252486",
+     "Label":" 27 Yisrael Najara St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Meitarim Community Administration",
+     "All Data":"Address: 27 Yisrael Najara St.\nShelter No: 808\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Meitarim Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2049945,31.7651489 ]
+     },
+     "properties": {
+     "Shelter No":"700",
+     "Address":"15 David Shimoni St.",
+     "Full_Address":"15 David Shimoni St., Jerusalem, Israel",
+     "Geolocation":"31.7651489, 35.2049945",
+     "Label":" 15 David Shimoni St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"85",
+     "Capacity (People)":67,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 15 David Shimoni St.\nShelter No: 700\nActive?: Yes\nShelter Type: Most Protected\nArea: 85\nCapacity: 67.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1721424,31.752843 ]
+     },
+     "properties": {
+     "Shelter No":"726",
+     "Address":"123 HaNurit St.",
+     "Full_Address":"123 HaNurit St., Jerusalem, Israel",
+     "Geolocation":"31.752843, 35.1721424",
+     "Label":" 123 HaNurit St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"350",
+     "Capacity (People)":280,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 123 HaNurit St.\nShelter No: 726\nActive?: Yes\nShelter Type: Normal\nArea: 350\nCapacity: 280.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1705897,31.7543807 ]
+     },
+     "properties": {
+     "Shelter No":"727",
+     "Address":"104 HaNurit St.",
+     "Full_Address":"104 HaNurit St., Jerusalem, Israel",
+     "Geolocation":"31.7543807, 35.1705897",
+     "Label":" 104 HaNurit St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"120",
+     "Capacity (People)":148,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 104 HaNurit St.\nShelter No: 727\nActive?: Yes\nShelter Type: Normal\nArea: 120\nCapacity: 148.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1701886,31.7546412 ]
+     },
+     "properties": {
+     "Shelter No":"728",
+     "Address":"102 HaNurit St.",
+     "Full_Address":"102 HaNurit St., Jerusalem, Israel",
+     "Geolocation":"31.7546412, 35.1701886",
+     "Label":"INACTIVE! 102 HaNurit St. (Normal)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"183",
+     "Capacity (People)":148,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 102 HaNurit St.\nShelter No: 728\nActive?: No ⚠️\nShelter Type: Normal\nArea: 183\nCapacity: 148.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.166039,31.7534184 ]
+     },
+     "properties": {
+     "Shelter No":"829",
+     "Address":"9 HaRakefet St.",
+     "Full_Address":"9 HaRakefet St., Jerusalem, Israel",
+     "Geolocation":"31.7534184, 35.166039",
+     "Label":" 9 HaRakefet St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":32,
+     "Operator":"\"Chai Tayeb\" synagogue",
+     "All Data":"Address: 9 HaRakefet St.\nShelter No: 829\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 32.0\nOperator: \"Chai Tayeb\" synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1670549,31.7528615 ]
+     },
+     "properties": {
+     "Shelter No":"840",
+     "Address":"70 Costa Rica St.",
+     "Full_Address":"70 Costa Rica St., Jerusalem, Israel",
+     "Geolocation":"31.7528615, 35.1670549",
+     "Label":" 70 Costa Rica St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":32,
+     "Operator":"\"Beit Chabad\" building",
+     "All Data":"Address: 70 Costa Rica St.\nShelter No: 840\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 32.0\nOperator: \"Beit Chabad\" building",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1665208,31.7591071 ]
+     },
+     "properties": {
+     "Shelter No":"901",
+     "Address":"13 Iceland St",
+     "Full_Address":"13 Iceland St, Jerusalem, Israel",
+     "Geolocation":"31.7591071, 35.1665208",
+     "Label":" 13 Iceland St (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"150",
+     "Capacity (People)":120,
+     "Operator":"\"David Moshe\" synagogue",
+     "All Data":"Address: 13 Iceland St\nShelter No: 901\nActive?: Yes\nShelter Type: Normal\nArea: 150\nCapacity: 120.0\nOperator: \"David Moshe\" synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1690152,31.7546734 ]
+     },
+     "properties": {
+     "Shelter No":"902",
+     "Address":"29 HaNurit St.",
+     "Full_Address":"29 HaNurit St., Jerusalem, Israel",
+     "Geolocation":"31.7546734, 35.1690152",
+     "Label":" 29 HaNurit St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"250",
+     "Capacity (People)":200,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 29 HaNurit St.\nShelter No: 902\nActive?: Yes\nShelter Type: Normal\nArea: 250\nCapacity: 200.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1708159,31.7570072 ]
+     },
+     "properties": {
+     "Shelter No":"905",
+     "Address":"1 HaNerd St.",
+     "Full_Address":"1 HaNerd St., Jerusalem, Israel",
+     "Geolocation":"31.7570072, 35.1708159",
+     "Label":" 1 HaNerd St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"138",
+     "Capacity (People)":110,
+     "Operator":"\"Ezra\" youth movement",
+     "All Data":"Address: 1 HaNerd St.\nShelter No: 905\nActive?: Yes\nShelter Type: Normal\nArea: 138\nCapacity: 110.0\nOperator: \"Ezra\" youth movement",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2102465,31.7573047 ]
+     },
+     "properties": {
+     "Shelter No":"663",
+     "Address":"6 HaAmora'ïm St.",
+     "Full_Address":"6 HaAmora'ïm St., Jerusalem, Israel",
+     "Geolocation":"31.7573047, 35.2102465",
+     "Label":" 6 HaAmora'ïm St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"60",
+     "Capacity (People)":48,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 6 HaAmora'ïm St.\nShelter No: 663\nActive?: Yes\nShelter Type: Most Protected\nArea: 60\nCapacity: 48.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"704",
+     "Address":"5 Yohanan Ben Zakai St.",
+     "Full_Address":"5 Yohanan Ben Zakai St., Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":" 5 Yohanan Ben Zakai St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"",
+     "Capacity (People)":160,
+     "Operator":"\"Yerushachmat\"",
+     "All Data":"Address: 5 Yohanan Ben Zakai St.\nShelter No: 704\nActive?: Yes\nShelter Type: Most Protected\nArea: nan\nCapacity: 160.0\nOperator: \"Yerushachmat\"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"704A",
+     "Address":"5 Yohanan ben Zakai St.",
+     "Full_Address":"5 Yohanan ben Zakai St., Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":" 5 Yohanan ben Zakai St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"360",
+     "Capacity (People)":160,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 5 Yohanan ben Zakai St.\nShelter No: 704A\nActive?: Yes\nShelter Type: Most Protected\nArea: 360\nCapacity: 160.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2125034,31.7581435 ]
+     },
+     "properties": {
+     "Shelter No":"705",
+     "Address":"7 Ma'agalei Yavne St.",
+     "Full_Address":"7 Ma'agalei Yavne St., Jerusalem, Israel",
+     "Geolocation":"31.7581435, 35.2125034",
+     "Label":" 7 Ma'agalei Yavne St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"400",
+     "Capacity (People)":320,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 7 Ma'agalei Yavne St.\nShelter No: 705\nActive?: Yes\nShelter Type: Most Protected\nArea: 400\nCapacity: 320.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2097741,31.756198 ]
+     },
+     "properties": {
+     "Shelter No":"707",
+     "Address":"22 Rashbag St.",
+     "Full_Address":"22 Rashbag St., Jerusalem, Israel",
+     "Geolocation":"31.756198, 35.2097741",
+     "Label":" 22 Rashbag St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"",
+     "Capacity (People)":32,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 22 Rashbag St.\nShelter No: 707\nActive?: Yes\nShelter Type: Most Protected\nArea: nan\nCapacity: 32.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2048301,31.757374 ]
+     },
+     "properties": {
+     "Shelter No":"709",
+     "Address":"5 Ben Tabai St.",
+     "Full_Address":"5 Ben Tabai St., Jerusalem, Israel",
+     "Geolocation":"31.757374, 35.2048301",
+     "Label":" 5 Ben Tabai St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"160",
+     "Capacity (People)":128,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 5 Ben Tabai St.\nShelter No: 709\nActive?: Yes\nShelter Type: Most Protected\nArea: 160\nCapacity: 128.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.209515,31.759067 ]
+     },
+     "properties": {
+     "Shelter No":"710",
+     "Address":"70 Yohanan ben Zakai St.",
+     "Full_Address":"70 Yohanan ben Zakai St., Jerusalem, Israel",
+     "Geolocation":"31.759067, 35.209515",
+     "Label":"INACTIVE! 70 Yohanan ben Zakai St. (Most Protected)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"160",
+     "Capacity (People)":128,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 70 Yohanan ben Zakai St.\nShelter No: 710\nActive?: No ⚠️\nShelter Type: Most Protected\nArea: 160\nCapacity: 128.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.200203,31.75562759999999 ]
+     },
+     "properties": {
+     "Shelter No":"714",
+     "Address":"3 Kana'ei HaGalil St.",
+     "Full_Address":"3 Kana'ei HaGalil St., Jerusalem, Israel",
+     "Geolocation":"31.75562759999999, 35.200203",
+     "Label":" 3 Kana'ei HaGalil St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"40",
+     "Capacity (People)":32,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 3 Kana'ei HaGalil St.\nShelter No: 714\nActive?: Yes\nShelter Type: Most Protected\nArea: 40\nCapacity: 32.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1938906,31.7542746 ]
+     },
+     "properties": {
+     "Shelter No":"718",
+     "Address":"6 Rabbi Tzadok St.",
+     "Full_Address":"6 Rabbi Tzadok St., Jerusalem, Israel",
+     "Geolocation":"31.7542746, 35.1938906",
+     "Label":" 6 Rabbi Tzadok St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"120",
+     "Capacity (People)":96,
+     "Operator":"Gonenim Community Administration",
+     "All Data":"Address: 6 Rabbi Tzadok St.\nShelter No: 718\nActive?: Yes\nShelter Type: Normal\nArea: 120\nCapacity: 96.0\nOperator: Gonenim Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1966235,31.756184 ]
+     },
+     "properties": {
+     "Shelter No":"755",
+     "Address":"3 Dov Hoz St.",
+     "Full_Address":"3 Dov Hoz St., Jerusalem, Israel",
+     "Geolocation":"31.756184, 35.1966235",
+     "Label":" 3 Dov Hoz St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Culture Division, Municipality of Jerusalem",
+     "All Data":"Address: 3 Dov Hoz St.\nShelter No: 755\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Culture Division, Municipality of Jerusalem",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.19506,31.75418 ]
+     },
+     "properties": {
+     "Shelter No":"756",
+     "Address":"1 San Martin St.",
+     "Full_Address":"1 San Martin St., Jerusalem, Israel",
+     "Geolocation":"31.754180, 35.195060",
+     "Label":" 1 San Martin St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"\"Torah BeTziyon Tzedek\" youth movement",
+     "All Data":"Address: 1 San Martin St.\nShelter No: 756\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: \"Torah BeTziyon Tzedek\" youth movement",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.19782,31.7555179 ]
+     },
+     "properties": {
+     "Shelter No":"757",
+     "Address":"5 HaShomer St.",
+     "Full_Address":"5 HaShomer St., Jerusalem, Israel",
+     "Geolocation":"31.7555179, 35.19782",
+     "Label":" 5 HaShomer St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Youth Advancement Department, Jerusalem Municipality",
+     "All Data":"Address: 5 HaShomer St.\nShelter No: 757\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Youth Advancement Department, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2107496,31.7622002 ]
+     },
+     "properties": {
+     "Shelter No":"805",
+     "Address":"21 Yordei HaSira St.",
+     "Full_Address":"21 Yordei HaSira St., Jerusalem, Israel",
+     "Geolocation":"31.7622002, 35.2107496",
+     "Label":" 21 Yordei HaSira St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"370",
+     "Capacity (People)":296,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 21 Yordei HaSira St.\nShelter No: 805\nActive?: Yes\nShelter Type: Normal\nArea: 370\nCapacity: 296.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2122387,31.7605935 ]
+     },
+     "properties": {
+     "Shelter No":"817",
+     "Address":"7 Yehoshua Ben Gamla St.",
+     "Full_Address":"7 Yehoshua Ben Gamla St., Jerusalem, Israel",
+     "Geolocation":"31.7605935, 35.2122387",
+     "Label":" 7 Yehoshua Ben Gamla St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":96,
+     "Operator":"Ginot Ha'Ir Community Administration",
+     "All Data":"Address: 7 Yehoshua Ben Gamla St.\nShelter No: 817\nActive?: Yes\nShelter Type: Normal\nArea: nan\nCapacity: 96.0\nOperator: Ginot Ha'Ir Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2086146,31.7552236 ]
+     },
+     "properties": {
+     "Shelter No":"824",
+     "Address":"31 Rashbag St.",
+     "Full_Address":"31 Rashbag St., Jerusalem, Israel",
+     "Geolocation":"31.7552236, 35.2086146",
+     "Label":" 31 Rashbag St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"150",
+     "Capacity (People)":120,
+     "Operator":"Mikro Theater, Culture Division, Jerusalem Municipality",
+     "All Data":"Address: 31 Rashbag St.\nShelter No: 824\nActive?: Yes\nShelter Type: Normal\nArea: 150\nCapacity: 120.0\nOperator: Mikro Theater, Culture Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.201658,31.7534272 ]
+     },
+     "properties": {
+     "Shelter No":"825",
+     "Address":"24 Elazar Ben Yair St.",
+     "Full_Address":"24 Elazar Ben Yair St., Jerusalem, Israel",
+     "Geolocation":"31.7534272, 35.201658",
+     "Label":" 24 Elazar Ben Yair St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"150",
+     "Capacity (People)":120,
+     "Operator":"\"Ariel\" youth movement",
+     "All Data":"Address: 24 Elazar Ben Yair St.\nShelter No: 825\nActive?: Yes\nShelter Type: Normal\nArea: 150\nCapacity: 120.0\nOperator: \"Ariel\" youth movement",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.196903,31.787357 ]
+     },
+     "properties": {
+     "Shelter No":"828",
+     "Address":"10 HaRav Hasda St.",
+     "Full_Address":"10 HaRav Hasda St., Jerusalem, Israel",
+     "Geolocation":"31.787357, 35.196903",
+     "Label":" 10 HaRav Hasda St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"boxing club",
+     "All Data":"Address: 10 HaRav Hasda St.\nShelter No: 828\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: boxing club",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1954492,31.7560538 ]
+     },
+     "properties": {
+     "Shelter No":"831",
+     "Address":"7 Dov Hoz St.",
+     "Full_Address":"7 Dov Hoz St., Jerusalem, Israel",
+     "Geolocation":"31.7560538, 35.1954492",
+     "Label":" 7 Dov Hoz St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"150",
+     "Capacity (People)":120,
+     "Operator":"Keshet Arts, Culture Division, Jerusalem Municipality",
+     "All Data":"Address: 7 Dov Hoz St.\nShelter No: 831\nActive?: Yes\nShelter Type: Normal\nArea: 150\nCapacity: 120.0\nOperator: Keshet Arts, Culture Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1953426,31.7529687 ]
+     },
+     "properties": {
+     "Shelter No":"842",
+     "Address":"8 Bar Yochai St.",
+     "Full_Address":"8 Bar Yochai St., Jerusalem, Israel",
+     "Geolocation":"31.7529687, 35.1953426",
+     "Label":" 8 Bar Yochai St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"174",
+     "Capacity (People)":139,
+     "Operator":"synagogue for Israelis of Ethiopian origin",
+     "All Data":"Address: 8 Bar Yochai St.\nShelter No: 842\nActive?: Yes\nShelter Type: Normal\nArea: 174\nCapacity: 139.0\nOperator: synagogue for Israelis of Ethiopian origin",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1987596,31.7541317 ]
+     },
+     "properties": {
+     "Shelter No":"906",
+     "Address":"2 Bar Yochai St.",
+     "Full_Address":"2 Bar Yochai St., Jerusalem, Israel",
+     "Geolocation":"31.7541317, 35.1987596",
+     "Label":" 2 Bar Yochai St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Gal Avraham\" synagogue",
+     "All Data":"Address: 2 Bar Yochai St.\nShelter No: 906\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Gal Avraham\" synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"965",
+     "Address":"7 Yitzhak Sadeh St.",
+     "Full_Address":"7 Yitzhak Sadeh St., Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":" 7 Yitzhak Sadeh St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"\"Havatzelet HaSharon\" synagogue",
+     "All Data":"Address: 7 Yitzhak Sadeh St.\nShelter No: 965\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: \"Havatzelet HaSharon\" synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2094264,31.7577645 ]
+     },
+     "properties": {
+     "Shelter No":"967",
+     "Address":"7 Antignos St.",
+     "Full_Address":"7 Antignos St., Jerusalem, Israel",
+     "Geolocation":"31.7577645, 35.2094264",
+     "Label":" 7 Antignos St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"\"Ariel\" movement",
+     "All Data":"Address: 7 Antignos St.\nShelter No: 967\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: \"Ariel\" movement",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2087293,31.7567059 ]
+     },
+     "properties": {
+     "Shelter No":"969",
+     "Address":"16 Yossi Ben Yo'ezer St.",
+     "Full_Address":"16 Yossi Ben Yo'ezer St., Jerusalem, Israel",
+     "Geolocation":"31.7567059, 35.2087293",
+     "Label":" 16 Yossi Ben Yo'ezer St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Society Division, Jerusalem Municipality",
+     "All Data":"Address: 16 Yossi Ben Yo'ezer St.\nShelter No: 969\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Society Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.19221,31.75536 ]
+     },
+     "properties": {
+     "Shelter No":"976",
+     "Address":"41 Avraham Elmaliach St.",
+     "Full_Address":"41 Avraham Elmaliach St., Jerusalem, Israel",
+     "Geolocation":"31.755360, 35.192210",
+     "Label":" 41 Avraham Elmaliach St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"50",
+     "Capacity (People)":40,
+     "Operator":"organization of Israelis of Kurdish origin",
+     "All Data":"Address: 41 Avraham Elmaliach St.\nShelter No: 976\nActive?: Yes\nShelter Type: Normal\nArea: 50\nCapacity: 40.0\nOperator: organization of Israelis of Kurdish origin",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1765674,31.7578262 ]
+     },
+     "properties": {
+     "Shelter No":"981",
+     "Address":"27 Avraham Elmaliach St.",
+     "Full_Address":"27 Avraham Elmaliach St., Jerusalem, Israel",
+     "Geolocation":"31.7578262, 35.1765674",
+     "Label":" 27 Avraham Elmaliach St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"50",
+     "Capacity (People)":40,
+     "Operator":"\"Tzofim\", Society Division, Jerusalem Municipality",
+     "All Data":"Address: 27 Avraham Elmaliach St.\nShelter No: 981\nActive?: Yes\nShelter Type: Normal\nArea: 50\nCapacity: 40.0\nOperator: \"Tzofim\", Society Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"987",
+     "Address":"38 Yohanan Ben Zakai St.",
+     "Full_Address":"38 Yohanan Ben Zakai St., Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":" 38 Yohanan Ben Zakai St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"\"Ohel Moshe\" synagogue",
+     "All Data":"Address: 38 Yohanan Ben Zakai St.\nShelter No: 987\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: \"Ohel Moshe\" synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1773017,31.7554891 ]
+     },
+     "properties": {
+     "Shelter No":"721",
+     "Address":"29 Uruguay St.",
+     "Full_Address":"29 Uruguay St., Jerusalem, Israel",
+     "Geolocation":"31.7554891, 35.1773017",
+     "Label":" 29 Uruguay St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"130",
+     "Capacity (People)":104,
+     "Operator":"Community Administration, Public Health Division, Jerusalem Municipality",
+     "All Data":"Address: 29 Uruguay St.\nShelter No: 721\nActive?: Yes\nShelter Type: Normal\nArea: 130\nCapacity: 104.0\nOperator: Community Administration, Public Health Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1766545,31.7563747 ]
+     },
+     "properties": {
+     "Shelter No":"722",
+     "Address":"67 Avraham Stern St.",
+     "Full_Address":"67 Avraham Stern St., Jerusalem, Israel",
+     "Geolocation":"31.7563747, 35.1766545",
+     "Label":"INACTIVE! 67 Avraham Stern St. (Normal)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"130",
+     "Capacity (People)":104,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 67 Avraham Stern St.\nShelter No: 722\nActive?: No ⚠️\nShelter Type: Normal\nArea: 130\nCapacity: 104.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1766657,31.7540446 ]
+     },
+     "properties": {
+     "Shelter No":"723",
+     "Address":"51 Avraham Stern St.",
+     "Full_Address":"51 Avraham Stern St., Jerusalem, Israel",
+     "Geolocation":"31.7540446, 35.1766657",
+     "Label":"INACTIVE! 51 Avraham Stern St. (Normal)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"130",
+     "Capacity (People)":104,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 51 Avraham Stern St.\nShelter No: 723\nActive?: No ⚠️\nShelter Type: Normal\nArea: 130\nCapacity: 104.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1776071,31.758191 ]
+     },
+     "properties": {
+     "Shelter No":"724",
+     "Address":"9 Volta Ilit St.",
+     "Full_Address":"9 Volta Ilit St., Jerusalem, Israel",
+     "Geolocation":"31.758191, 35.1776071",
+     "Label":" 9 Volta Ilit St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"90",
+     "Capacity (People)":72,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 9 Volta Ilit St.\nShelter No: 724\nActive?: Yes\nShelter Type: Normal\nArea: 90\nCapacity: 72.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1704658,31.7605238 ]
+     },
+     "properties": {
+     "Shelter No":"736",
+     "Address":"8 Chile St.",
+     "Full_Address":"8 Chile St., Jerusalem, Israel",
+     "Geolocation":"31.7605238, 35.1704658",
+     "Label":" 8 Chile St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"200",
+     "Capacity (People)":160,
+     "Operator":"Yuvalim Community Administration",
+     "All Data":"Address: 8 Chile St.\nShelter No: 736\nActive?: Yes\nShelter Type: Normal\nArea: 200\nCapacity: 160.0\nOperator: Yuvalim Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1721157,31.7599405 ]
+     },
+     "properties": {
+     "Shelter No":"737",
+     "Address":"32 Janus Korczak St.",
+     "Full_Address":"32 Janus Korczak St., Jerusalem, Israel",
+     "Geolocation":"31.7599405, 35.1721157",
+     "Label":" 32 Janus Korczak St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"150",
+     "Capacity (People)":120,
+     "Operator":"\"Mishkan Mordechai\" synagogue",
+     "All Data":"Address: 32 Janus Korczak St.\nShelter No: 737\nActive?: Yes\nShelter Type: Normal\nArea: 150\nCapacity: 120.0\nOperator: \"Mishkan Mordechai\" synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.173213,31.7619861 ]
+     },
+     "properties": {
+     "Shelter No":"738",
+     "Address":"78 Anielewicz St.",
+     "Full_Address":"78 Anielewicz St., Jerusalem, Israel",
+     "Geolocation":"31.7619861, 35.173213",
+     "Label":" 78 Anielewicz St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"90",
+     "Capacity (People)":72,
+     "Operator":"\"Bnei Akiva\" youth movement",
+     "All Data":"Address: 78 Anielewicz St.\nShelter No: 738\nActive?: Yes\nShelter Type: Normal\nArea: 90\nCapacity: 72.0\nOperator: \"Bnei Akiva\" youth movement",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.17600315093499,31.766097564908534 ]
+     },
+     "properties": {
+     "Shelter No":"739",
+     "Address":"3 Schmorak St.",
+     "Full_Address":"3 Schmorak St., Jerusalem, Israel",
+     "Geolocation":"31.766097564908538, 35.17600315093499",
+     "Label":" 3 Schmorak St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"90",
+     "Capacity (People)":72,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 3 Schmorak St.\nShelter No: 739\nActive?: Yes\nShelter Type: Normal\nArea: 90\nCapacity: 72.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1772484,31.7659542 ]
+     },
+     "properties": {
+     "Shelter No":"740",
+     "Address":"7 Yisrael Zangvil St.",
+     "Full_Address":"7 Yisrael Zangvil St., Jerusalem, Israel",
+     "Geolocation":"31.7659542, 35.1772484",
+     "Label":" 7 Yisrael Zangvil St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"90",
+     "Capacity (People)":72,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 7 Yisrael Zangvil St.\nShelter No: 740\nActive?: Yes\nShelter Type: Normal\nArea: 90\nCapacity: 72.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.178301,31.767178 ]
+     },
+     "properties": {
+     "Shelter No":"741",
+     "Address":"5 Yisrael Zangvill St.",
+     "Full_Address":"5 Yisrael Zangvill St., Jerusalem, Israel",
+     "Geolocation":"31.767178, 35.178301",
+     "Label":" 5 Yisrael Zangvill St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"90",
+     "Capacity (People)":72,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 5 Yisrael Zangvill St.\nShelter No: 741\nActive?: Yes\nShelter Type: Normal\nArea: 90\nCapacity: 72.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1772128,31.7592371 ]
+     },
+     "properties": {
+     "Shelter No":"814",
+     "Address":"3 Volta Ilit St.",
+     "Full_Address":"3 Volta Ilit St., Jerusalem, Israel",
+     "Geolocation":"31.7592371, 35.1772128",
+     "Label":" 3 Volta Ilit St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"130",
+     "Capacity (People)":104,
+     "Operator":"Yuvalim Community Administration",
+     "All Data":"Address: 3 Volta Ilit St.\nShelter No: 814\nActive?: Yes\nShelter Type: Normal\nArea: 130\nCapacity: 104.0\nOperator: Yuvalim Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1772128,31.7592371 ]
+     },
+     "properties": {
+     "Shelter No":"814 A",
+     "Address":"3 Volta Ilit St.",
+     "Full_Address":"3 Volta Ilit St., Jerusalem, Israel",
+     "Geolocation":"31.7592371, 35.1772128",
+     "Label":" 3 Volta Ilit St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"130",
+     "Capacity (People)":104,
+     "Operator":"\"Beit HaKehilot\", Yuvalim Community Administration",
+     "All Data":"Address: 3 Volta Ilit St.\nShelter No: 814 A\nActive?: Yes\nShelter Type: Normal\nArea: 130\nCapacity: 104.0\nOperator: \"Beit HaKehilot\", Yuvalim Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1752983,31.7651059 ]
+     },
+     "properties": {
+     "Shelter No":"815",
+     "Address":"2 Aharon Rabinovich St.",
+     "Full_Address":"2 Aharon Rabinovich St., Jerusalem, Israel",
+     "Geolocation":"31.7651059, 35.1752983",
+     "Label":" 2 Aharon Rabinovich St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"168",
+     "Capacity (People)":134,
+     "Operator":"music institute",
+     "All Data":"Address: 2 Aharon Rabinovich St.\nShelter No: 815\nActive?: Yes\nShelter Type: Normal\nArea: 168\nCapacity: 134.0\nOperator: music institute",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1752983,31.7651059 ]
+     },
+     "properties": {
+     "Shelter No":"815 A",
+     "Address":"2 Aharon Rabinovich St.",
+     "Full_Address":"2 Aharon Rabinovich St., Jerusalem, Israel",
+     "Geolocation":"31.7651059, 35.1752983",
+     "Label":" 2 Aharon Rabinovich St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"815 A",
+     "Capacity (People)":136,
+     "Operator":"\"Yad Avi\" synagogue",
+     "All Data":"Address: 2 Aharon Rabinovich St.\nShelter No: 815 A\nActive?: Yes\nShelter Type: Normal\nArea: 815 A\nCapacity: 136.0\nOperator: \"Yad Avi\" synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.17454759511014,31.76081939638985 ]
+     },
+     "properties": {
+     "Shelter No":"947",
+     "Address":"17 Sireni St.",
+     "Full_Address":"17 Sireni St., Jerusalem, Israel",
+     "Geolocation":"31.76081939638985, 35.17454759511014",
+     "Label":" 17 Sireni St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Culture Division, Jerusalem Municipality",
+     "All Data":"Address: 17 Sireni St.\nShelter No: 947\nActive?: Yes\nShelter Type: Most Protected\nArea: 100\nCapacity: 80.0\nOperator: Culture Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1773224,31.7658085 ]
+     },
+     "properties": {
+     "Shelter No":"963",
+     "Address":"11 Yisrael Zangvill St.",
+     "Full_Address":"11 Yisrael Zangvill St., Jerusalem, Israel",
+     "Geolocation":"31.7658085, 35.1773224",
+     "Label":" 11 Yisrael Zangvill St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"\"Siach Yisrael\" synagogue",
+     "All Data":"Address: 11 Yisrael Zangvill St.\nShelter No: 963\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: \"Siach Yisrael\" synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1757899,31.7573526 ]
+     },
+     "properties": {
+     "Shelter No":"964",
+     "Address":"8 Meir Grunwald St.",
+     "Full_Address":"8 Meir Grunwald St., Jerusalem, Israel",
+     "Geolocation":"31.7573526, 35.1757899",
+     "Label":"INACTIVE! 8 Meir Grunwald St. (Normal)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"",
+     "Capacity (People)":144,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 8 Meir Grunwald St.\nShelter No: 964\nActive?: No ⚠️\nShelter Type: Normal\nArea: nan\nCapacity: 144.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"983",
+     "Address":"10 Gordon St.",
+     "Full_Address":"10 Gordon St., Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":" 10 Gordon St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"\"Ezra\" youth movement",
+     "All Data":"Address: 10 Gordon St.\nShelter No: 983\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: \"Ezra\" youth movement",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1730133,31.7639081 ]
+     },
+     "properties": {
+     "Shelter No":"991",
+     "Address":"2 Avraham Sharon St.",
+     "Full_Address":"2 Avraham Sharon St., Jerusalem, Israel",
+     "Geolocation":"31.7639081, 35.1730133",
+     "Label":" 2 Avraham Sharon St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"\"Mithazkim LeBoreh Olam\" organization",
+     "All Data":"Address: 2 Avraham Sharon St.\nShelter No: 991\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: \"Mithazkim LeBoreh Olam\" organization",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"992",
+     "Address":"19 Etinger St.",
+     "Full_Address":"19 Etinger St., Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":" 19 Etinger St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 19 Etinger St.\nShelter No: 992\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1746685,31.7638964 ]
+     },
+     "properties": {
+     "Shelter No":"993",
+     "Address":"3 Kleinman St.",
+     "Full_Address":"3 Kleinman St., Jerusalem, Israel",
+     "Geolocation":"31.7638964, 35.1746685",
+     "Label":" 3 Kleinman St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Mashu-Mashu Theatre, Culture Division, Jerusalem Municipality",
+     "All Data":"Address: 3 Kleinman St.\nShelter No: 993\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Mashu-Mashu Theatre, Culture Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1658768,31.7559385 ]
+     },
+     "properties": {
+     "Shelter No":"729",
+     "Address":"7 Dahomey St.",
+     "Full_Address":"7 Dahomey St., Jerusalem, Israel",
+     "Geolocation":"31.7559385, 35.1658768",
+     "Label":" 7 Dahomey St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"250",
+     "Capacity (People)":200,
+     "Operator":"Ganim Community Administration",
+     "All Data":"Address: 7 Dahomey St.\nShelter No: 729\nActive?: Yes\nShelter Type: Normal\nArea: 250\nCapacity: 200.0\nOperator: Ganim Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1670069,31.7567637 ]
+     },
+     "properties": {
+     "Shelter No":"730",
+     "Address":"3 Dahomey St.",
+     "Full_Address":"3 Dahomey St., Jerusalem, Israel",
+     "Geolocation":"31.7567637, 35.1670069",
+     "Label":" 3 Dahomey St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"196",
+     "Capacity (People)":156,
+     "Operator":"\"Magen David\" synagogue",
+     "All Data":"Address: 3 Dahomey St.\nShelter No: 730\nActive?: Yes\nShelter Type: Normal\nArea: 196\nCapacity: 156.0\nOperator: \"Magen David\" synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1659691,31.7585765 ]
+     },
+     "properties": {
+     "Shelter No":"731",
+     "Address":"16 Colombia St.",
+     "Full_Address":"16 Colombia St., Jerusalem, Israel",
+     "Geolocation":"31.7585765, 35.1659691",
+     "Label":" 16 Colombia St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"200",
+     "Capacity (People)":160,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 16 Colombia St.\nShelter No: 731\nActive?: Yes\nShelter Type: Normal\nArea: 200\nCapacity: 160.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1667934,31.7582484 ]
+     },
+     "properties": {
+     "Shelter No":"732",
+     "Address":"7 Colombia St.",
+     "Full_Address":"7 Colombia St., Jerusalem, Israel",
+     "Geolocation":"31.7582484, 35.1667934",
+     "Label":" 7 Colombia St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"160",
+     "Capacity (People)":128,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 7 Colombia St.\nShelter No: 732\nActive?: Yes\nShelter Type: Normal\nArea: 160\nCapacity: 128.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.165388,31.7594792 ]
+     },
+     "properties": {
+     "Shelter No":"734",
+     "Address":"17 Iceland St.",
+     "Full_Address":"17 Iceland St., Jerusalem, Israel",
+     "Geolocation":"31.7594792, 35.165388",
+     "Label":" 17 Iceland St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"130",
+     "Capacity (People)":104,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 17 Iceland St.\nShelter No: 734\nActive?: Yes\nShelter Type: Normal\nArea: 130\nCapacity: 104.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.165388,31.7594792 ]
+     },
+     "properties": {
+     "Shelter No":"734 A",
+     "Address":"17 Iceland St.",
+     "Full_Address":"17 Iceland St., Jerusalem, Israel",
+     "Geolocation":"31.7594792, 35.165388",
+     "Label":" 17 Iceland St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"170",
+     "Capacity (People)":136,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 17 Iceland St.\nShelter No: 734 A\nActive?: Yes\nShelter Type: Normal\nArea: 170\nCapacity: 136.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1669236,31.7595014 ]
+     },
+     "properties": {
+     "Shelter No":"803",
+     "Address":"17 Henrietta Szold St.",
+     "Full_Address":"17 Henrietta Szold St., Jerusalem, Israel",
+     "Geolocation":"31.7595014, 35.1669236",
+     "Label":" 17 Henrietta Szold St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"113",
+     "Capacity (People)":90,
+     "Operator":"\"Darchei Hayim\" yeshiva (dining room)",
+     "All Data":"Address: 17 Henrietta Szold St.\nShelter No: 803\nActive?: Yes\nShelter Type: Normal\nArea: 113\nCapacity: 90.0\nOperator: \"Darchei Hayim\" yeshiva (dining room)",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1688985,31.7594846 ]
+     },
+     "properties": {
+     "Shelter No":"827",
+     "Address":"4 Mexico St.",
+     "Full_Address":"4 Mexico St., Jerusalem, Israel",
+     "Geolocation":"31.7594846, 35.1688985",
+     "Label":" 4 Mexico St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":80,
+     "Operator":"\"Ariel\" youth movement",
+     "All Data":"Address: 4 Mexico St.\nShelter No: 827\nActive?: Yes\nShelter Type: Normal\nArea: nan\nCapacity: 80.0\nOperator: \"Ariel\" youth movement",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1955245,31.7879216 ]
+     },
+     "properties": {
+     "Shelter No":"748",
+     "Address":"2 Ha'ilui St.",
+     "Full_Address":"2 Ha'ilui St., Jerusalem, Israel",
+     "Geolocation":"31.7879216, 35.1955245",
+     "Label":" 2 Ha'ilui St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"134",
+     "Capacity (People)":107,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 2 Ha'ilui St.\nShelter No: 748\nActive?: Yes\nShelter Type: Normal\nArea: 134\nCapacity: 107.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1973343,31.7862135 ]
+     },
+     "properties": {
+     "Shelter No":"977",
+     "Address":"23 Gat St.",
+     "Full_Address":"23 Gat St., Jerusalem, Israel",
+     "Geolocation":"31.7862135, 35.1973343",
+     "Label":" 23 Gat St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Meitarim Community Administration",
+     "All Data":"Address: 23 Gat St.\nShelter No: 977\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Meitarim Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.195593,31.787574 ]
+     },
+     "properties": {
+     "Shelter No":"978",
+     "Address":"13 HaRav Tzvi Yehuda St.",
+     "Full_Address":"13 HaRav Tzvi Yehuda St., Jerusalem, Israel",
+     "Geolocation":"31.787574, 35.195593",
+     "Label":" 13 HaRav Tzvi Yehuda St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Meitarim Community Administration",
+     "All Data":"Address: 13 HaRav Tzvi Yehuda St.\nShelter No: 978\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Meitarim Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2110332,31.767478 ]
+     },
+     "properties": {
+     "Shelter No":"667",
+     "Address":"22 HaPalmach St.",
+     "Full_Address":"22 HaPalmach St., Jerusalem, Israel",
+     "Geolocation":"31.767478, 35.2110332",
+     "Label":" 22 HaPalmach St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"180",
+     "Capacity (People)":144,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 22 HaPalmach St.\nShelter No: 667\nActive?: Yes\nShelter Type: Normal\nArea: 180\nCapacity: 144.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2103391,31.7680993 ]
+     },
+     "properties": {
+     "Shelter No":"668",
+     "Address":"15 HaRav Brodi St.",
+     "Full_Address":"15 HaRav Brodi St., Jerusalem, Israel",
+     "Geolocation":"31.7680993, 35.2103391",
+     "Label":" 15 HaRav Brodi St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"170",
+     "Capacity (People)":136,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 15 HaRav Brodi St.\nShelter No: 668\nActive?: Yes\nShelter Type: Normal\nArea: 170\nCapacity: 136.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2120205,31.7678118 ]
+     },
+     "properties": {
+     "Shelter No":"971",
+     "Address":"16 HaPalmach St.",
+     "Full_Address":"16 HaPalmach St., Jerusalem, Israel",
+     "Geolocation":"31.7678118, 35.2120205",
+     "Label":" 16 HaPalmach St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Ginot Ha'ir Community Administration",
+     "All Data":"Address: 16 HaPalmach St.\nShelter No: 971\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Ginot Ha'ir Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.171552,31.752341 ]
+     },
+     "properties": {
+     "Shelter No":"726 B",
+     "Address":"125 HaNurit St.",
+     "Full_Address":"125 HaNurit St., Jerusalem, Israel",
+     "Geolocation":"31.752341, 35.171552",
+     "Label":" 125 HaNurit St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"120",
+     "Capacity (People)":96,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 125 HaNurit St.\nShelter No: 726 B\nActive?: Yes\nShelter Type: Normal\nArea: 120\nCapacity: 96.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.171076,31.752509 ]
+     },
+     "properties": {
+     "Shelter No":"726 A",
+     "Address":"124 HaNurit St.",
+     "Full_Address":"124 HaNurit St., Jerusalem, Israel",
+     "Geolocation":"31.752509, 35.171076",
+     "Label":" 124 HaNurit St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"120",
+     "Capacity (People)":80,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 124 HaNurit St.\nShelter No: 726 A\nActive?: Yes\nShelter Type: Normal\nArea: 120\nCapacity: 80.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2104777,31.7859805 ]
+     },
+     "properties": {
+     "Shelter No":"646",
+     "Address":"4 Eliyahu Mani St.",
+     "Full_Address":"4 Eliyahu Mani St., Jerusalem, Israel",
+     "Geolocation":"31.7859805, 35.2104777",
+     "Label":" 4 Eliyahu Mani St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"40",
+     "Capacity (People)":32,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 4 Eliyahu Mani St.\nShelter No: 646\nActive?: Yes\nShelter Type: Most Protected\nArea: 40\nCapacity: 32.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.20955,31.78315 ]
+     },
+     "properties": {
+     "Shelter No":"648",
+     "Address":"15 Nahar Prat St.",
+     "Full_Address":"15 Nahar Prat St., Jerusalem, Israel",
+     "Geolocation":"31.783150, 35.209550",
+     "Label":" 15 Nahar Prat St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"236",
+     "Capacity (People)":188,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 15 Nahar Prat St.\nShelter No: 648\nActive?: Yes\nShelter Type: Normal\nArea: 236\nCapacity: 188.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2136024,31.782797 ]
+     },
+     "properties": {
+     "Shelter No":"821",
+     "Address":"24 Einayim LaMishpat St.",
+     "Full_Address":"24 Einayim LaMishpat St., Jerusalem, Israel",
+     "Geolocation":"31.782797, 35.2136024",
+     "Label":" 24 Einayim LaMishpat St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"120",
+     "Capacity (People)":96,
+     "Operator":"Lev Ha'Ir Community Administration",
+     "All Data":"Address: 24 Einayim LaMishpat St.\nShelter No: 821\nActive?: Yes\nShelter Type: Normal\nArea: 120\nCapacity: 96.0\nOperator: Lev Ha'Ir Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2105802,31.7825739 ]
+     },
+     "properties": {
+     "Shelter No":"935",
+     "Address":"28 Be'er Sheva St.",
+     "Full_Address":"28 Be'er Sheva St., Jerusalem, Israel",
+     "Geolocation":"31.7825739, 35.2105802",
+     "Label":" 28 Be'er Sheva St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"170",
+     "Capacity (People)":136,
+     "Operator":"community synagogue",
+     "All Data":"Address: 28 Be'er Sheva St.\nShelter No: 935\nActive?: Yes\nShelter Type: Normal\nArea: 170\nCapacity: 136.0\nOperator: community synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2111392,31.780544 ]
+     },
+     "properties": {
+     "Shelter No":"961",
+     "Address":"17 Even Sapir St.",
+     "Full_Address":"17 Even Sapir St., Jerusalem, Israel",
+     "Geolocation":"31.780544, 35.2111392",
+     "Label":" 17 Even Sapir St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"\"Ariel\" youth movement",
+     "All Data":"Address: 17 Even Sapir St.\nShelter No: 961\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: \"Ariel\" youth movement",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"",
+     "Address":"",
+     "Full_Address":", Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":"  (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":null,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.1832669,31.7553963 ]
+     },
+     "properties": {
+     "Shelter No":"813",
+     "Address":"7 Kdoshei Struma St.",
+     "Full_Address":"7 Kdoshei Struma St., Jerusalem, Israel",
+     "Geolocation":"31.7553963, 35.1832669",
+     "Label":" 7 Kdoshei Struma St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":96,
+     "Operator":"Youth Promotion Department, Jerusalem Municipality",
+     "All Data":"Address: 7 Kdoshei Struma St.\nShelter No: 813\nActive?: Yes\nShelter Type: Normal\nArea: nan\nCapacity: 96.0\nOperator: Youth Promotion Department, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2215989,31.7891759 ]
+     },
+     "properties": {
+     "Shelter No":"624",
+     "Address":"17 Lapidot St.",
+     "Full_Address":"17 Lapidot St., Jerusalem, Israel",
+     "Geolocation":"31.7891759, 35.2215989",
+     "Label":" 17 Lapidot St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"40",
+     "Capacity (People)":32,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 17 Lapidot St.\nShelter No: 624\nActive?: Yes\nShelter Type: Most Protected\nArea: 40\nCapacity: 32.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2246079,31.7856464 ]
+     },
+     "properties": {
+     "Shelter No":"632",
+     "Address":"87 Me'a She'arim St.",
+     "Full_Address":"87 Me'a She'arim St., Jerusalem, Israel",
+     "Geolocation":"31.7856464, 35.2246079",
+     "Label":" 87 Me'a She'arim St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"80",
+     "Capacity (People)":64,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 87 Me'a She'arim St.\nShelter No: 632\nActive?: Yes\nShelter Type: Normal\nArea: 80\nCapacity: 64.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.225261,31.786634 ]
+     },
+     "properties": {
+     "Shelter No":"826",
+     "Address":"6 Otsar HaSfarim St.",
+     "Full_Address":"6 Otsar HaSfarim St., Jerusalem, Israel",
+     "Geolocation":"31.786634, 35.225261",
+     "Label":" 6 Otsar HaSfarim St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"150",
+     "Capacity (People)":120,
+     "Operator":"\"Moreshet HaNahal\" yeshiva",
+     "All Data":"Address: 6 Otsar HaSfarim St.\nShelter No: 826\nActive?: Yes\nShelter Type: Normal\nArea: 150\nCapacity: 120.0\nOperator: \"Moreshet HaNahal\" yeshiva",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2142324,31.7890854 ]
+     },
+     "properties": {
+     "Shelter No":"641",
+     "Address":"25 Kfar Nahum St.",
+     "Full_Address":"25 Kfar Nahum St., Jerusalem, Israel",
+     "Geolocation":"31.7890854, 35.2142324",
+     "Label":" 25 Kfar Nahum St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"180",
+     "Capacity (People)":144,
+     "Operator":"\"HaMeor Nativ Kodesh\" organization",
+     "All Data":"Address: 25 Kfar Nahum St.\nShelter No: 641\nActive?: Yes\nShelter Type: Normal\nArea: 180\nCapacity: 144.0\nOperator: \"HaMeor Nativ Kodesh\" organization",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2108421,31.7905859 ]
+     },
+     "properties": {
+     "Shelter No":"643",
+     "Address":"73 Malkei Israel St.",
+     "Full_Address":"73 Malkei Israel St., Jerusalem, Israel",
+     "Geolocation":"31.7905859, 35.2108421",
+     "Label":" 73 Malkei Israel St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"400",
+     "Capacity (People)":320,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 73 Malkei Israel St.\nShelter No: 643\nActive?: Yes\nShelter Type: Normal\nArea: 400\nCapacity: 320.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2106119,31.7923283 ]
+     },
+     "properties": {
+     "Shelter No":"806",
+     "Address":"12 Gesher HaHaim St.",
+     "Full_Address":"12 Gesher HaHaim St., Jerusalem, Israel",
+     "Geolocation":"31.7923283, 35.2106119",
+     "Label":"INACTIVE! 12 Gesher HaHaim St. (Normal)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"",
+     "Capacity (People)":152,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 12 Gesher HaHaim St.\nShelter No: 806\nActive?: No ⚠️\nShelter Type: Normal\nArea: nan\nCapacity: 152.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2073697,31.7887194 ]
+     },
+     "properties": {
+     "Shelter No":"812",
+     "Address":"109 Rashi St.",
+     "Full_Address":"109 Rashi St., Jerusalem, Israel",
+     "Geolocation":"31.7887194, 35.2073697",
+     "Label":" 109 Rashi St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"110",
+     "Capacity (People)":88,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 109 Rashi St.\nShelter No: 812\nActive?: Yes\nShelter Type: Normal\nArea: 110\nCapacity: 88.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"839",
+     "Address":"14 Tashbatz St.",
+     "Full_Address":"14 Tashbatz St., Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":" 14 Tashbatz St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 14 Tashbatz St.\nShelter No: 839\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2094317,31.7886079 ]
+     },
+     "properties": {
+     "Shelter No":"909",
+     "Address":"7 Yehuda HaMaccabi St.",
+     "Full_Address":"7 Yehuda HaMaccabi St., Jerusalem, Israel",
+     "Geolocation":"31.7886079, 35.2094317",
+     "Label":" 7 Yehuda HaMaccabi St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"120",
+     "Capacity (People)":96,
+     "Operator":"Toar Gallery, Culture Division, Jerusalem Municipality",
+     "All Data":"Address: 7 Yehuda HaMaccabi St.\nShelter No: 909\nActive?: Yes\nShelter Type: Normal\nArea: 120\nCapacity: 96.0\nOperator: Toar Gallery, Culture Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2108813,31.7538027 ]
+     },
+     "properties": {
+     "Shelter No":"706",
+     "Address":"42 Mekor Haim St.",
+     "Full_Address":"42 Mekor Haim St., Jerusalem, Israel",
+     "Geolocation":"31.7538027, 35.2108813",
+     "Label":"INACTIVE! 42 Mekor Haim St. (Most Protected)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"",
+     "Capacity (People)":36,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 42 Mekor Haim St.\nShelter No: 706\nActive?: No ⚠️\nShelter Type: Most Protected\nArea: nan\nCapacity: 36.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2265998,31.7821772 ]
+     },
+     "properties": {
+     "Shelter No":"653",
+     "Address":"3 Mishmarot St.",
+     "Full_Address":"3 Mishmarot St., Jerusalem, Israel",
+     "Geolocation":"31.7821772, 35.2265998",
+     "Label":" 3 Mishmarot St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"40",
+     "Capacity (People)":32,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 3 Mishmarot St.\nShelter No: 653\nActive?: Yes\nShelter Type: Most Protected\nArea: 40\nCapacity: 32.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2264168,31.7829253 ]
+     },
+     "properties": {
+     "Shelter No":"751",
+     "Address":"10 HaAyin Het St.",
+     "Full_Address":"10 HaAyin Het St., Jerusalem, Israel",
+     "Geolocation":"31.7829253, 35.2264168",
+     "Label":" 10 HaAyin Het St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":80,
+     "Operator":"Musrara photography school",
+     "All Data":"Address: 10 HaAyin Het St.\nShelter No: 751\nActive?: Yes\nShelter Type: Normal\nArea: nan\nCapacity: 80.0\nOperator: Musrara photography school",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2267942,31.7813353 ]
+     },
+     "properties": {
+     "Shelter No":"752",
+     "Address":"21 HaAyin Het St.",
+     "Full_Address":"21 HaAyin Het St., Jerusalem, Israel",
+     "Geolocation":"31.7813353, 35.2267942",
+     "Label":" 21 HaAyin Het St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Musrara photography school",
+     "All Data":"Address: 21 HaAyin Het St.\nShelter No: 752\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Musrara photography school",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2271006,31.7857459 ]
+     },
+     "properties": {
+     "Shelter No":"753",
+     "Address":"16 Kheil HaHandasa St.",
+     "Full_Address":"16 Kheil HaHandasa St., Jerusalem, Israel",
+     "Geolocation":"31.7857459, 35.2271006",
+     "Label":" 16 Kheil HaHandasa St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Eshkolot Community Administration",
+     "All Data":"Address: 16 Kheil HaHandasa St.\nShelter No: 753\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Eshkolot Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"657",
+     "Address":"21 Tsfat St.",
+     "Full_Address":"21 Tsfat St., Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":" 21 Tsfat St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":400,
+     "Operator":"Society Division of Jerusalem Municipality, \"Ariel\" youth movement",
+     "All Data":"Address: 21 Tsfat St.\nShelter No: 657\nActive?: Yes\nShelter Type: Normal\nArea: nan\nCapacity: 400.0\nOperator: Society Division of Jerusalem Municipality, \"Ariel\" youth movement",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2010572,31.7720169 ]
+     },
+     "properties": {
+     "Shelter No":"939",
+     "Address":"17 Neve Sha'anan St.",
+     "Full_Address":"17 Neve Sha'anan St., Jerusalem, Israel",
+     "Geolocation":"31.7720169, 35.2010572",
+     "Label":" 17 Neve Sha'anan St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Koom-Koom Theatre, Culture Division, Jerusalem Municipality",
+     "All Data":"Address: 17 Neve Sha'anan St.\nShelter No: 939\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Koom-Koom Theatre, Culture Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2089015,31.7663944 ]
+     },
+     "properties": {
+     "Shelter No":"669",
+     "Address":"42 HaPalmach St.",
+     "Full_Address":"42 HaPalmach St., Jerusalem, Israel",
+     "Geolocation":"31.7663944, 35.2089015",
+     "Label":" 42 HaPalmach St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"130",
+     "Capacity (People)":104,
+     "Operator":"",
+     "All Data":"",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2138254,31.7662127 ]
+     },
+     "properties": {
+     "Shelter No":"671",
+     "Address":"22 Kaf Tet BeNovember St.",
+     "Full_Address":"22 Kaf Tet BeNovember St., Jerusalem, Israel",
+     "Geolocation":"31.7662127, 35.2138254",
+     "Label":" 22 Kaf Tet BeNovember St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"160",
+     "Capacity (People)":128,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 22 Kaf Tet BeNovember St.\nShelter No: 671\nActive?: Yes\nShelter Type: Normal\nArea: 160\nCapacity: 128.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2133427,31.7610918 ]
+     },
+     "properties": {
+     "Shelter No":"696",
+     "Address":"3 Reish Lakish St.",
+     "Full_Address":"3 Reish Lakish St., Jerusalem, Israel",
+     "Geolocation":"31.7610918, 35.2133427",
+     "Label":" 3 Reish Lakish St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"164",
+     "Capacity (People)":131,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 3 Reish Lakish St.\nShelter No: 696\nActive?: Yes\nShelter Type: Normal\nArea: 164\nCapacity: 131.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"702",
+     "Address":"12 Halafta St.",
+     "Full_Address":"12 Halafta St., Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":" 12 Halafta St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"380",
+     "Capacity (People)":304,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 12 Halafta St.\nShelter No: 702\nActive?: Yes\nShelter Type: Normal\nArea: 380\nCapacity: 304.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.209515,31.759067 ]
+     },
+     "properties": {
+     "Shelter No":"703",
+     "Address":"53 Yohanan Ben Zakai St.",
+     "Full_Address":"53 Yohanan Ben Zakai St., Jerusalem, Israel",
+     "Geolocation":"31.759067, 35.209515",
+     "Label":" 53 Yohanan Ben Zakai St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"170",
+     "Capacity (People)":136,
+     "Operator":"\"Zchut Avot\" synagogue",
+     "All Data":"Address: 53 Yohanan Ben Zakai St.\nShelter No: 703\nActive?: Yes\nShelter Type: Normal\nArea: 170\nCapacity: 136.0\nOperator: \"Zchut Avot\" synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.213869,31.761699 ]
+     },
+     "properties": {
+     "Shelter No":"923",
+     "Address":"15 Elazar HaModa'i St.",
+     "Full_Address":"15 Elazar HaModa'i St., Jerusalem, Israel",
+     "Geolocation":"31.761699, 35.213869",
+     "Label":"INACTIVE! 15 Elazar HaModa'i St. (Normal)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Youth Advancement Department, Society Division, Jerusalem Municipality",
+     "All Data":"Address: 15 Elazar HaModa'i St.\nShelter No: 923\nActive?: No ⚠️\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Youth Advancement Department, Society Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2096607,31.7614742 ]
+     },
+     "properties": {
+     "Shelter No":"937",
+     "Address":"38 Hizkiyahu HaMelech St.",
+     "Full_Address":"38 Hizkiyahu HaMelech St., Jerusalem, Israel",
+     "Geolocation":"31.7614742, 35.2096607",
+     "Label":" 38 Hizkiyahu HaMelech St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Youth Promotion Department, Education Division, Jerusalem Municipality",
+     "All Data":"Address: 38 Hizkiyahu HaMelech St.\nShelter No: 937\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Youth Promotion Department, Education Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21406169999999,31.7755397 ]
+     },
+     "properties": {
+     "Shelter No":"658",
+     "Address":"13 Ibn Ezra St.",
+     "Full_Address":"13 Ibn Ezra St., Jerusalem, Israel",
+     "Geolocation":"31.7755397, 35.21406169999999",
+     "Label":" 13 Ibn Ezra St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"80",
+     "Capacity (People)":64,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 13 Ibn Ezra St.\nShelter No: 658\nActive?: Yes\nShelter Type: Normal\nArea: 80\nCapacity: 64.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2154157,31.7750922 ]
+     },
+     "properties": {
+     "Shelter No":"659",
+     "Address":"15 Ibn Gabirol St.",
+     "Full_Address":"15 Ibn Gabirol St., Jerusalem, Israel",
+     "Geolocation":"31.7750922, 35.2154157",
+     "Label":" 15 Ibn Gabirol St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"160",
+     "Capacity (People)":128,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 15 Ibn Gabirol St.\nShelter No: 659\nActive?: Yes\nShelter Type: Normal\nArea: 160\nCapacity: 128.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.210743,31.7732355 ]
+     },
+     "properties": {
+     "Shelter No":"809",
+     "Address":"9 Rashba St.",
+     "Full_Address":"9 Rashba St., Jerusalem, Israel",
+     "Geolocation":"31.7732355, 35.210743",
+     "Label":" 9 Rashba St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"90",
+     "Capacity (People)":72,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 9 Rashba St.\nShelter No: 809\nActive?: Yes\nShelter Type: Normal\nArea: 90\nCapacity: 72.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"810",
+     "Address":"9 Ovadia MeBartenora St.",
+     "Full_Address":"9 Ovadia MeBartenora St., Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":" 9 Ovadia MeBartenora St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"150",
+     "Capacity (People)":120,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 9 Ovadia MeBartenora St.\nShelter No: 810\nActive?: Yes\nShelter Type: Normal\nArea: 150\nCapacity: 120.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2123937,31.771597 ]
+     },
+     "properties": {
+     "Shelter No":"816",
+     "Address":"50 Azza St.",
+     "Full_Address":"50 Azza St., Jerusalem, Israel",
+     "Geolocation":"31.771597, 35.2123937",
+     "Label":" 50 Azza St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"120",
+     "Capacity (People)":96,
+     "Operator":"Holocaust survivors' organization, Jerusalem",
+     "All Data":"Address: 50 Azza St.\nShelter No: 816\nActive?: Yes\nShelter Type: Normal\nArea: 120\nCapacity: 96.0\nOperator: Holocaust survivors' organization, Jerusalem",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2159381,31.7722083 ]
+     },
+     "properties": {
+     "Shelter No":"835",
+     "Address":"18 Arlozorov St.",
+     "Full_Address":"18 Arlozorov St., Jerusalem, Israel",
+     "Geolocation":"31.7722083, 35.2159381",
+     "Label":" 18 Arlozorov St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"190",
+     "Capacity (People)":152,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 18 Arlozorov St.\nShelter No: 835\nActive?: Yes\nShelter Type: Normal\nArea: 190\nCapacity: 152.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2142136,31.7762631 ]
+     },
+     "properties": {
+     "Shelter No":"972",
+     "Address":"26 AlHarizi St.",
+     "Full_Address":"26 AlHarizi St., Jerusalem, Israel",
+     "Geolocation":"31.7762631, 35.2142136",
+     "Label":" 26 AlHarizi St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"\"Beit Yael\", Culture Division, Jerusalem Municipality",
+     "All Data":"Address: 26 AlHarizi St.\nShelter No: 972\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: \"Beit Yael\", Culture Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2144938,31.7955884 ]
+     },
+     "properties": {
+     "Shelter No":"606",
+     "Address":"1 Pnina St.",
+     "Full_Address":"1 Pnina St., Jerusalem, Israel",
+     "Geolocation":"31.7955884, 35.2144938",
+     "Label":" 1 Pnina St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"80",
+     "Capacity (People)":64,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 1 Pnina St.\nShelter No: 606\nActive?: Yes\nShelter Type: Normal\nArea: 80\nCapacity: 64.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.200855,31.7959485 ]
+     },
+     "properties": {
+     "Shelter No":"750",
+     "Address":"5 Zichron Ya'akov St.",
+     "Full_Address":"5 Zichron Ya'akov St., Jerusalem, Israel",
+     "Geolocation":"31.7959485, 35.200855",
+     "Label":" 5 Zichron Ya'akov St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"130",
+     "Capacity (People)":104,
+     "Operator":"Romema Community Administration",
+     "All Data":"Address: 5 Zichron Ya'akov St.\nShelter No: 750\nActive?: Yes\nShelter Type: Normal\nArea: 130\nCapacity: 104.0\nOperator: Romema Community Administration",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.19912403744151,31.79597544940296 ]
+     },
+     "properties": {
+     "Shelter No":"933",
+     "Address":"38 HaMem Gimel St.",
+     "Full_Address":"38 HaMem Gimel St., Jerusalem, Israel",
+     "Geolocation":"31.795975449402956, 35.19912403744151",
+     "Label":" 38 HaMem Gimel St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"\"Lev Malka\" organization",
+     "All Data":"Address: 38 HaMem Gimel St.\nShelter No: 933\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: \"Lev Malka\" organization",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2017481,31.794477 ]
+     },
+     "properties": {
+     "Shelter No":"975 A",
+     "Address":"15 Zichron Ya'akov St.",
+     "Full_Address":"15 Zichron Ya'akov St., Jerusalem, Israel",
+     "Geolocation":"31.794477, 35.2017481",
+     "Label":" 15 Zichron Ya'akov St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"50",
+     "Capacity (People)":40,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 15 Zichron Ya'akov St.\nShelter No: 975 A\nActive?: Yes\nShelter Type: Normal\nArea: 50\nCapacity: 40.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.202044,31.794189 ]
+     },
+     "properties": {
+     "Shelter No":"975 B",
+     "Address":"17 Zichron Ya'akov St.",
+     "Full_Address":"17 Zichron Ya'akov St., Jerusalem, Israel",
+     "Geolocation":"31.794189, 35.202044",
+     "Label":" 17 Zichron Ya'akov St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"50",
+     "Capacity (People)":40,
+     "Operator":"\"Drachei Miryam\" organization",
+     "All Data":"Address: 17 Zichron Ya'akov St.\nShelter No: 975 B\nActive?: Yes\nShelter Type: Normal\nArea: 50\nCapacity: 40.0\nOperator: \"Drachei Miryam\" organization",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2022222,31.7939548 ]
+     },
+     "properties": {
+     "Shelter No":"975 C",
+     "Address":"19 Zichron Ya'akov St.",
+     "Full_Address":"19 Zichron Ya'akov St., Jerusalem, Israel",
+     "Geolocation":"31.7939548, 35.2022222",
+     "Label":" 19 Zichron Ya'akov St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"50",
+     "Capacity (People)":40,
+     "Operator":"\"Lev Malka\" organization",
+     "All Data":"Address: 19 Zichron Ya'akov St.\nShelter No: 975 C\nActive?: Yes\nShelter Type: Normal\nArea: 50\nCapacity: 40.0\nOperator: \"Lev Malka\" organization",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2022077,31.79351729999999 ]
+     },
+     "properties": {
+     "Shelter No":"975 D",
+     "Address":"21 Zichron Ya'akov St.",
+     "Full_Address":"21 Zichron Ya'akov St., Jerusalem, Israel",
+     "Geolocation":"31.79351729999999, 35.2022077",
+     "Label":" 21 Zichron Ya'akov St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"50",
+     "Capacity (People)":40,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 21 Zichron Ya'akov St.\nShelter No: 975 D\nActive?: Yes\nShelter Type: Normal\nArea: 50\nCapacity: 40.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.201072,31.7951012 ]
+     },
+     "properties": {
+     "Shelter No":"979",
+     "Address":"10 Zichron Ya'akov St.",
+     "Full_Address":"10 Zichron Ya'akov St., Jerusalem, Israel",
+     "Geolocation":"31.7951012, 35.201072",
+     "Label":" 10 Zichron Ya'akov St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"\"Hanichei HaYeshivot Romema\" synagogue",
+     "All Data":"Address: 10 Zichron Ya'akov St.\nShelter No: 979\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: \"Hanichei HaYeshivot Romema\" synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"601",
+     "Address":"1 Gan Sanhedrin St.",
+     "Full_Address":"1 Gan Sanhedrin St., Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":" 1 Gan Sanhedrin St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"",
+     "Capacity (People)":36,
+     "Operator":"\"Mishkolitz\" institutions",
+     "All Data":"Address: 1 Gan Sanhedrin St.\nShelter No: 601\nActive?: Yes\nShelter Type: Most Protected\nArea: nan\nCapacity: 36.0\nOperator: \"Mishkolitz\" institutions",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.218736,31.7974743 ]
+     },
+     "properties": {
+     "Shelter No":"602",
+     "Address":"6 HaSanhedrin St.",
+     "Full_Address":"6 HaSanhedrin St., Jerusalem, Israel",
+     "Geolocation":"31.7974743, 35.218736",
+     "Label":" 6 HaSanhedrin St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"\"Hasidei Morditz\" yeshiva",
+     "All Data":"Address: 6 HaSanhedrin St.\nShelter No: 602\nActive?: Yes\nShelter Type: Most Protected\nArea: 100\nCapacity: 80.0\nOperator: \"Hasidei Morditz\" yeshiva",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21998578921934,31.7975895794426 ]
+     },
+     "properties": {
+     "Shelter No":"603",
+     "Address":"10 HaRav Bloy St.",
+     "Full_Address":"10 HaRav Bloy St., Jerusalem, Israel",
+     "Geolocation":"31.7975895794426, 35.21998578921934",
+     "Label":" 10 HaRav Bloy St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"120",
+     "Capacity (People)":96,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 10 HaRav Bloy St.\nShelter No: 603\nActive?: Yes\nShelter Type: Normal\nArea: 120\nCapacity: 96.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.22052787976961,31.758381268528552 ]
+     },
+     "properties": {
+     "Shelter No":"604",
+     "Address":"8 Shimon Hacham St.",
+     "Full_Address":"8 Shimon Hacham St., Jerusalem, Israel",
+     "Geolocation":"31.758381268528552, 35.22052787976961",
+     "Label":" 8 Shimon Hacham St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 8 Shimon Hacham St.\nShelter No: 604\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2194817,31.7957202 ]
+     },
+     "properties": {
+     "Shelter No":"605",
+     "Address":"2 Bar Ilan St.",
+     "Full_Address":"2 Bar Ilan St., Jerusalem, Israel",
+     "Geolocation":"31.7957202, 35.2194817",
+     "Label":" 2 Bar Ilan St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"500",
+     "Capacity (People)":400,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 2 Bar Ilan St.\nShelter No: 605\nActive?: Yes\nShelter Type: Normal\nArea: 500\nCapacity: 400.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2231386,31.792465 ]
+     },
+     "properties": {
+     "Shelter No":"616",
+     "Address":"61 Shmuel Hanavi St.",
+     "Full_Address":"61 Shmuel Hanavi St., Jerusalem, Israel",
+     "Geolocation":"31.792465, 35.2231386",
+     "Label":" 61 Shmuel Hanavi St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"",
+     "Capacity (People)":80,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 61 Shmuel Hanavi St.\nShelter No: 616\nActive?: Yes\nShelter Type: Normal\nArea: nan\nCapacity: 80.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2250634,31.79041579999999 ]
+     },
+     "properties": {
+     "Shelter No":"617",
+     "Address":"3 Gmul St.",
+     "Full_Address":"3 Gmul St., Jerusalem, Israel",
+     "Geolocation":"31.79041579999999, 35.2250634",
+     "Label":" 3 Gmul St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"40",
+     "Capacity (People)":32,
+     "Operator":"\"Iyun Uvracha\" organization",
+     "All Data":"Address: 3 Gmul St.\nShelter No: 617\nActive?: Yes\nShelter Type: Normal\nArea: 40\nCapacity: 32.0\nOperator: \"Iyun Uvracha\" organization",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2231139,31.7928334 ]
+     },
+     "properties": {
+     "Shelter No":"618",
+     "Address":"66 Shmuel HaNavi St.",
+     "Full_Address":"66 Shmuel HaNavi St., Jerusalem, Israel",
+     "Geolocation":"31.7928334, 35.2231139",
+     "Label":" 66 Shmuel HaNavi St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"110",
+     "Capacity (People)":137,
+     "Operator":"\"Ohalei Ya'akov\" synagogue",
+     "All Data":"Address: 66 Shmuel HaNavi St.\nShelter No: 618\nActive?: Yes\nShelter Type: Normal\nArea: 110\nCapacity: 137.0\nOperator: \"Ohalei Ya'akov\" synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2189116,31.7945714 ]
+     },
+     "properties": {
+     "Shelter No":"957",
+     "Address":"19 Avinadav St.",
+     "Full_Address":"19 Avinadav St., Jerusalem, Israel",
+     "Geolocation":"31.7945714, 35.2189116",
+     "Label":" 19 Avinadav St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"450",
+     "Capacity (People)":360,
+     "Operator":"\"Agudat Or HaTzafon\" synagogue",
+     "All Data":"Address: 19 Avinadav St.\nShelter No: 957\nActive?: Yes\nShelter Type: Normal\nArea: 450\nCapacity: 360.0\nOperator: \"Agudat Or HaTzafon\" synagogue",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.225668,31.839027 ]
+     },
+     "properties": {
+     "Shelter No":"997",
+     "Address":"Shikunei Nuseiba",
+     "Full_Address":"Shikunei Nuseiba, Jerusalem, Israel",
+     "Geolocation":"31.839027, 35.225668",
+     "Label":"INACTIVE! Shikunei Nuseiba (Normal)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: Shikunei Nuseiba\nShelter No: 997\nActive?: No ⚠️\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2195315,31.7738517 ]
+     },
+     "properties": {
+     "Shelter No":"656",
+     "Address":"19 Keren HaYesod St.",
+     "Full_Address":"19 Keren HaYesod St., Jerusalem, Israel",
+     "Geolocation":"31.7738517, 35.2195315",
+     "Label":" 19 Keren HaYesod St. (Most Protected)",
+     "Active?":"Yes",
+     "Shelter Type":"Most Protected",
+     "Area (Sqm)":"250",
+     "Capacity (People)":200,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 19 Keren HaYesod St.\nShelter No: 656\nActive?: Yes\nShelter Type: Most Protected\nArea: 250\nCapacity: 200.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2180323,31.7699588 ]
+     },
+     "properties": {
+     "Shelter No":"807",
+     "Address":"7 Benjamin Disraeli St.",
+     "Full_Address":"7 Benjamin Disraeli St., Jerusalem, Israel",
+     "Geolocation":"31.7699588, 35.2180323",
+     "Label":" 7 Benjamin Disraeli St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"115",
+     "Capacity (People)":92,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 7 Benjamin Disraeli St.\nShelter No: 807\nActive?: Yes\nShelter Type: Normal\nArea: 115\nCapacity: 92.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2256433,31.7634002 ]
+     },
+     "properties": {
+     "Shelter No":"679",
+     "Address":"59 Hebron Rd.",
+     "Full_Address":"59 Hebron Rd., Jerusalem, Israel",
+     "Geolocation":"31.7634002, 35.2256433",
+     "Label":" 59 Hebron Rd. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"200",
+     "Capacity (People)":160,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 59 Hebron Rd.\nShelter No: 679\nActive?: Yes\nShelter Type: Normal\nArea: 200\nCapacity: 160.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2218446,31.7525005 ]
+     },
+     "properties": {
+     "Shelter No":"688",
+     "Address":"18 Efrata St.",
+     "Full_Address":"18 Efrata St., Jerusalem, Israel",
+     "Geolocation":"31.7525005, 35.2218446",
+     "Label":" 18 Efrata St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"200",
+     "Capacity (People)":160,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 18 Efrata St.\nShelter No: 688\nActive?: Yes\nShelter Type: Normal\nArea: 200\nCapacity: 160.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2200234,31.74913129999999 ]
+     },
+     "properties": {
+     "Shelter No":"689",
+     "Address":"10 Ben Gavriel St.",
+     "Full_Address":"10 Ben Gavriel St., Jerusalem, Israel",
+     "Geolocation":"31.74913129999999, 35.2200234",
+     "Label":" 10 Ben Gavriel St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"90",
+     "Capacity (People)":72,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 10 Ben Gavriel St.\nShelter No: 689\nActive?: Yes\nShelter Type: Normal\nArea: 90\nCapacity: 72.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2234756,31.74900199999999 ]
+     },
+     "properties": {
+     "Shelter No":"690",
+     "Address":"12 Klausner St.",
+     "Full_Address":"12 Klausner St., Jerusalem, Israel",
+     "Geolocation":"31.74900199999999, 35.2234756",
+     "Label":"INACTIVE! 12 Klausner St. (Normal)",
+     "Active?":"No ⚠️",
+     "Shelter Type":"Inactive ⚠️",
+     "Area (Sqm)":"240",
+     "Capacity (People)":192,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 12 Klausner St.\nShelter No: 690\nActive?: No ⚠️\nShelter Type: Normal\nArea: 240\nCapacity: 192.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.21371,31.768319 ]
+     },
+     "properties": {
+     "Shelter No":"691",
+     "Address":"93 Bethlehem Rd.",
+     "Full_Address":"93 Bethlehem Rd., Jerusalem, Israel",
+     "Geolocation":"31.768319, 35.21371",
+     "Label":" 93 Bethlehem Rd. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"440",
+     "Capacity (People)":352,
+     "Operator":"Emergency and Security Division, Jerusalem Municipality",
+     "All Data":"Address: 93 Bethlehem Rd.\nShelter No: 691\nActive?: Yes\nShelter Type: Normal\nArea: 440\nCapacity: 352.0\nOperator: Emergency and Security Division, Jerusalem Municipality",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2200792,31.7511624 ]
+     },
+     "properties": {
+     "Shelter No":"940",
+     "Address":"17 Shalom Yehuda St.",
+     "Full_Address":"17 Shalom Yehuda St., Jerusalem, Israel",
+     "Geolocation":"31.7511624, 35.2200792",
+     "Label":" 17 Shalom Yehuda St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"100",
+     "Capacity (People)":80,
+     "Operator":"\"Ezra\" youth movement",
+     "All Data":"Address: 17 Shalom Yehuda St.\nShelter No: 940\nActive?: Yes\nShelter Type: Normal\nArea: 100\nCapacity: 80.0\nOperator: \"Ezra\" youth movement",
+     "Community Notes":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 35.2175901,31.7872212 ]
+     },
+     "properties": {
+     "Shelter No":"928",
+     "Address":"8 Pri Hadash St.",
+     "Full_Address":"8 Pri Hadash St., Jerusalem, Israel",
+     "Geolocation":"31.7872212, 35.2175901",
+     "Label":" 8 Pri Hadash St. (Normal)",
+     "Active?":"Yes",
+     "Shelter Type":"Normal",
+     "Area (Sqm)":"130",
+     "Capacity (People)":104,
+     "Operator":"\"Or Leah\" organization",
+     "All Data":"Address: 8 Pri Hadash St.\nShelter No: 928\nActive?: Yes\nShelter Type: Normal\nArea: 130\nCapacity: 104.0\nOperator: \"Or Leah\" organization",
+     "Community Notes":""
+     }
+   }
+ ]
+ }
