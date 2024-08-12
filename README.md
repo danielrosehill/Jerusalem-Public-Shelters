@@ -14,7 +14,15 @@ The repository author offers no warranty as to the accuracy, completeness, or re
 
 ## Screenshots & Legend
 
-![1](/images/screenshots/1.png)
+![1](/images/1.png)
+
+![1](/images/2.png)
+
+![1](/images/3.png)
+
+![1](/images/4.png)
+
+![1](/images/5.png)
 
 ### Shelter Details
 
