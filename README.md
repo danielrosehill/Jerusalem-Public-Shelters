@@ -8,13 +8,13 @@ The update dates for the data is displayed through the folder structure in the f
 
 ### Google Map
 
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+!(https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 
 [Google Maps](https://goo.gl/maps/gBwbmNW5gFFTzm2BA)
 
 ### ArcGIS
 
-![ArcGIS](https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=arcgis&logoColor=white)
+!(https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=arcgis&logoColor=white)
 
 [ArcGIS](https://www.arcgis.com/apps/mapviewer/index.html?webmap=dee2adae16f04be387d9dc71266f7f52)
 
