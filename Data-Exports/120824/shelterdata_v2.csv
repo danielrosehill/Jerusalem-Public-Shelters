@@ -1,0 +1,1378 @@
+Shelter No,Address,Full_Address,Geolocation,Active?,Label,Shelter Type,Area (Sqm),Capacity (People),Operator,All Data,Community Notes,Latitude,Longitude
+678,3 Nachshon St.,"3 Nachshon St., Jerusalem, Israel","31.7652249, 35.2261714",Yes, 3 Nachshon St. (Most Protected),Most Protected,40​,32.0,"Emergency and Security Division, Jerusalem Municipality","Address: 3 Nachshon St.
+Shelter No: 678
+Active?: Yes
+Shelter Type: Most Protected
+Area: 40​
+Capacity: 32.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7652249,35.2261714
+681,8 Efrayim St.,"8 Efrayim St., Jerusalem, Israel","31.7593928, 35.2189683",Yes, 8 Efrayim St. (Normal),Normal,100,80.0,"Emergency and Security Division, Jerusalem Municipality","Address: 8 Efrayim St.
+Shelter No: 681
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7593928,35.2189683
+682,14 Reuven St.,"14 Reuven St., Jerusalem, Israel","31.7593263, 35.2188286",No ⚠️,INACTIVE! 14 Reuven St. (Normal),Normal,135,108.0,"Emergency and Security Division, Jerusalem Municipality","Address: 14 Reuven St.
+Shelter No: 682
+Active?: No ⚠️
+Shelter Type: Normal
+Area: 135
+Capacity: 108.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7593263,35.2188286
+683,54 Hebron Rd.,"54 Hebron Rd., Jerusalem, Israel","31.7598214, 35.22352619999999",Yes, 54 Hebron Rd. (Normal),Normal,170,136.0,"Emergency and Security Division, Jerusalem Municipality","Address: 54 Hebron Rd.
+Shelter No: 683
+Active?: Yes
+Shelter Type: Normal
+Area: 170
+Capacity: 136.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7598214,35.22352619999999
+684,6 Esther HaMalka St.,"6 Esther HaMalka St., Jerusalem, Israel","31.7591133, 35.2229651",Yes, 6 Esther HaMalka St. (Normal),Normal,295,236.0,"Emergency and Security Division, Jerusalem Municipality","Address: 6 Esther HaMalka St.
+Shelter No: 684
+Active?: Yes
+Shelter Type: Normal
+Area: 295
+Capacity: 236.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7591133,35.2229651
+685,6 Mordechai HaYehudi St.,"6 Mordechai HaYehudi St., Jerusalem, Israel","31.8117365, 35.22046",No ⚠️,INACTIVE! 6 Mordechai HaYehudi St. (Normal),Normal,200,160.0,"Emergency and Security Division, Jerusalem Municipality","Address: 6 Mordechai HaYehudi St.
+Shelter No: 685
+Active?: No ⚠️
+Shelter Type: Normal
+Area: 200
+Capacity: 160.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.8117365,35.22046
+823,13 Shimshon St.,"13 Shimshon St., Jerusalem, Israel","31.7607049, 35.2200216",No ⚠️,INACTIVE! 13 Shimshon St. (Normal),Normal,130,104.0,"Emergency and Security Division, Jerusalem Municipality","Address: 13 Shimshon St.
+Shelter No: 823
+Active?: No ⚠️
+Shelter Type: Normal
+Area: 130
+Capacity: 104.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7607049,35.2200216
+836,27 Menashe St.,"27 Menashe St., Jerusalem, Israel","31.7594673, 35.2199033",Yes, 27 Menashe St. (Normal),Normal,100,80.0,"Emergency and Security Division, Jerusalem Municipality","Address: 27 Menashe St.
+Shelter No: 836
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7594673,35.2199033
+980,22 ​Rivka St.,"22 ​Rivka St., Jerusalem, Israel","31.755074, 35.220905",Yes, 22 ​Rivka St. (Normal),Normal,100,80.0,"Emergency and Security Division, Jerusalem Municipality","Address: 22 ​Rivka St.
+Shelter No: 980
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.755074,35.220905
+984,11 Ya'el St.,"11 Ya'el St., Jerusalem, Israel","31.7617068, 35.2212796",Yes, 11 Ya'el St. (Normal),Normal,160,128.0,"Emergency and Security Division, Jerusalem Municipality","Address: 11 Ya'el St.
+Shelter No: 984
+Active?: Yes
+Shelter Type: Normal
+Area: 160
+Capacity: 128.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7617068,35.2212796
+988,5 Kibbutz Galuyot St.,"5 Kibbutz Galuyot St., Jerusalem, Israel","31.755663, 35.2192529",No,⚠️5 Kibbutz Galuyot St. (Normal) ,Normal,140,112.0,"Society Division, Jerusalem Municipality","Address: 5 Kibbutz Galuyot St.
+Shelter No: 988
+Active?: No
+Shelter Type: Normal
+Area: 140
+Capacity: 112.0
+Operator: Society Division, Jerusalem Municipality",,31.755663,35.2192529
+995,3 Levi St.,"3 Levi St., Jerusalem, Israel","31.7573404, 35.220897",Yes, 3 Levi St. (Normal),Normal,100,80.0,Baka Community Administration,"Address: 3 Levi St.
+Shelter No: 995
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Baka Community Administration",,31.7573404,35.220897
+742,7 Sha'arei Tora St.,"7 Sha'arei Tora St., Jerusalem, Israel","31.7658063, 35.18298",Yes, 7 Sha'arei Tora St. (Normal),Normal,270,216.0,"Emergency and Security Division, Jerusalem Municipality","Address: 7 Sha'arei Tora St.
+Shelter No: 742
+Active?: Yes
+Shelter Type: Normal
+Area: 270
+Capacity: 216.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7658063,35.18298
+743,39 Bayit VaGan St.,"39 Bayit VaGan St., Jerusalem, Israel","31.7691802, 35.1845249",Yes, 39 Bayit VaGan St. (Normal),Normal,115,92.0,"Emergency and Security Division, Jerusalem Municipality","Address: 39 Bayit VaGan St.
+Shelter No: 743
+Active?: Yes
+Shelter Type: Normal
+Area: 115
+Capacity: 92.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7691802,35.1845249
+744,Ha-Banai St 4,"Ha-Banai St 4, Jerusalem, Israel","31.7750135, 35.1904157",No ⚠️,INACTIVE! Ha-Banai St 4 (Normal),Normal,170,136.0,"Emergency and Security Division, Jerusalem Municipality","Address: Ha-Banai St 4
+Shelter No: 744
+Active?: No ⚠️
+Shelter Type: Normal
+Area: 170
+Capacity: 136.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7750135,35.1904157
+745,Ha-Banai St 30,"Ha-Banai St 30, Jerusalem, Israel","31.7774853, 35.1922716",No ⚠️,INACTIVE! Ha-Banai St 30 (Normal),Normal,170​,136.0,"Emergency and Security Division, Jerusalem Municipality","Address: Ha-Banai St 30
+Shelter No: 745
+Active?: No ⚠️
+Shelter Type: Normal
+Area: 170​
+Capacity: 136.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7774853,35.1922716
+613,14 Shimshon Polanski St.,"14 Shimshon Polanski St., Jerusalem, Israel","31.7923274, 35.222439",Yes, 14 Shimshon Polanski St. (Normal),Normal,280,224.0,"""Yad Eliezer"" association","Address: 14 Shimshon Polanski St.
+Shelter No: 613
+Active?: Yes
+Shelter Type: Normal
+Area: 280
+Capacity: 224.0
+Operator: ""Yad Eliezer"" association",,31.7923274,35.222439
+619,4 Yosef Karo St.,"4 Yosef Karo St., Jerusalem, Israel","31.7908366, 35.2241123",No ⚠️,INACTIVE! 4 Yosef Karo St. (Normal),Normal,80,64.0,"Emergency and Security Division, Jerusalem Municipality","Address: 4 Yosef Karo St.
+Shelter No: 619
+Active?: No ⚠️
+Shelter Type: Normal
+Area: 80
+Capacity: 64.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7908366,35.2241123
+625,22 Sha'arei Shamayim St.,"22 Sha'arei Shamayim St., Jerusalem, Israel","31.788586, 35.2238283",Yes, 22 Sha'arei Shamayim St. (Normal),Normal,40,32.0,"Emergency and Security Division, Jerusalem Municipality","Address: 22 Sha'arei Shamayim St.
+Shelter No: 625
+Active?: Yes
+Shelter Type: Normal
+Area: 40
+Capacity: 32.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.788586,35.2238283
+626,22 Baruch Rapaport St.,"22 Baruch Rapaport St., Jerusalem, Israel","31.7892754, 35.2237141",Yes, 22 Baruch Rapaport St. (Most Protected),Most Protected,100,80.0,Eshkolot Community Administration,"Address: 22 Baruch Rapaport St.
+Shelter No: 626
+Active?: Yes
+Shelter Type: Most Protected
+Area: 100
+Capacity: 80.0
+Operator: Eshkolot Community Administration",,31.7892754,35.2237141
+628,8 Amelim St.,"8 Amelim St., Jerusalem, Israel","31.788024, 35.22416860000001",Yes, 8 Amelim St. (Most Protected),Most Protected,40,32.0,"Public library - ""Mosdei Olam"" organization","Address: 8 Amelim St.
+Shelter No: 628
+Active?: Yes
+Shelter Type: Most Protected
+Area: 40
+Capacity: 32.0
+Operator: Public library - ""Mosdei Olam"" organization",,31.788024,35.22416860000001
+841,25 Yoel St.,"25 Yoel St., Jerusalem, Israel","31.7910905, 35.2213935",Yes, 25 Yoel St. (Normal),Normal,100,80.0,"""Mosiyof"" synagogue","Address: 25 Yoel St.
+Shelter No: 841
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: ""Mosiyof"" synagogue",,31.7910905,35.2213935
+908,22 Shimshon Polanski St.,"22 Shimshon Polanski St., Jerusalem, Israel","31.79186859999999, 35.2232357",Yes, 22 Shimshon Polanski St. (Normal),Normal,100,80.0,Bucharim Community Administration,"Address: 22 Shimshon Polanski St.
+Shelter No: 908
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Bucharim Community Administration",,31.79186859999999,35.2232357
+608,44 Adoniyahu HaCohen St.,"44 Adoniyahu HaCohen St., Jerusalem, Israel","31.793713, 35.217219",Yes, 44 Adoniyahu HaCohen St. (Most Protected),Most Protected,400,320.0,"Emergency and Security Division, Jerusalem Municipality","Address: 44 Adoniyahu HaCohen St.
+Shelter No: 608
+Active?: Yes
+Shelter Type: Most Protected
+Area: 400
+Capacity: 320.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.793713,35.217219
+609,Yisa Bracha St 23,"Yisa Bracha St 23, Jerusalem, Israel","31.7922354, 35.2176755",Yes, Yisa Bracha St 23 (Most Protected),Most Protected,250,200.0,"Emergency and Security Division, Jerusalem Municipality","Address: Yisa Bracha St 23
+Shelter No: 609
+Active?: Yes
+Shelter Type: Most Protected
+Area: 250
+Capacity: 200.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7922354,35.2176755
+610,10 Aharon Fishel St.,"10 Aharon Fishel St., Jerusalem, Israel","31.7924974, 35.218937",Yes, 10 Aharon Fishel St. (Normal),Normal,40,32.0,"""Poteah Shearim"" organization","Address: 10 Aharon Fishel St.
+Shelter No: 610
+Active?: Yes
+Shelter Type: Normal
+Area: 40
+Capacity: 32.0
+Operator: ""Poteah Shearim"" organization",,31.7924974,35.218937
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Most Protected),Most Protected,,,,,,31.768319,35.21371
+611,11 Ben Tsiyon Gol St.,"11 Ben Tsiyon Gol St., Jerusalem, Israel","31.7931357, 35.2208882",Yes, 11 Ben Tsiyon Gol St. (Most Protected),Most Protected,150,120.0,"Emergency and Security Division, Jerusalem Municipality","Address: 11 Ben Tsiyon Gol St.
+Shelter No: 611
+Active?: Yes
+Shelter Type: Most Protected
+Area: 150
+Capacity: 120.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7931357,35.2208882
+612,16 Yoel St.,"16 Yoel St., Jerusalem, Israel","31.7898417, 35.2208909",Yes, 16 Yoel St. (Most Protected),Most Protected,50,40.0,Karlin Hasidic community,"Address: 16 Yoel St.
+Shelter No: 612
+Active?: Yes
+Shelter Type: Most Protected
+Area: 50
+Capacity: 40.0
+Operator: Karlin Hasidic community",,31.7898417,35.2208909
+620,27 Yehezkhel St.,"27 Yehezkhel St., Jerusalem, Israel","31.7911551, 35.2196628",Yes, 27 Yehezkhel St. (Most Protected),Most Protected,50,40.0,"""Kfar Yeladim David"" organization","Address: 27 Yehezkhel St.
+Shelter No: 620
+Active?: Yes
+Shelter Type: Most Protected
+Area: 50
+Capacity: 40.0
+Operator: ""Kfar Yeladim David"" organization",,31.7911551,35.2196628
+910,Ovadya St 22,"Ovadya St 22, Jerusalem, Israel","31.791622, 35.2148846",Yes, Ovadya St 22 (Normal),Normal,100,80.0,"Karlin Hassidic community's ""Beit Bracha""","Address: Ovadya St 22
+Shelter No: 910
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Karlin Hassidic community's ""Beit Bracha""",,31.791622,35.2148846
+639,2 Michel Pines St.,"2 Michel Pines St., Jerusalem, Israel","31.7864599, 35.2152906",Yes, 2 Michel Pines St. (Normal),Normal,250,200.0,"""Degel Yerushalayim""","Address: 2 Michel Pines St.
+Shelter No: 639
+Active?: Yes
+Shelter Type: Normal
+Area: 250
+Capacity: 200.0
+Operator: ""Degel Yerushalayim""",,31.7864599,35.2152906
+652,26 HaNevi'im St.,"26 HaNevi'im St., Jerusalem, Israel","31.7839236, 35.2257588",Yes, 26 HaNevi'im St. (Normal),Normal,40,32.0,"""United Hatzalah"" organization, Jerusalem","Address: 26 HaNevi'im St.
+Shelter No: 652
+Active?: Yes
+Shelter Type: Normal
+Area: 40
+Capacity: 32.0
+Operator: ""United Hatzalah"" organization, Jerusalem",,31.7839236,35.2257588
+932,38 HaGilboa St.,"38 HaGilboa St., Jerusalem, Israel","31.7830058, 35.212869",Yes, 38 HaGilboa St. (Normal),Normal,100,80.0,Lev Ha'Ir Community Administration,"Address: 38 HaGilboa St.
+Shelter No: 932
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Lev Ha'Ir Community Administration",,31.7830058,35.212869
+973,5 HaRav Aviyada St.,"5 HaRav Aviyada St., Jerusalem, Israel","31.787357, 35.196903",Yes, 5 HaRav Aviyada St. (Normal),Normal,100,80.0,"Drama school, Youth Promotion Department, Education Division, Municipality of Jerusalem","Address: 5 HaRav Aviyada St.
+Shelter No: 973
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Drama school, Youth Promotion Department, Education Division, Municipality of Jerusalem",,31.787357,35.196903
+974,9 Shmuel Hanagid St.,"9 Shmuel Hanagid St., Jerusalem, Israel","31.77967319999999, 35.2147312",Yes, 9 Shmuel Hanagid St. (Normal),Normal,100,80.0,"Youth Promotion Department, Education Division, Jerusalem Municipality","Address: 9 Shmuel Hanagid St.
+Shelter No: 974
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Youth Promotion Department, Education Division, Jerusalem Municipality",,31.77967319999999,35.2147312
+985,13 Strauss St.,"13 Strauss St., Jerusalem, Israel","31.78526159999999, 35.2187319",Yes, 13 Strauss St. (Normal),Normal,50,40.0,"""Helek MiMeni Bracha VeHesed"" organization (assistance to the needy)","Address: 13 Strauss St.
+Shelter No: 985
+Active?: Yes
+Shelter Type: Normal
+Area: 50
+Capacity: 40.0
+Operator: ""Helek MiMeni Bracha VeHesed"" organization (assistance to the needy)",,31.78526159999999,35.2187319
+903,82 Homat HaTzalafim St.,"82 Homat HaTzalafim St., Jerusalem, Israel","31.768319, 35.21371",Yes, 82 Homat HaTzalafim St. (Normal),Normal,120,96.0,"Artists' studio, Ein Kerem Community Center","Address: 82 Homat HaTzalafim St.
+Shelter No: 903
+Active?: Yes
+Shelter Type: Normal
+Area: 120
+Capacity: 96.0
+Operator: Artists' studio, Ein Kerem Community Center",,31.768319,35.21371
+672,10 Ruth St.,"10 Ruth St., Jerusalem, Israel","31.7648535, 35.2173875",Yes, 10 Ruth St. (Normal),Normal,150,120.0,"Emergency and Security Division, Jerusalem Municipality","Address: 10 Ruth St.
+Shelter No: 672
+Active?: Yes
+Shelter Type: Normal
+Area: 150
+Capacity: 120.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7648535,35.2173875
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+670,9 Bostanai St.,"9 Bostanai St., Jerusalem, Israel","31.7654554, 35.2129114",Yes, 9 Bostanai St. (Normal),Normal,140,112.0,"Emergency and Security Division, Jerusalem Municipality","Address: 9 Bostanai St.
+Shelter No: 670
+Active?: Yes
+Shelter Type: Normal
+Area: 140
+Capacity: 112.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7654554,35.2129114
+673,3 Malal St.,"3 Malal St., Jerusalem, Israel","31.7634619, 35.2185825",Yes, 3 Malal St. (Normal),Normal,114,91.0,"Emergency and Security Division, Jerusalem Municipality","Address: 3 Malal St.
+Shelter No: 673
+Active?: Yes
+Shelter Type: Normal
+Area: 114
+Capacity: 91.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7634619,35.2185825
+674,7 Bachar St.,"7 Bachar St., Jerusalem, Israel","31.782932, 35.20998",Yes, 7 Bachar St. (Normal),Normal,150,120.0,"Emergency and Security Division, Jerusalem Municipality","Address: 7 Bachar St.
+Shelter No: 674
+Active?: Yes
+Shelter Type: Normal
+Area: 150
+Capacity: 120.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.782932,35.20998
+676,6 Emile Zola St.,"6 Emile Zola St., Jerusalem, Israel","31.7643611, 35.2210073",Yes, 6 Emile Zola St. (Normal),Normal,100,80.0,"Emergency and Security Division, Jerusalem Municipality","Address: 6 Emile Zola St.
+Shelter No: 676
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7643611,35.2210073
+677,6 Wyndham Deedes St.,"6 Wyndham Deedes St., Jerusalem, Israel","31.763875, 35.2213078",Yes, 6 Wyndham Deedes St. (Normal),Normal,290,232.0,"Emergency and Security Division, Jerusalem Municipality","Address: 6 Wyndham Deedes St.
+Shelter No: 677
+Active?: Yes
+Shelter Type: Normal
+Area: 290
+Capacity: 232.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.763875,35.2213078
+692,60 Emek Refaim St.,"60 Emek Refaim St., Jerusalem, Israel","31.7612795, 35.2165345",Yes, 60 Emek Refaim St. (Normal),Normal,250,200.0,"Emergency and Security Division, Jerusalem Municipality","Address: 60 Emek Refaim St.
+Shelter No: 692
+Active?: Yes
+Shelter Type: Normal
+Area: 250
+Capacity: 200.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7612795,35.2165345
+693,9 Yotam St.,"9 Yotam St., Jerusalem, Israel","31.7625105, 35.2147674",Yes, 9 Yotam St. (Normal),Normal,170,136.0,"Emergency and Security Division, Jerusalem Municipality","Address: 9 Yotam St.
+Shelter No: 693
+Active?: Yes
+Shelter Type: Normal
+Area: 170
+Capacity: 136.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7625105,35.2147674
+697,27 Yehoshua Bin Nun St.,"27 Yehoshua Bin Nun St., Jerusalem, Israel","31.7605694, 35.2152704",Yes, 27 Yehoshua Bin Nun St. (Normal),Normal,160,128.0,"Emergency and Security Division, Jerusalem Municipality","Address: 27 Yehoshua Bin Nun St.
+Shelter No: 697
+Active?: Yes
+Shelter Type: Normal
+Area: 160
+Capacity: 128.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7605694,35.2152704
+804,8 HaMelits St.,"8 HaMelits St., Jerusalem, Israel","31.7647172, 35.2196378",Yes, 8 HaMelits St. (Normal),Normal,100,80.0,"Emergency and Security Division, Jerusalem Municipality","Address: 8 HaMelits St.
+Shelter No: 804
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7647172,35.2196378
+998,6 Aba Berdichev St.,"6 Aba Berdichev St., Jerusalem, Israel","31.805540, 35.241570",Yes, 6 Aba Berdichev St. (Normal),Normal,100,80.0,"Emergency and Security Division, Jerusalem Municipality","Address: 6 Aba Berdichev St.
+Shelter No: 998
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.80554,35.24157
+694,1 Amatsiya St.,"1 Amatsiya St., Jerusalem, Israel","31.761730, 35.215180",Yes, 1 Amatsiya St. (Normal),Normal,200,160.0,"Emergency and Security Division, Jerusalem Municipality","Address: 1 Amatsiya St.
+Shelter No: 694
+Active?: Yes
+Shelter Type: Normal
+Area: 200
+Capacity: 160.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.76173,35.21518
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Most Protected),Most Protected,,,,,,31.768319,35.21371
+695,2 Amatsiya St.,"2 Amatsiya St., Jerusalem, Israel","31.768319, 35.21371",Yes, 2 Amatsiya St. (Most Protected),Most Protected,250,200.0,Chabad synagogue,"Address: 2 Amatsiya St.
+Shelter No: 695
+Active?: Yes
+Shelter Type: Most Protected
+Area: 250
+Capacity: 200.0
+Operator: Chabad synagogue",,31.768319,35.21371
+614,16 Shlomo Musayof St.,"16 Shlomo Musayof St., Jerusalem, Israel","31.7921348, 35.2217038",Yes, 16 Shlomo Musayof St. (Most Protected),Most Protected,40,32.0,"""Hesdei Yehezkel VeMiriam"" volunteer center","Address: 16 Shlomo Musayof St.
+Shelter No: 614
+Active?: Yes
+Shelter Type: Most Protected
+Area: 40
+Capacity: 32.0
+Operator: ""Hesdei Yehezkel VeMiriam"" volunteer center",,31.7921348,35.2217038
+621,8 Hoshe'a St.,"8 Hoshe'a St., Jerusalem, Israel","31.7895088, 35.2196259",Yes, 8 Hoshe'a St. (Normal),Normal,100,80.0,"Emergency and Security Division, Jerusalem Municipality","Address: 8 Hoshe'a St.
+Shelter No: 621
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7895088,35.2196259
+623,14 Zechariah HaRofeh St.,"14 Zechariah HaRofeh St., Jerusalem, Israel","31.78467939999999, 35.2185026",Yes, 14 Zechariah HaRofeh St. (Most Protected),Most Protected,40,32.0,"MeTeiman Yavo"" yeshiva","Address: 14 Zechariah HaRofeh St.
+Shelter No: 623
+Active?: Yes
+Shelter Type: Most Protected
+Area: 40
+Capacity: 32.0
+Operator: MeTeiman Yavo"" yeshiva",,31.78467939999999,35.2185026
+635,15 Avodat Yisrael St.,"15 Avodat Yisrael St., Jerusalem, Israel","31.7874772, 35.2210223",Yes, 15 Avodat Yisrael St. (Normal),Normal,,32.0,"Emergency and Security Division, Jerusalem Municipality","Address: 15 Avodat Yisrael St.
+Shelter No: 635
+Active?: Yes
+Shelter Type: Normal
+Area: nan
+Capacity: 32.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7874772,35.2210223
+637,18 Nahman MiBreslev St.,"18 Nahman MiBreslev St., Jerusalem, Israel","31.7875368, 35.2199891",Yes, 18 Nahman MiBreslev St. (Normal),Normal,100,80.0,"Emergency and Security Division, Jerusalem Municipality","Address: 18 Nahman MiBreslev St.
+Shelter No: 637
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7875368,35.2199891
+830,25 Tsfanya St.,"25 Tsfanya St., Jerusalem, Israel","31.791313, 35.2172062",Yes, 25 Tsfanya St. (Normal),Normal,100,80.0,Bucharim Community Administration,"Address: 25 Tsfanya St.
+Shelter No: 830
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Bucharim Community Administration",,31.791313,35.2172062
+904,7 HaZayit St.,"7 HaZayit St., Jerusalem, Israel","31.79017869999999, 35.2112935",Yes, 7 HaZayit St. (Normal),Normal,125,100.0,"Sanitation Division, Jerusalem Municipality","Address: 7 HaZayit St.
+Shelter No: 904
+Active?: Yes
+Shelter Type: Normal
+Area: 125
+Capacity: 100.0
+Operator: Sanitation Division, Jerusalem Municipality",,31.79017869999999,35.2112935
+715,52 David Shimoni St.,"52 David Shimoni St., Jerusalem, Israel","31.7613455, 35.2011204",Yes, 52 David Shimoni St. (Normal),Normal,180,144.0,"Emergency and Security Division, Jerusalem Municipality","Address: 52 David Shimoni St.
+Shelter No: 715
+Active?: Yes
+Shelter Type: Normal
+Area: 180
+Capacity: 144.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7613455,35.2011204
+949,33 HaTayasim St.,"33 HaTayasim St., Jerusalem, Israel","31.7654279, 35.2072491",Yes, 33 HaTayasim St. (Normal),Normal,100,80.0,Ginot Ha'Ir Community Administration,"Address: 33 HaTayasim St.
+Shelter No: 949
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Ginot Ha'Ir Community Administration",,31.7654279,35.2072491
+808,27 Yisrael Najara St.,"27 Yisrael Najara St., Jerusalem, Israel","31.7961216, 35.2252486",Yes, 27 Yisrael Najara St. (Normal),Normal,100,80.0,Meitarim Community Administration,"Address: 27 Yisrael Najara St.
+Shelter No: 808
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Meitarim Community Administration",,31.7961216,35.2252486
+700,15 David Shimoni St.,"15 David Shimoni St., Jerusalem, Israel","31.7651489, 35.2049945",Yes, 15 David Shimoni St. (Most Protected),Most Protected,85,67.0,"Emergency and Security Division, Jerusalem Municipality","Address: 15 David Shimoni St.
+Shelter No: 700
+Active?: Yes
+Shelter Type: Most Protected
+Area: 85
+Capacity: 67.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7651489,35.2049945
+726,123 HaNurit St.,"123 HaNurit St., Jerusalem, Israel","31.752843, 35.1721424",Yes, 123 HaNurit St. (Normal),Normal,350,280.0,"Emergency and Security Division, Jerusalem Municipality","Address: 123 HaNurit St.
+Shelter No: 726
+Active?: Yes
+Shelter Type: Normal
+Area: 350
+Capacity: 280.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.752843,35.1721424
+727,104 HaNurit St.,"104 HaNurit St., Jerusalem, Israel","31.7543807, 35.1705897",Yes, 104 HaNurit St. (Normal),Normal,120,148.0,"Emergency and Security Division, Jerusalem Municipality","Address: 104 HaNurit St.
+Shelter No: 727
+Active?: Yes
+Shelter Type: Normal
+Area: 120
+Capacity: 148.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7543807,35.1705897
+728,102 HaNurit St.,"102 HaNurit St., Jerusalem, Israel","31.7546412, 35.1701886",No ⚠️,INACTIVE! 102 HaNurit St. (Normal),Normal,183,148.0,"Emergency and Security Division, Jerusalem Municipality","Address: 102 HaNurit St.
+Shelter No: 728
+Active?: No ⚠️
+Shelter Type: Normal
+Area: 183
+Capacity: 148.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7546412,35.1701886
+829,9 HaRakefet St.,"9 HaRakefet St., Jerusalem, Israel","31.7534184, 35.166039",Yes, 9 HaRakefet St. (Normal),Normal,100,32.0,"""Chai Tayeb"" synagogue","Address: 9 HaRakefet St.
+Shelter No: 829
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 32.0
+Operator: ""Chai Tayeb"" synagogue",,31.7534184,35.166039
+840,70 Costa Rica St.,"70 Costa Rica St., Jerusalem, Israel","31.7528615, 35.1670549",Yes, 70 Costa Rica St. (Normal),Normal,100,32.0,"""Beit Chabad"" building","Address: 70 Costa Rica St.
+Shelter No: 840
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 32.0
+Operator: ""Beit Chabad"" building",,31.7528615,35.1670549
+901,13 Iceland St,"13 Iceland St, Jerusalem, Israel","31.7591071, 35.1665208",Yes, 13 Iceland St (Normal),Normal,150,120.0,"""David Moshe"" synagogue","Address: 13 Iceland St
+Shelter No: 901
+Active?: Yes
+Shelter Type: Normal
+Area: 150
+Capacity: 120.0
+Operator: ""David Moshe"" synagogue",,31.7591071,35.1665208
+902,29 HaNurit St.,"29 HaNurit St., Jerusalem, Israel","31.7546734, 35.1690152",Yes, 29 HaNurit St. (Normal),Normal,250,200.0,"Emergency and Security Division, Jerusalem Municipality","Address: 29 HaNurit St.
+Shelter No: 902
+Active?: Yes
+Shelter Type: Normal
+Area: 250
+Capacity: 200.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7546734,35.1690152
+905,1 HaNerd St.,"1 HaNerd St., Jerusalem, Israel","31.7570072, 35.1708159",Yes, 1 HaNerd St. (Normal),Normal,138,110.0,"""Ezra"" youth movement","Address: 1 HaNerd St.
+Shelter No: 905
+Active?: Yes
+Shelter Type: Normal
+Area: 138
+Capacity: 110.0
+Operator: ""Ezra"" youth movement",,31.7570072,35.1708159
+663,6 HaAmora'ïm St.,"6 HaAmora'ïm St., Jerusalem, Israel","31.7573047, 35.2102465",Yes, 6 HaAmora'ïm St. (Most Protected),Most Protected,60,48.0,"Emergency and Security Division, Jerusalem Municipality","Address: 6 HaAmora'ïm St.
+Shelter No: 663
+Active?: Yes
+Shelter Type: Most Protected
+Area: 60
+Capacity: 48.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7573047,35.2102465
+704,5 Yohanan Ben Zakai St.,"5 Yohanan Ben Zakai St., Jerusalem, Israel","31.768319, 35.21371",Yes, 5 Yohanan Ben Zakai St. (Most Protected),Most Protected,,160.0,"""Yerushachmat""","Address: 5 Yohanan Ben Zakai St.
+Shelter No: 704
+Active?: Yes
+Shelter Type: Most Protected
+Area: nan
+Capacity: 160.0
+Operator: ""Yerushachmat""",,31.768319,35.21371
+704A,5 Yohanan ben Zakai St.,"5 Yohanan ben Zakai St., Jerusalem, Israel","31.768319, 35.21371",Yes, 5 Yohanan ben Zakai St. (Most Protected),Most Protected,360,160.0,"Emergency and Security Division, Jerusalem Municipality","Address: 5 Yohanan ben Zakai St.
+Shelter No: 704A
+Active?: Yes
+Shelter Type: Most Protected
+Area: 360
+Capacity: 160.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.768319,35.21371
+705,7 Ma'agalei Yavne St.,"7 Ma'agalei Yavne St., Jerusalem, Israel","31.7581435, 35.2125034",Yes, 7 Ma'agalei Yavne St. (Most Protected),Most Protected,400,320.0,"Emergency and Security Division, Jerusalem Municipality","Address: 7 Ma'agalei Yavne St.
+Shelter No: 705
+Active?: Yes
+Shelter Type: Most Protected
+Area: 400
+Capacity: 320.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7581435,35.2125034
+707,22 Rashbag St.,"22 Rashbag St., Jerusalem, Israel","31.756198, 35.2097741",Yes, 22 Rashbag St. (Most Protected),Most Protected,,32.0,"Emergency and Security Division, Jerusalem Municipality","Address: 22 Rashbag St.
+Shelter No: 707
+Active?: Yes
+Shelter Type: Most Protected
+Area: nan
+Capacity: 32.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.756198,35.2097741
+709,5 Ben Tabai St.,"5 Ben Tabai St., Jerusalem, Israel","31.757374, 35.2048301",Yes, 5 Ben Tabai St. (Most Protected),Most Protected,160,128.0,"Emergency and Security Division, Jerusalem Municipality","Address: 5 Ben Tabai St.
+Shelter No: 709
+Active?: Yes
+Shelter Type: Most Protected
+Area: 160
+Capacity: 128.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.757374,35.2048301
+710,70 Yohanan ben Zakai St.,"70 Yohanan ben Zakai St., Jerusalem, Israel","31.759067, 35.209515",No ⚠️,INACTIVE! 70 Yohanan ben Zakai St. (Most Protected),Most Protected,160,128.0,"Emergency and Security Division, Jerusalem Municipality","Address: 70 Yohanan ben Zakai St.
+Shelter No: 710
+Active?: No ⚠️
+Shelter Type: Most Protected
+Area: 160
+Capacity: 128.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.759067,35.209515
+714,3 Kana'ei HaGalil St.,"3 Kana'ei HaGalil St., Jerusalem, Israel","31.75562759999999, 35.200203",Yes, 3 Kana'ei HaGalil St. (Most Protected),Most Protected,40,32.0,"Emergency and Security Division, Jerusalem Municipality","Address: 3 Kana'ei HaGalil St.
+Shelter No: 714
+Active?: Yes
+Shelter Type: Most Protected
+Area: 40
+Capacity: 32.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.75562759999999,35.200203
+718,6 Rabbi Tzadok St.,"6 Rabbi Tzadok St., Jerusalem, Israel","31.7542746, 35.1938906",Yes, 6 Rabbi Tzadok St. (Normal),Normal,120,96.0,Gonenim Community Administration,"Address: 6 Rabbi Tzadok St.
+Shelter No: 718
+Active?: Yes
+Shelter Type: Normal
+Area: 120
+Capacity: 96.0
+Operator: Gonenim Community Administration",,31.7542746,35.1938906
+755,3 Dov Hoz St.,"3 Dov Hoz St., Jerusalem, Israel","31.756184, 35.1966235",Yes, 3 Dov Hoz St. (Normal),Normal,100,80.0,"Culture Division, Municipality of Jerusalem","Address: 3 Dov Hoz St.
+Shelter No: 755
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Culture Division, Municipality of Jerusalem",,31.756184,35.1966235
+756,1 San Martin St.,"1 San Martin St., Jerusalem, Israel","31.754180, 35.195060",Yes, 1 San Martin St. (Normal),Normal,100,80.0,"""Torah BeTziyon Tzedek"" youth movement","Address: 1 San Martin St.
+Shelter No: 756
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: ""Torah BeTziyon Tzedek"" youth movement",,31.75418,35.19506
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+757,5 HaShomer St.,"5 HaShomer St., Jerusalem, Israel","31.7555179, 35.19782",Yes, 5 HaShomer St. (Normal),Normal,100,80.0,"Youth Advancement Department, Jerusalem Municipality","Address: 5 HaShomer St.
+Shelter No: 757
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Youth Advancement Department, Jerusalem Municipality",,31.7555179,35.19782
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+805,21 Yordei HaSira St.,"21 Yordei HaSira St., Jerusalem, Israel","31.7622002, 35.2107496",Yes, 21 Yordei HaSira St. (Normal),Normal,370,296.0,"Emergency and Security Division, Jerusalem Municipality","Address: 21 Yordei HaSira St.
+Shelter No: 805
+Active?: Yes
+Shelter Type: Normal
+Area: 370
+Capacity: 296.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7622002,35.2107496
+817,7 Yehoshua Ben Gamla St.,"7 Yehoshua Ben Gamla St., Jerusalem, Israel","31.7605935, 35.2122387",Yes, 7 Yehoshua Ben Gamla St. (Normal),Normal,,96.0,Ginot Ha'Ir Community Administration,"Address: 7 Yehoshua Ben Gamla St.
+Shelter No: 817
+Active?: Yes
+Shelter Type: Normal
+Area: nan
+Capacity: 96.0
+Operator: Ginot Ha'Ir Community Administration",,31.7605935,35.2122387
+824,31 Rashbag St.,"31 Rashbag St., Jerusalem, Israel","31.7552236, 35.2086146",Yes, 31 Rashbag St. (Normal),Normal,150,120.0,"Mikro Theater, Culture Division, Jerusalem Municipality","Address: 31 Rashbag St.
+Shelter No: 824
+Active?: Yes
+Shelter Type: Normal
+Area: 150
+Capacity: 120.0
+Operator: Mikro Theater, Culture Division, Jerusalem Municipality",,31.7552236,35.2086146
+825,24 Elazar Ben Yair St.,"24 Elazar Ben Yair St., Jerusalem, Israel","31.7534272, 35.201658",Yes, 24 Elazar Ben Yair St. (Normal),Normal,150,120.0,"""Ariel"" youth movement","Address: 24 Elazar Ben Yair St.
+Shelter No: 825
+Active?: Yes
+Shelter Type: Normal
+Area: 150
+Capacity: 120.0
+Operator: ""Ariel"" youth movement",,31.7534272,35.201658
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+828,10 HaRav Hasda St.,"10 HaRav Hasda St., Jerusalem, Israel","31.787357, 35.196903",Yes, 10 HaRav Hasda St. (Normal),Normal,100,80.0,boxing club,"Address: 10 HaRav Hasda St.
+Shelter No: 828
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: boxing club",,31.787357,35.196903
+831,7 Dov Hoz St.,"7 Dov Hoz St., Jerusalem, Israel","31.7560538, 35.1954492",Yes, 7 Dov Hoz St. (Normal),Normal,150,120.0,"Keshet Arts, Culture Division, Jerusalem Municipality","Address: 7 Dov Hoz St.
+Shelter No: 831
+Active?: Yes
+Shelter Type: Normal
+Area: 150
+Capacity: 120.0
+Operator: Keshet Arts, Culture Division, Jerusalem Municipality",,31.7560538,35.1954492
+842,8 Bar Yochai St.,"8 Bar Yochai St., Jerusalem, Israel","31.7529687, 35.1953426",Yes, 8 Bar Yochai St. (Normal),Normal,174,139.0,synagogue for Israelis of Ethiopian origin,"Address: 8 Bar Yochai St.
+Shelter No: 842
+Active?: Yes
+Shelter Type: Normal
+Area: 174
+Capacity: 139.0
+Operator: synagogue for Israelis of Ethiopian origin",,31.7529687,35.1953426
+906,2 Bar Yochai St.,"2 Bar Yochai St., Jerusalem, Israel","31.7541317, 35.1987596",Yes, 2 Bar Yochai St. (Normal),Normal,100,80.0,"Gal Avraham"" synagogue","Address: 2 Bar Yochai St.
+Shelter No: 906
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Gal Avraham"" synagogue",,31.7541317,35.1987596
+965,7 Yitzhak Sadeh St.,"7 Yitzhak Sadeh St., Jerusalem, Israel","31.768319, 35.21371",Yes, 7 Yitzhak Sadeh St. (Normal),Normal,100,80.0,"""Havatzelet HaSharon"" synagogue","Address: 7 Yitzhak Sadeh St.
+Shelter No: 965
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: ""Havatzelet HaSharon"" synagogue",,31.768319,35.21371
+967,7 Antignos St.,"7 Antignos St., Jerusalem, Israel","31.7577645, 35.2094264",Yes, 7 Antignos St. (Normal),Normal,100,80.0,"""Ariel"" movement","Address: 7 Antignos St.
+Shelter No: 967
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: ""Ariel"" movement",,31.7577645,35.2094264
+969,16 Yossi Ben Yo'ezer St.,"16 Yossi Ben Yo'ezer St., Jerusalem, Israel","31.7567059, 35.2087293",Yes, 16 Yossi Ben Yo'ezer St. (Normal),Normal,100,80.0,"Society Division, Jerusalem Municipality","Address: 16 Yossi Ben Yo'ezer St.
+Shelter No: 969
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Society Division, Jerusalem Municipality",,31.7567059,35.2087293
+976,41 Avraham Elmaliach St.,"41 Avraham Elmaliach St., Jerusalem, Israel","31.755360, 35.192210",Yes, 41 Avraham Elmaliach St. (Normal),Normal,50,40.0,organization of Israelis of Kurdish origin,"Address: 41 Avraham Elmaliach St.
+Shelter No: 976
+Active?: Yes
+Shelter Type: Normal
+Area: 50
+Capacity: 40.0
+Operator: organization of Israelis of Kurdish origin",,31.75536,35.19221
+981,27 Avraham Elmaliach St.,"27 Avraham Elmaliach St., Jerusalem, Israel","31.7578262, 35.1765674",Yes, 27 Avraham Elmaliach St. (Normal),Normal,50,40.0,"""Tzofim"", Society Division, Jerusalem Municipality","Address: 27 Avraham Elmaliach St.
+Shelter No: 981
+Active?: Yes
+Shelter Type: Normal
+Area: 50
+Capacity: 40.0
+Operator: ""Tzofim"", Society Division, Jerusalem Municipality",,31.7578262,35.1765674
+987,38 Yohanan Ben Zakai St.,"38 Yohanan Ben Zakai St., Jerusalem, Israel","31.768319, 35.21371",Yes, 38 Yohanan Ben Zakai St. (Normal),Normal,100,80.0,"""Ohel Moshe"" synagogue","Address: 38 Yohanan Ben Zakai St.
+Shelter No: 987
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: ""Ohel Moshe"" synagogue",,31.768319,35.21371
+721,29 Uruguay St.,"29 Uruguay St., Jerusalem, Israel","31.7554891, 35.1773017",Yes, 29 Uruguay St. (Normal),Normal,130,104.0,"Community Administration, Public Health Division, Jerusalem Municipality","Address: 29 Uruguay St.
+Shelter No: 721
+Active?: Yes
+Shelter Type: Normal
+Area: 130
+Capacity: 104.0
+Operator: Community Administration, Public Health Division, Jerusalem Municipality",,31.7554891,35.1773017
+722,67 Avraham Stern St.,"67 Avraham Stern St., Jerusalem, Israel","31.7563747, 35.1766545",No ⚠️,INACTIVE! 67 Avraham Stern St. (Normal),Normal,130,104.0,"Emergency and Security Division, Jerusalem Municipality","Address: 67 Avraham Stern St.
+Shelter No: 722
+Active?: No ⚠️
+Shelter Type: Normal
+Area: 130
+Capacity: 104.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7563747,35.1766545
+723,51 Avraham Stern St.,"51 Avraham Stern St., Jerusalem, Israel","31.7540446, 35.1766657",No ⚠️,INACTIVE! 51 Avraham Stern St. (Normal),Normal,130,104.0,"Emergency and Security Division, Jerusalem Municipality","Address: 51 Avraham Stern St.
+Shelter No: 723
+Active?: No ⚠️
+Shelter Type: Normal
+Area: 130
+Capacity: 104.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7540446,35.1766657
+724,9 Volta Ilit St.,"9 Volta Ilit St., Jerusalem, Israel","31.758191, 35.1776071",Yes, 9 Volta Ilit St. (Normal),Normal,90,72.0,"Emergency and Security Division, Jerusalem Municipality","Address: 9 Volta Ilit St.
+Shelter No: 724
+Active?: Yes
+Shelter Type: Normal
+Area: 90
+Capacity: 72.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.758191,35.1776071
+736,8 Chile St.,"8 Chile St., Jerusalem, Israel","31.7605238, 35.1704658",Yes, 8 Chile St. (Normal),Normal,200,160.0,Yuvalim Community Administration,"Address: 8 Chile St.
+Shelter No: 736
+Active?: Yes
+Shelter Type: Normal
+Area: 200
+Capacity: 160.0
+Operator: Yuvalim Community Administration",,31.7605238,35.1704658
+737,32 Janus Korczak St.,"32 Janus Korczak St., Jerusalem, Israel","31.7599405, 35.1721157",Yes, 32 Janus Korczak St. (Normal),Normal,150,120.0,"""Mishkan Mordechai"" synagogue","Address: 32 Janus Korczak St.
+Shelter No: 737
+Active?: Yes
+Shelter Type: Normal
+Area: 150
+Capacity: 120.0
+Operator: ""Mishkan Mordechai"" synagogue",,31.7599405,35.1721157
+738,78 Anielewicz St.,"78 Anielewicz St., Jerusalem, Israel","31.7619861, 35.173213",Yes, 78 Anielewicz St. (Normal),Normal,90,72.0,"""Bnei Akiva"" youth movement","Address: 78 Anielewicz St.
+Shelter No: 738
+Active?: Yes
+Shelter Type: Normal
+Area: 90
+Capacity: 72.0
+Operator: ""Bnei Akiva"" youth movement",,31.7619861,35.173213
+739,3 Schmorak St.,"3 Schmorak St., Jerusalem, Israel","31.766097564908538, 35.17600315093499",Yes, 3 Schmorak St. (Normal),Normal,90,72.0,"Emergency and Security Division, Jerusalem Municipality","Address: 3 Schmorak St.
+Shelter No: 739
+Active?: Yes
+Shelter Type: Normal
+Area: 90
+Capacity: 72.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.766097564908534,35.17600315093499
+740,7 Yisrael Zangvil St.,"7 Yisrael Zangvil St., Jerusalem, Israel","31.7659542, 35.1772484",Yes, 7 Yisrael Zangvil St. (Normal),Normal,90,72.0,"Emergency and Security Division, Jerusalem Municipality","Address: 7 Yisrael Zangvil St.
+Shelter No: 740
+Active?: Yes
+Shelter Type: Normal
+Area: 90
+Capacity: 72.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7659542,35.1772484
+741,5 Yisrael Zangvill St.,"5 Yisrael Zangvill St., Jerusalem, Israel","31.767178, 35.178301",Yes, 5 Yisrael Zangvill St. (Normal),Normal,90,72.0,"Emergency and Security Division, Jerusalem Municipality","Address: 5 Yisrael Zangvill St.
+Shelter No: 741
+Active?: Yes
+Shelter Type: Normal
+Area: 90
+Capacity: 72.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.767178,35.178301
+814,3 Volta Ilit St.,"3 Volta Ilit St., Jerusalem, Israel","31.7592371, 35.1772128",Yes, 3 Volta Ilit St. (Normal),Normal,130,104.0,Yuvalim Community Administration,"Address: 3 Volta Ilit St.
+Shelter No: 814
+Active?: Yes
+Shelter Type: Normal
+Area: 130
+Capacity: 104.0
+Operator: Yuvalim Community Administration",,31.7592371,35.1772128
+814 A,3 Volta Ilit St.,"3 Volta Ilit St., Jerusalem, Israel","31.7592371, 35.1772128",Yes, 3 Volta Ilit St. (Normal),Normal,130,104.0,"""Beit HaKehilot"", Yuvalim Community Administration","Address: 3 Volta Ilit St.
+Shelter No: 814 A
+Active?: Yes
+Shelter Type: Normal
+Area: 130
+Capacity: 104.0
+Operator: ""Beit HaKehilot"", Yuvalim Community Administration",,31.7592371,35.1772128
+815,2 Aharon Rabinovich St.,"2 Aharon Rabinovich St., Jerusalem, Israel","31.7651059, 35.1752983",Yes, 2 Aharon Rabinovich St. (Normal),Normal,168,134.0,music institute,"Address: 2 Aharon Rabinovich St.
+Shelter No: 815
+Active?: Yes
+Shelter Type: Normal
+Area: 168
+Capacity: 134.0
+Operator: music institute",,31.7651059,35.1752983
+815 A,2 Aharon Rabinovich St.,"2 Aharon Rabinovich St., Jerusalem, Israel","31.7651059, 35.1752983",Yes, 2 Aharon Rabinovich St. (Normal),Normal,815 A,136.0,"""Yad Avi"" synagogue","Address: 2 Aharon Rabinovich St.
+Shelter No: 815 A
+Active?: Yes
+Shelter Type: Normal
+Area: 815 A
+Capacity: 136.0
+Operator: ""Yad Avi"" synagogue",,31.7651059,35.1752983
+947,17 Sireni St.,"17 Sireni St., Jerusalem, Israel","31.76081939638985, 35.17454759511014",Yes, 17 Sireni St. (Most Protected),Most Protected,100,80.0,"Culture Division, Jerusalem Municipality","Address: 17 Sireni St.
+Shelter No: 947
+Active?: Yes
+Shelter Type: Most Protected
+Area: 100
+Capacity: 80.0
+Operator: Culture Division, Jerusalem Municipality",,31.76081939638985,35.17454759511014
+963,11 Yisrael Zangvill St.,"11 Yisrael Zangvill St., Jerusalem, Israel","31.7658085, 35.1773224",Yes, 11 Yisrael Zangvill St. (Normal),Normal,100,80.0,"""Siach Yisrael"" synagogue","Address: 11 Yisrael Zangvill St.
+Shelter No: 963
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: ""Siach Yisrael"" synagogue",,31.7658085,35.1773224
+964,8 Meir Grunwald St.,"8 Meir Grunwald St., Jerusalem, Israel","31.7573526, 35.1757899",No ⚠️,INACTIVE! 8 Meir Grunwald St. (Normal),Normal,,144.0,"Emergency and Security Division, Jerusalem Municipality","Address: 8 Meir Grunwald St.
+Shelter No: 964
+Active?: No ⚠️
+Shelter Type: Normal
+Area: nan
+Capacity: 144.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7573526,35.1757899
+983,10 Gordon St.,"10 Gordon St., Jerusalem, Israel","31.768319, 35.21371",Yes, 10 Gordon St. (Normal),Normal,100,80.0,"""Ezra"" youth movement","Address: 10 Gordon St.
+Shelter No: 983
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: ""Ezra"" youth movement",,31.768319,35.21371
+991,2 Avraham Sharon St.,"2 Avraham Sharon St., Jerusalem, Israel","31.7639081, 35.1730133",Yes, 2 Avraham Sharon St. (Normal),Normal,100,80.0,"""Mithazkim LeBoreh Olam"" organization","Address: 2 Avraham Sharon St.
+Shelter No: 991
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: ""Mithazkim LeBoreh Olam"" organization",,31.7639081,35.1730133
+992,19 Etinger St.,"19 Etinger St., Jerusalem, Israel","31.768319, 35.21371",Yes, 19 Etinger St. (Normal),Normal,100,80.0,"Emergency and Security Division, Jerusalem Municipality","Address: 19 Etinger St.
+Shelter No: 992
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.768319,35.21371
+993,3 Kleinman St.,"3 Kleinman St., Jerusalem, Israel","31.7638964, 35.1746685",Yes, 3 Kleinman St. (Normal),Normal,100,80.0,"Mashu-Mashu Theatre, Culture Division, Jerusalem Municipality","Address: 3 Kleinman St.
+Shelter No: 993
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Mashu-Mashu Theatre, Culture Division, Jerusalem Municipality",,31.7638964,35.1746685
+729,7 Dahomey St.,"7 Dahomey St., Jerusalem, Israel","31.7559385, 35.1658768",Yes, 7 Dahomey St. (Normal),Normal,250,200.0,Ganim Community Administration,"Address: 7 Dahomey St.
+Shelter No: 729
+Active?: Yes
+Shelter Type: Normal
+Area: 250
+Capacity: 200.0
+Operator: Ganim Community Administration",,31.7559385,35.1658768
+730,3 Dahomey St.,"3 Dahomey St., Jerusalem, Israel","31.7567637, 35.1670069",Yes, 3 Dahomey St. (Normal),Normal,196,156.0,"""Magen David"" synagogue","Address: 3 Dahomey St.
+Shelter No: 730
+Active?: Yes
+Shelter Type: Normal
+Area: 196
+Capacity: 156.0
+Operator: ""Magen David"" synagogue",,31.7567637,35.1670069
+731,16 Colombia St.,"16 Colombia St., Jerusalem, Israel","31.7585765, 35.1659691",Yes, 16 Colombia St. (Normal),Normal,200,160.0,"Emergency and Security Division, Jerusalem Municipality","Address: 16 Colombia St.
+Shelter No: 731
+Active?: Yes
+Shelter Type: Normal
+Area: 200
+Capacity: 160.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7585765,35.1659691
+732,7 Colombia St.,"7 Colombia St., Jerusalem, Israel","31.7582484, 35.1667934",Yes, 7 Colombia St. (Normal),Normal,160,128.0,"Emergency and Security Division, Jerusalem Municipality","Address: 7 Colombia St.
+Shelter No: 732
+Active?: Yes
+Shelter Type: Normal
+Area: 160
+Capacity: 128.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7582484,35.1667934
+734,17 Iceland St.,"17 Iceland St., Jerusalem, Israel","31.7594792, 35.165388",Yes, 17 Iceland St. (Normal),Normal,130,104.0,"Emergency and Security Division, Jerusalem Municipality","Address: 17 Iceland St.
+Shelter No: 734
+Active?: Yes
+Shelter Type: Normal
+Area: 130
+Capacity: 104.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7594792,35.165388
+734 A,17 Iceland St.,"17 Iceland St., Jerusalem, Israel","31.7594792, 35.165388",Yes, 17 Iceland St. (Normal),Normal,170,136.0,"Emergency and Security Division, Jerusalem Municipality","Address: 17 Iceland St.
+Shelter No: 734 A
+Active?: Yes
+Shelter Type: Normal
+Area: 170
+Capacity: 136.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7594792,35.165388
+803,17 Henrietta Szold St.,"17 Henrietta Szold St., Jerusalem, Israel","31.7595014, 35.1669236",Yes, 17 Henrietta Szold St. (Normal),Normal,113,90.0,"""Darchei Hayim"" yeshiva (dining room)","Address: 17 Henrietta Szold St.
+Shelter No: 803
+Active?: Yes
+Shelter Type: Normal
+Area: 113
+Capacity: 90.0
+Operator: ""Darchei Hayim"" yeshiva (dining room)",,31.7595014,35.1669236
+827,4 Mexico St.,"4 Mexico St., Jerusalem, Israel","31.7594846, 35.1688985",Yes, 4 Mexico St. (Normal),Normal,,80.0,"""Ariel"" youth movement","Address: 4 Mexico St.
+Shelter No: 827
+Active?: Yes
+Shelter Type: Normal
+Area: nan
+Capacity: 80.0
+Operator: ""Ariel"" youth movement",,31.7594846,35.1688985
+748,2 Ha'ilui St.,"2 Ha'ilui St., Jerusalem, Israel","31.7879216, 35.1955245",Yes, 2 Ha'ilui St. (Normal),Normal,134,107.0,"Emergency and Security Division, Jerusalem Municipality","Address: 2 Ha'ilui St.
+Shelter No: 748
+Active?: Yes
+Shelter Type: Normal
+Area: 134
+Capacity: 107.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7879216,35.1955245
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+977,23 Gat St.,"23 Gat St., Jerusalem, Israel","31.7862135, 35.1973343",Yes, 23 Gat St. (Normal),Normal,100,80.0,Meitarim Community Administration,"Address: 23 Gat St.
+Shelter No: 977
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Meitarim Community Administration",,31.7862135,35.1973343
+978,13 HaRav Tzvi Yehuda St.,"13 HaRav Tzvi Yehuda St., Jerusalem, Israel","31.787574, 35.195593",Yes, 13 HaRav Tzvi Yehuda St. (Normal),Normal,100,80.0,Meitarim Community Administration,"Address: 13 HaRav Tzvi Yehuda St.
+Shelter No: 978
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Meitarim Community Administration",,31.787574,35.195593
+667,22 HaPalmach St.,"22 HaPalmach St., Jerusalem, Israel","31.767478, 35.2110332",Yes, 22 HaPalmach St. (Normal),Normal,180,144.0,"Emergency and Security Division, Jerusalem Municipality","Address: 22 HaPalmach St.
+Shelter No: 667
+Active?: Yes
+Shelter Type: Normal
+Area: 180
+Capacity: 144.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.767478,35.2110332
+668,15 HaRav Brodi St.,"15 HaRav Brodi St., Jerusalem, Israel","31.7680993, 35.2103391",Yes, 15 HaRav Brodi St. (Normal),Normal,170,136.0,"Emergency and Security Division, Jerusalem Municipality","Address: 15 HaRav Brodi St.
+Shelter No: 668
+Active?: Yes
+Shelter Type: Normal
+Area: 170
+Capacity: 136.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7680993,35.2103391
+971,16 HaPalmach St.,"16 HaPalmach St., Jerusalem, Israel","31.7678118, 35.2120205",Yes, 16 HaPalmach St. (Normal),Normal,100,80.0,Ginot Ha'ir Community Administration,"Address: 16 HaPalmach St.
+Shelter No: 971
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Ginot Ha'ir Community Administration",,31.7678118,35.2120205
+726 B,125 HaNurit St.,"125 HaNurit St., Jerusalem, Israel","31.752341, 35.171552",Yes, 125 HaNurit St. (Normal),Normal,120,96.0,"Emergency and Security Division, Jerusalem Municipality","Address: 125 HaNurit St.
+Shelter No: 726 B
+Active?: Yes
+Shelter Type: Normal
+Area: 120
+Capacity: 96.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.752341,35.171552
+726 A,124 HaNurit St.,"124 HaNurit St., Jerusalem, Israel","31.752509, 35.171076",Yes, 124 HaNurit St. (Normal),Normal,120,80.0,"Emergency and Security Division, Jerusalem Municipality","Address: 124 HaNurit St.
+Shelter No: 726 A
+Active?: Yes
+Shelter Type: Normal
+Area: 120
+Capacity: 80.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.752509,35.171076
+646,4 Eliyahu Mani St.,"4 Eliyahu Mani St., Jerusalem, Israel","31.7859805, 35.2104777",Yes, 4 Eliyahu Mani St. (Most Protected),Most Protected,40,32.0,"Emergency and Security Division, Jerusalem Municipality","Address: 4 Eliyahu Mani St.
+Shelter No: 646
+Active?: Yes
+Shelter Type: Most Protected
+Area: 40
+Capacity: 32.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7859805,35.2104777
+648,15 Nahar Prat St.,"15 Nahar Prat St., Jerusalem, Israel","31.783150, 35.209550",Yes, 15 Nahar Prat St. (Normal),Normal,236,188.0,"Emergency and Security Division, Jerusalem Municipality","Address: 15 Nahar Prat St.
+Shelter No: 648
+Active?: Yes
+Shelter Type: Normal
+Area: 236
+Capacity: 188.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.78315,35.20955
+821,24 Einayim LaMishpat St.,"24 Einayim LaMishpat St., Jerusalem, Israel","31.782797, 35.2136024",Yes, 24 Einayim LaMishpat St. (Normal),Normal,120,96.0,Lev Ha'Ir Community Administration,"Address: 24 Einayim LaMishpat St.
+Shelter No: 821
+Active?: Yes
+Shelter Type: Normal
+Area: 120
+Capacity: 96.0
+Operator: Lev Ha'Ir Community Administration",,31.782797,35.2136024
+935,28 Be'er Sheva St.,"28 Be'er Sheva St., Jerusalem, Israel","31.7825739, 35.2105802",Yes, 28 Be'er Sheva St. (Normal),Normal,170,136.0,community synagogue,"Address: 28 Be'er Sheva St.
+Shelter No: 935
+Active?: Yes
+Shelter Type: Normal
+Area: 170
+Capacity: 136.0
+Operator: community synagogue",,31.7825739,35.2105802
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+961,17 Even Sapir St.,"17 Even Sapir St., Jerusalem, Israel","31.780544, 35.2111392",Yes, 17 Even Sapir St. (Normal),Normal,100,80.0,"""Ariel"" youth movement","Address: 17 Even Sapir St.
+Shelter No: 961
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: ""Ariel"" youth movement",,31.780544,35.2111392
+,,", Jerusalem, Israel","31.768319, 35.21371",Yes,  (Normal),Normal,,,,,,31.768319,35.21371
+813,7 Kdoshei Struma St.,"7 Kdoshei Struma St., Jerusalem, Israel","31.7553963, 35.1832669",Yes, 7 Kdoshei Struma St. (Normal),Normal,,96.0,"Youth Promotion Department, Jerusalem Municipality","Address: 7 Kdoshei Struma St.
+Shelter No: 813
+Active?: Yes
+Shelter Type: Normal
+Area: nan
+Capacity: 96.0
+Operator: Youth Promotion Department, Jerusalem Municipality",,31.7553963,35.1832669
+624,17 Lapidot St.,"17 Lapidot St., Jerusalem, Israel","31.7891759, 35.2215989",Yes, 17 Lapidot St. (Most Protected),Most Protected,40,32.0,"Emergency and Security Division, Jerusalem Municipality","Address: 17 Lapidot St.
+Shelter No: 624
+Active?: Yes
+Shelter Type: Most Protected
+Area: 40
+Capacity: 32.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7891759,35.2215989
+632,87 Me'a She'arim St.,"87 Me'a She'arim St., Jerusalem, Israel","31.7856464, 35.2246079",Yes, 87 Me'a She'arim St. (Normal),Normal,80,64.0,"Emergency and Security Division, Jerusalem Municipality","Address: 87 Me'a She'arim St.
+Shelter No: 632
+Active?: Yes
+Shelter Type: Normal
+Area: 80
+Capacity: 64.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7856464,35.2246079
+826,6 Otsar HaSfarim St.,"6 Otsar HaSfarim St., Jerusalem, Israel","31.786634, 35.225261",Yes, 6 Otsar HaSfarim St. (Normal),Normal,150,120.0,"""Moreshet HaNahal"" yeshiva","Address: 6 Otsar HaSfarim St.
+Shelter No: 826
+Active?: Yes
+Shelter Type: Normal
+Area: 150
+Capacity: 120.0
+Operator: ""Moreshet HaNahal"" yeshiva",,31.786634,35.225261
+641,25 Kfar Nahum St.,"25 Kfar Nahum St., Jerusalem, Israel","31.7890854, 35.2142324",Yes, 25 Kfar Nahum St. (Normal),Normal,180,144.0,"""HaMeor Nativ Kodesh"" organization","Address: 25 Kfar Nahum St.
+Shelter No: 641
+Active?: Yes
+Shelter Type: Normal
+Area: 180
+Capacity: 144.0
+Operator: ""HaMeor Nativ Kodesh"" organization",,31.7890854,35.2142324
+643,73 Malkei Israel St.,"73 Malkei Israel St., Jerusalem, Israel","31.7905859, 35.2108421",Yes, 73 Malkei Israel St. (Normal),Normal,400,320.0,"Emergency and Security Division, Jerusalem Municipality","Address: 73 Malkei Israel St.
+Shelter No: 643
+Active?: Yes
+Shelter Type: Normal
+Area: 400
+Capacity: 320.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7905859,35.2108421
+806,12 Gesher HaHaim St.,"12 Gesher HaHaim St., Jerusalem, Israel","31.7923283, 35.2106119",No ⚠️,INACTIVE! 12 Gesher HaHaim St. (Normal),Normal,,152.0,"Emergency and Security Division, Jerusalem Municipality","Address: 12 Gesher HaHaim St.
+Shelter No: 806
+Active?: No ⚠️
+Shelter Type: Normal
+Area: nan
+Capacity: 152.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7923283,35.2106119
+812,109 Rashi St.,"109 Rashi St., Jerusalem, Israel","31.7887194, 35.2073697",Yes, 109 Rashi St. (Normal),Normal,110,88.0,"Emergency and Security Division, Jerusalem Municipality","Address: 109 Rashi St.
+Shelter No: 812
+Active?: Yes
+Shelter Type: Normal
+Area: 110
+Capacity: 88.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7887194,35.2073697
+839,14 Tashbatz St.,"14 Tashbatz St., Jerusalem, Israel","31.768319, 35.21371",Yes, 14 Tashbatz St. (Normal),Normal,100,80.0,"Emergency and Security Division, Jerusalem Municipality","Address: 14 Tashbatz St.
+Shelter No: 839
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.768319,35.21371
+909,7 Yehuda HaMaccabi St.,"7 Yehuda HaMaccabi St., Jerusalem, Israel","31.7886079, 35.2094317",Yes, 7 Yehuda HaMaccabi St. (Normal),Normal,120,96.0,"Toar Gallery, Culture Division, Jerusalem Municipality","Address: 7 Yehuda HaMaccabi St.
+Shelter No: 909
+Active?: Yes
+Shelter Type: Normal
+Area: 120
+Capacity: 96.0
+Operator: Toar Gallery, Culture Division, Jerusalem Municipality",,31.7886079,35.2094317
+706,42 Mekor Haim St.,"42 Mekor Haim St., Jerusalem, Israel","31.7538027, 35.2108813",No ⚠️,INACTIVE! 42 Mekor Haim St. (Most Protected),Most Protected,,36.0,"Emergency and Security Division, Jerusalem Municipality","Address: 42 Mekor Haim St.
+Shelter No: 706
+Active?: No ⚠️
+Shelter Type: Most Protected
+Area: nan
+Capacity: 36.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7538027,35.2108813
+653,3 Mishmarot St.,"3 Mishmarot St., Jerusalem, Israel","31.7821772, 35.2265998",Yes, 3 Mishmarot St. (Most Protected),Most Protected,40,32.0,"Emergency and Security Division, Jerusalem Municipality","Address: 3 Mishmarot St.
+Shelter No: 653
+Active?: Yes
+Shelter Type: Most Protected
+Area: 40
+Capacity: 32.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7821772,35.2265998
+751,10 HaAyin Het St.,"10 HaAyin Het St., Jerusalem, Israel","31.7829253, 35.2264168",Yes, 10 HaAyin Het St. (Normal),Normal,,80.0,Musrara photography school,"Address: 10 HaAyin Het St.
+Shelter No: 751
+Active?: Yes
+Shelter Type: Normal
+Area: nan
+Capacity: 80.0
+Operator: Musrara photography school",,31.7829253,35.2264168
+752,21 HaAyin Het St.,"21 HaAyin Het St., Jerusalem, Israel","31.7813353, 35.2267942",Yes, 21 HaAyin Het St. (Normal),Normal,100,80.0,Musrara photography school,"Address: 21 HaAyin Het St.
+Shelter No: 752
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Musrara photography school",,31.7813353,35.2267942
+753,16 Kheil HaHandasa St.,"16 Kheil HaHandasa St., Jerusalem, Israel","31.7857459, 35.2271006",Yes, 16 Kheil HaHandasa St. (Normal),Normal,100,80.0,Eshkolot Community Administration,"Address: 16 Kheil HaHandasa St.
+Shelter No: 753
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Eshkolot Community Administration",,31.7857459,35.2271006
+657,21 Tsfat St.,"21 Tsfat St., Jerusalem, Israel","31.768319, 35.21371",Yes, 21 Tsfat St. (Normal),Normal,,400.0,"Society Division of Jerusalem Municipality, ""Ariel"" youth movement","Address: 21 Tsfat St.
+Shelter No: 657
+Active?: Yes
+Shelter Type: Normal
+Area: nan
+Capacity: 400.0
+Operator: Society Division of Jerusalem Municipality, ""Ariel"" youth movement",,31.768319,35.21371
+939,17 Neve Sha'anan St.,"17 Neve Sha'anan St., Jerusalem, Israel","31.7720169, 35.2010572",Yes, 17 Neve Sha'anan St. (Normal),Normal,100,80.0,"Koom-Koom Theatre, Culture Division, Jerusalem Municipality","Address: 17 Neve Sha'anan St.
+Shelter No: 939
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Koom-Koom Theatre, Culture Division, Jerusalem Municipality",,31.7720169,35.2010572
+669,42 HaPalmach St.,"42 HaPalmach St., Jerusalem, Israel","31.7663944, 35.2089015",Yes, 42 HaPalmach St. (Most Protected),Most Protected,130,104.0,,,,31.7663944,35.2089015
+671,22 Kaf Tet BeNovember St.,"22 Kaf Tet BeNovember St., Jerusalem, Israel","31.7662127, 35.2138254",Yes, 22 Kaf Tet BeNovember St. (Normal),Normal,160,128.0,"Emergency and Security Division, Jerusalem Municipality","Address: 22 Kaf Tet BeNovember St.
+Shelter No: 671
+Active?: Yes
+Shelter Type: Normal
+Area: 160
+Capacity: 128.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7662127,35.2138254
+696,3 Reish Lakish St.,"3 Reish Lakish St., Jerusalem, Israel","31.7610918, 35.2133427",Yes, 3 Reish Lakish St. (Normal),Normal,164,131.0,"Emergency and Security Division, Jerusalem Municipality","Address: 3 Reish Lakish St.
+Shelter No: 696
+Active?: Yes
+Shelter Type: Normal
+Area: 164
+Capacity: 131.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7610918,35.2133427
+702,12 Halafta St.,"12 Halafta St., Jerusalem, Israel","31.768319, 35.21371",Yes, 12 Halafta St. (Normal),Normal,380,304.0,"Emergency and Security Division, Jerusalem Municipality","Address: 12 Halafta St.
+Shelter No: 702
+Active?: Yes
+Shelter Type: Normal
+Area: 380
+Capacity: 304.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.768319,35.21371
+703,53 Yohanan Ben Zakai St.,"53 Yohanan Ben Zakai St., Jerusalem, Israel","31.759067, 35.209515",Yes, 53 Yohanan Ben Zakai St. (Normal),Normal,170,136.0,"""Zchut Avot"" synagogue","Address: 53 Yohanan Ben Zakai St.
+Shelter No: 703
+Active?: Yes
+Shelter Type: Normal
+Area: 170
+Capacity: 136.0
+Operator: ""Zchut Avot"" synagogue",,31.759067,35.209515
+923,15 Elazar HaModa'i St.,"15 Elazar HaModa'i St., Jerusalem, Israel","31.761699, 35.213869",No ⚠️,INACTIVE! 15 Elazar HaModa'i St. (Normal),Normal,100,80.0,"Youth Advancement Department, Society Division, Jerusalem Municipality","Address: 15 Elazar HaModa'i St.
+Shelter No: 923
+Active?: No ⚠️
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Youth Advancement Department, Society Division, Jerusalem Municipality",,31.761699,35.213869
+937,38 Hizkiyahu HaMelech St.,"38 Hizkiyahu HaMelech St., Jerusalem, Israel","31.7614742, 35.2096607",Yes, 38 Hizkiyahu HaMelech St. (Normal),Normal,100,80.0,"Youth Promotion Department, Education Division, Jerusalem Municipality","Address: 38 Hizkiyahu HaMelech St.
+Shelter No: 937
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Youth Promotion Department, Education Division, Jerusalem Municipality",,31.7614742,35.2096607
+658,13 Ibn Ezra St.,"13 Ibn Ezra St., Jerusalem, Israel","31.7755397, 35.21406169999999",Yes, 13 Ibn Ezra St. (Normal),Normal,80,64.0,"Emergency and Security Division, Jerusalem Municipality","Address: 13 Ibn Ezra St.
+Shelter No: 658
+Active?: Yes
+Shelter Type: Normal
+Area: 80
+Capacity: 64.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7755397,35.21406169999999
+659,15 Ibn Gabirol St.,"15 Ibn Gabirol St., Jerusalem, Israel","31.7750922, 35.2154157",Yes, 15 Ibn Gabirol St. (Normal),Normal,160,128.0,"Emergency and Security Division, Jerusalem Municipality","Address: 15 Ibn Gabirol St.
+Shelter No: 659
+Active?: Yes
+Shelter Type: Normal
+Area: 160
+Capacity: 128.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7750922,35.2154157
+809,9 Rashba St.,"9 Rashba St., Jerusalem, Israel","31.7732355, 35.210743",Yes, 9 Rashba St. (Normal),Normal,90,72.0,"Emergency and Security Division, Jerusalem Municipality","Address: 9 Rashba St.
+Shelter No: 809
+Active?: Yes
+Shelter Type: Normal
+Area: 90
+Capacity: 72.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7732355,35.210743
+810,9 Ovadia MeBartenora St.,"9 Ovadia MeBartenora St., Jerusalem, Israel","31.768319, 35.21371",Yes, 9 Ovadia MeBartenora St. (Normal),Normal,150,120.0,"Emergency and Security Division, Jerusalem Municipality","Address: 9 Ovadia MeBartenora St.
+Shelter No: 810
+Active?: Yes
+Shelter Type: Normal
+Area: 150
+Capacity: 120.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.768319,35.21371
+816,50 Azza St.,"50 Azza St., Jerusalem, Israel","31.771597, 35.2123937",Yes, 50 Azza St. (Normal),Normal,120,96.0,"Holocaust survivors' organization, Jerusalem","Address: 50 Azza St.
+Shelter No: 816
+Active?: Yes
+Shelter Type: Normal
+Area: 120
+Capacity: 96.0
+Operator: Holocaust survivors' organization, Jerusalem",,31.771597,35.2123937
+835,18 Arlozorov St.,"18 Arlozorov St., Jerusalem, Israel","31.7722083, 35.2159381",Yes, 18 Arlozorov St. (Normal),Normal,190,152.0,"Emergency and Security Division, Jerusalem Municipality","Address: 18 Arlozorov St.
+Shelter No: 835
+Active?: Yes
+Shelter Type: Normal
+Area: 190
+Capacity: 152.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7722083,35.2159381
+972,26 AlHarizi St.,"26 AlHarizi St., Jerusalem, Israel","31.7762631, 35.2142136",Yes, 26 AlHarizi St. (Normal),Normal,100,80.0,"""Beit Yael"", Culture Division, Jerusalem Municipality","Address: 26 AlHarizi St.
+Shelter No: 972
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: ""Beit Yael"", Culture Division, Jerusalem Municipality",,31.7762631,35.2142136
+606,1 Pnina St.,"1 Pnina St., Jerusalem, Israel","31.7955884, 35.2144938",Yes, 1 Pnina St. (Normal),Normal,80,64.0,"Emergency and Security Division, Jerusalem Municipality","Address: 1 Pnina St.
+Shelter No: 606
+Active?: Yes
+Shelter Type: Normal
+Area: 80
+Capacity: 64.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7955884,35.2144938
+750,5 Zichron Ya'akov St.,"5 Zichron Ya'akov St., Jerusalem, Israel","31.7959485, 35.200855",Yes, 5 Zichron Ya'akov St. (Normal),Normal,130,104.0,Romema Community Administration,"Address: 5 Zichron Ya'akov St.
+Shelter No: 750
+Active?: Yes
+Shelter Type: Normal
+Area: 130
+Capacity: 104.0
+Operator: Romema Community Administration",,31.7959485,35.200855
+933,38 HaMem Gimel St.,"38 HaMem Gimel St., Jerusalem, Israel","31.795975449402956, 35.19912403744151",Yes, 38 HaMem Gimel St. (Normal),Normal,100,80.0,"""Lev Malka"" organization","Address: 38 HaMem Gimel St.
+Shelter No: 933
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: ""Lev Malka"" organization",,31.79597544940296,35.19912403744151
+975 A,15 Zichron Ya'akov St.,"15 Zichron Ya'akov St., Jerusalem, Israel","31.794477, 35.2017481",Yes, 15 Zichron Ya'akov St. (Normal),Normal,50,40.0,"Emergency and Security Division, Jerusalem Municipality","Address: 15 Zichron Ya'akov St.
+Shelter No: 975 A
+Active?: Yes
+Shelter Type: Normal
+Area: 50
+Capacity: 40.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.794477,35.2017481
+975 B,17 Zichron Ya'akov St.,"17 Zichron Ya'akov St., Jerusalem, Israel","31.794189, 35.202044",Yes, 17 Zichron Ya'akov St. (Normal),Normal,50,40.0,"""Drachei Miryam"" organization","Address: 17 Zichron Ya'akov St.
+Shelter No: 975 B
+Active?: Yes
+Shelter Type: Normal
+Area: 50
+Capacity: 40.0
+Operator: ""Drachei Miryam"" organization",,31.794189,35.202044
+975 C,19 Zichron Ya'akov St.,"19 Zichron Ya'akov St., Jerusalem, Israel","31.7939548, 35.2022222",Yes, 19 Zichron Ya'akov St. (Normal),Normal,50,40.0,"""Lev Malka"" organization","Address: 19 Zichron Ya'akov St.
+Shelter No: 975 C
+Active?: Yes
+Shelter Type: Normal
+Area: 50
+Capacity: 40.0
+Operator: ""Lev Malka"" organization",,31.7939548,35.2022222
+975 D,21 Zichron Ya'akov St.,"21 Zichron Ya'akov St., Jerusalem, Israel","31.79351729999999, 35.2022077",Yes, 21 Zichron Ya'akov St. (Normal),Normal,50,40.0,"Emergency and Security Division, Jerusalem Municipality","Address: 21 Zichron Ya'akov St.
+Shelter No: 975 D
+Active?: Yes
+Shelter Type: Normal
+Area: 50
+Capacity: 40.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.79351729999999,35.2022077
+979,10 Zichron Ya'akov St.,"10 Zichron Ya'akov St., Jerusalem, Israel","31.7951012, 35.201072",Yes, 10 Zichron Ya'akov St. (Normal),Normal,100,80.0,"""Hanichei HaYeshivot Romema"" synagogue","Address: 10 Zichron Ya'akov St.
+Shelter No: 979
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: ""Hanichei HaYeshivot Romema"" synagogue",,31.7951012,35.201072
+601,1 Gan Sanhedrin St.,"1 Gan Sanhedrin St., Jerusalem, Israel","31.768319, 35.21371",Yes, 1 Gan Sanhedrin St. (Most Protected),Most Protected,,36.0,"""Mishkolitz"" institutions","Address: 1 Gan Sanhedrin St.
+Shelter No: 601
+Active?: Yes
+Shelter Type: Most Protected
+Area: nan
+Capacity: 36.0
+Operator: ""Mishkolitz"" institutions",,31.768319,35.21371
+602,6 HaSanhedrin St.,"6 HaSanhedrin St., Jerusalem, Israel","31.7974743, 35.218736",Yes, 6 HaSanhedrin St. (Most Protected),Most Protected,100,80.0,"""Hasidei Morditz"" yeshiva","Address: 6 HaSanhedrin St.
+Shelter No: 602
+Active?: Yes
+Shelter Type: Most Protected
+Area: 100
+Capacity: 80.0
+Operator: ""Hasidei Morditz"" yeshiva",,31.7974743,35.218736
+603,10 HaRav Bloy St.,"10 HaRav Bloy St., Jerusalem, Israel","31.7975895794426, 35.21998578921934",Yes, 10 HaRav Bloy St. (Normal),Normal,120,96.0,"Emergency and Security Division, Jerusalem Municipality","Address: 10 HaRav Bloy St.
+Shelter No: 603
+Active?: Yes
+Shelter Type: Normal
+Area: 120
+Capacity: 96.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7975895794426,35.21998578921934
+604,8 Shimon Hacham St.,"8 Shimon Hacham St., Jerusalem, Israel","31.758381268528552, 35.22052787976961",Yes, 8 Shimon Hacham St. (Normal),Normal,100,80.0,"Emergency and Security Division, Jerusalem Municipality","Address: 8 Shimon Hacham St.
+Shelter No: 604
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.758381268528552,35.22052787976961
+605,2 Bar Ilan St.,"2 Bar Ilan St., Jerusalem, Israel","31.7957202, 35.2194817",Yes, 2 Bar Ilan St. (Normal),Normal,500,400.0,"Emergency and Security Division, Jerusalem Municipality","Address: 2 Bar Ilan St.
+Shelter No: 605
+Active?: Yes
+Shelter Type: Normal
+Area: 500
+Capacity: 400.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7957202,35.2194817
+616,61 Shmuel Hanavi St.,"61 Shmuel Hanavi St., Jerusalem, Israel","31.792465, 35.2231386",Yes, 61 Shmuel Hanavi St. (Normal),Normal,,80.0,"Emergency and Security Division, Jerusalem Municipality","Address: 61 Shmuel Hanavi St.
+Shelter No: 616
+Active?: Yes
+Shelter Type: Normal
+Area: nan
+Capacity: 80.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.792465,35.2231386
+617,3 Gmul St.,"3 Gmul St., Jerusalem, Israel","31.79041579999999, 35.2250634",Yes, 3 Gmul St. (Normal),Normal,40,32.0,"""Iyun Uvracha"" organization","Address: 3 Gmul St.
+Shelter No: 617
+Active?: Yes
+Shelter Type: Normal
+Area: 40
+Capacity: 32.0
+Operator: ""Iyun Uvracha"" organization",,31.79041579999999,35.2250634
+618,66 Shmuel HaNavi St.,"66 Shmuel HaNavi St., Jerusalem, Israel","31.7928334, 35.2231139",Yes, 66 Shmuel HaNavi St. (Normal),Normal,110,137.0,"""Ohalei Ya'akov"" synagogue","Address: 66 Shmuel HaNavi St.
+Shelter No: 618
+Active?: Yes
+Shelter Type: Normal
+Area: 110
+Capacity: 137.0
+Operator: ""Ohalei Ya'akov"" synagogue",,31.7928334,35.2231139
+957,19 Avinadav St.,"19 Avinadav St., Jerusalem, Israel","31.7945714, 35.2189116",Yes, 19 Avinadav St. (Normal),Normal,450,360.0,"""Agudat Or HaTzafon"" synagogue","Address: 19 Avinadav St.
+Shelter No: 957
+Active?: Yes
+Shelter Type: Normal
+Area: 450
+Capacity: 360.0
+Operator: ""Agudat Or HaTzafon"" synagogue",,31.7945714,35.2189116
+997,Shikunei Nuseiba,"Shikunei Nuseiba, Jerusalem, Israel","31.839027, 35.225668",No ⚠️,INACTIVE! Shikunei Nuseiba (Normal),Normal,100,80.0,"Emergency and Security Division, Jerusalem Municipality","Address: Shikunei Nuseiba
+Shelter No: 997
+Active?: No ⚠️
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.839027,35.225668
+656,19 Keren HaYesod St.,"19 Keren HaYesod St., Jerusalem, Israel","31.7738517, 35.2195315",Yes, 19 Keren HaYesod St. (Most Protected),Most Protected,250,200.0,"Emergency and Security Division, Jerusalem Municipality","Address: 19 Keren HaYesod St.
+Shelter No: 656
+Active?: Yes
+Shelter Type: Most Protected
+Area: 250
+Capacity: 200.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7738517,35.2195315
+807,7 Benjamin Disraeli St.,"7 Benjamin Disraeli St., Jerusalem, Israel","31.7699588, 35.2180323",Yes, 7 Benjamin Disraeli St. (Normal),Normal,115,92.0,"Emergency and Security Division, Jerusalem Municipality","Address: 7 Benjamin Disraeli St.
+Shelter No: 807
+Active?: Yes
+Shelter Type: Normal
+Area: 115
+Capacity: 92.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7699588,35.2180323
+679,59 Hebron Rd.,"59 Hebron Rd., Jerusalem, Israel","31.7634002, 35.2256433",Yes, 59 Hebron Rd. (Normal),Normal,200,160.0,"Emergency and Security Division, Jerusalem Municipality","Address: 59 Hebron Rd.
+Shelter No: 679
+Active?: Yes
+Shelter Type: Normal
+Area: 200
+Capacity: 160.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7634002,35.2256433
+688,18 Efrata St.,"18 Efrata St., Jerusalem, Israel","31.7525005, 35.2218446",Yes, 18 Efrata St. (Normal),Normal,200,160.0,"Emergency and Security Division, Jerusalem Municipality","Address: 18 Efrata St.
+Shelter No: 688
+Active?: Yes
+Shelter Type: Normal
+Area: 200
+Capacity: 160.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.7525005,35.2218446
+689,10 Ben Gavriel St.,"10 Ben Gavriel St., Jerusalem, Israel","31.74913129999999, 35.2200234",Yes, 10 Ben Gavriel St. (Normal),Normal,90,72.0,"Emergency and Security Division, Jerusalem Municipality","Address: 10 Ben Gavriel St.
+Shelter No: 689
+Active?: Yes
+Shelter Type: Normal
+Area: 90
+Capacity: 72.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.74913129999999,35.2200234
+690,12 Klausner St.,"12 Klausner St., Jerusalem, Israel","31.74900199999999, 35.2234756",No ⚠️,INACTIVE! 12 Klausner St. (Normal),Normal,240,192.0,"Emergency and Security Division, Jerusalem Municipality","Address: 12 Klausner St.
+Shelter No: 690
+Active?: No ⚠️
+Shelter Type: Normal
+Area: 240
+Capacity: 192.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.74900199999999,35.2234756
+691,93 Bethlehem Rd.,"93 Bethlehem Rd., Jerusalem, Israel","31.768319, 35.21371",Yes, 93 Bethlehem Rd. (Normal),Normal,440,352.0,"Emergency and Security Division, Jerusalem Municipality","Address: 93 Bethlehem Rd.
+Shelter No: 691
+Active?: Yes
+Shelter Type: Normal
+Area: 440
+Capacity: 352.0
+Operator: Emergency and Security Division, Jerusalem Municipality",,31.768319,35.21371
+940,17 Shalom Yehuda St.,"17 Shalom Yehuda St., Jerusalem, Israel","31.7511624, 35.2200792",Yes, 17 Shalom Yehuda St. (Normal),Normal,100,80.0,"""Ezra"" youth movement","Address: 17 Shalom Yehuda St.
+Shelter No: 940
+Active?: Yes
+Shelter Type: Normal
+Area: 100
+Capacity: 80.0
+Operator: ""Ezra"" youth movement",,31.7511624,35.2200792
+928,8 Pri Hadash St.,"8 Pri Hadash St., Jerusalem, Israel","31.7872212, 35.2175901",Yes, 8 Pri Hadash St. (Normal),Normal,130,104.0,"""Or Leah"" organization","Address: 8 Pri Hadash St.
+Shelter No: 928
+Active?: Yes
+Shelter Type: Normal
+Area: 130
+Capacity: 104.0
+Operator: ""Or Leah"" organization",,31.7872212,35.2175901
