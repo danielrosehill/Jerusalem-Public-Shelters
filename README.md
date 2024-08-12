@@ -1,14 +1,14 @@
 # Jerusalem Public Shelters URLs
 
-## ⚠️ Update Dates: Make Sure To Check Them!
+## ⚠️ Last Update: 12-08-24 (Aug 12, 2024) ⚠️
 
 The update dates for the data is displayed through the folder structure in the format `dd-mm-yyyy` (day, month, year).
 
-## ⚠️ Disclaimer
+## ⚠️ Disclaimer: Non-Governmental Source! ⚠️
 
 The data provided in this repository is reproduced in accordance with the licensing terms of the original data providers. 
 
-However, users are advised that this data should not be relied upon for personal preparedness efforts or decision-making. 
+**However, users are advised that this data should not be relied upon for personal preparedness efforts or decision-making.**
 
 The repository author offers no warranty as to the accuracy, completeness, or reliability of the data. Use of the data is at your own risk, and the repository author assumes no responsibility for any consequences arising from its use.
 
@@ -39,6 +39,12 @@ The repository author offers no warranty as to the accuracy, completeness, or re
 
 
 ## Sources
+
+## Geocoding
+
+Google Maps API + manual fixes
+
+## Shelter Locations
 
 ### Last Update
 
