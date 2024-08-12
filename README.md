@@ -6,19 +6,14 @@ The update dates for the data is displayed through the folder structure in the f
 
 ## Online Links 
 
-### Google Map
-
 <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps">
 
 
-
-[Google Maps](https://goo.gl/maps/gBwbmNW5gFFTzm2BA)
-
-### ArcGIS
+[Click Here To Open](https://goo.gl/maps/gBwbmNW5gFFTzm2BA)
 
 <img src="https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS">
 
-[ArcGIS](https://www.arcgis.com/apps/mapviewer/index.html?webmap=dee2adae16f04be387d9dc71266f7f52)
+[Click Here To Open](https://www.arcgis.com/apps/mapviewer/index.html?webmap=dee2adae16f04be387d9dc71266f7f52)
 
 ## ⚠️ Disclaimer: Non-Governmental Source! ⚠️
 
